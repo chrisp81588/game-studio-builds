@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-30 16:51",
+ "generated_utc": "2026-10-30 16:57",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-7.md",
  "commits": [
+  {
+   "sha": "1d4bd0c",
+   "time_utc": "2026-10-30 16:54",
+   "who": "Claude (Builder B)",
+   "what": "Settings: effects volume, guide replay, credits; How to play for legendaries"
+  },
   {
    "sha": "d45a128",
    "time_utc": "2026-10-30 12:48",
@@ -170,18 +176,6 @@
    "time_utc": "2026-10-29 20:30",
    "who": "Christopher Platt",
    "what": "Playtest report: laptop 11 (perf 58-60 FPS, King falls round 4, Chrome closed mid-run)"
-  },
-  {
-   "sha": "2f20f4a",
-   "time_utc": "2026-10-30 00:08",
-   "who": "Claude",
-   "what": "Plan: front screen landed; Builder B's hub follow-ups"
-  },
-  {
-   "sha": "939824b",
-   "time_utc": "2026-10-30 00:08",
-   "who": "Claude",
-   "what": "Menu: island world at golden hour, camera drift, scrollable Roadmap with Back on top, Escape closes panels, How-to Back on top"
   }
  ]
 }
