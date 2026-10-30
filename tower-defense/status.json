@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-30 21:05",
+ "generated_utc": "2026-10-30 21:27",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "64f62bd",
+   "time_utc": "2026-10-30 21:22",
+   "who": "Claude",
+   "what": "Legendary towers get their own look and attack animations in the island view"
+  },
   {
    "sha": "5de31e3",
    "time_utc": "2026-10-30 21:00",
@@ -158,12 +164,6 @@
    "time_utc": "2026-10-30 04:53",
    "who": "Claude (Builder B)",
    "what": "Brainstorm log: drop stray blank lines"
-  },
-  {
-   "sha": "14df7c4",
-   "time_utc": "2026-10-30 04:53",
-   "who": "Claude (Builder B)",
-   "what": "Legendary talent screen; tower badge on the legendary face; placement reminder"
   }
  ]
 }
