@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-30 15:46",
+ "generated_utc": "2026-10-30 16:51",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-10-30-laptop-6.md",
+ "latest_report": "2026-10-30-laptop-7.md",
  "commits": [
+  {
+   "sha": "d45a128",
+   "time_utc": "2026-10-30 12:48",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 7 on 10/30 (perf 57-60 FPS, King falls round 7)"
+  },
   {
    "sha": "7f977b0",
    "time_utc": "2026-10-30 15:43",
@@ -176,12 +182,6 @@
    "time_utc": "2026-10-30 00:08",
    "who": "Claude",
    "what": "Menu: island world at golden hour, camera drift, scrollable Roadmap with Back on top, Escape closes panels, How-to Back on top"
-  },
-  {
-   "sha": "1a04c6c",
-   "time_utc": "2026-10-29 23:57",
-   "who": "Claude",
-   "what": "Hub tiles: Cinzel initials instead of symbol glyphs the font lacks"
   }
  ]
 }
