@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-30 23:37",
+ "generated_utc": "2026-10-30 23:40",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "5f57375",
+   "time_utc": "2026-10-30 23:35",
+   "who": "Claude",
+   "what": "Tile cards spell out tower passives and unit spells (slow, aura, melee sweep, splash, targeting; heal, shield, debuff, flying)"
+  },
   {
    "sha": "a78de98",
    "time_utc": "2026-10-30 23:32",
@@ -158,12 +164,6 @@
    "time_utc": "2026-10-30 09:49",
    "who": "Claude",
    "what": "Legendary step 2: remove the walking hero from the sim, bots, tests and balance sheet"
-  },
-  {
-   "sha": "af9b595",
-   "time_utc": "2026-10-30 04:46",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 3 on 10/30 (perf 58-60 FPS, King falls round 7)"
   }
  ]
 }
