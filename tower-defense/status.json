@@ -1,8 +1,32 @@
 {
- "generated_utc": "2026-10-30 21:30",
+ "generated_utc": "2026-10-30 23:37",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "a78de98",
+   "time_utc": "2026-10-30 23:32",
+   "who": "Claude",
+   "what": "Legendary reach is map-driven: ranged covers ~90% of the road from its best pad, melee ~1/3"
+  },
+  {
+   "sha": "8265bab",
+   "time_utc": "2026-10-30 22:55",
+   "who": "Claude (Builder B)",
+   "what": "Legendary attack and cast sounds; send line wording; end screen at 30 fps"
+  },
+  {
+   "sha": "68696db",
+   "time_utc": "2026-10-30 18:32",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 10 on 10/30 (perf 57-60 FPS, King falls round 8, page crash on end screen)"
+  },
+  {
+   "sha": "4fe6ef1",
+   "time_utc": "2026-10-30 22:19",
+   "who": "Claude",
+   "what": "Ranged legendaries reach 8.0; faster early economy (170 start, 18 base income)"
+  },
   {
    "sha": "6e870d4",
    "time_utc": "2026-10-30 21:25",
@@ -140,30 +164,6 @@
    "time_utc": "2026-10-30 04:46",
    "who": "Christopher Platt",
    "what": "Playtest report: laptop 3 on 10/30 (perf 58-60 FPS, King falls round 7)"
-  },
-  {
-   "sha": "9e00450",
-   "time_utc": "2026-10-30 07:55",
-   "who": "Claude (Builder B)",
-   "what": "View drops the walking hero; legendary step 2 is clear on the view side"
-  },
-  {
-   "sha": "9050a25",
-   "time_utc": "2026-10-30 02:50",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 2 on 10/30 (perf 58-60 FPS, King falls round 5)"
-  },
-  {
-   "sha": "023f67b",
-   "time_utc": "2026-10-30 06:27",
-   "who": "Claude",
-   "what": "Harness rule 6: a guessing player survives Easy; levers tried, data unchanged"
-  },
-  {
-   "sha": "6bd7c95",
-   "time_utc": "2026-10-30 04:54",
-   "who": "Claude (Builder B)",
-   "what": "README: Builder B hero-reference removal plan for Builder A's step 2"
   }
  ]
 }
