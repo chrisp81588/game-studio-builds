@@ -1,0 +1,187 @@
+{
+ "generated_utc": "2026-10-30 15:46",
+ "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
+ "latest_report": "2026-10-30-laptop-6.md",
+ "commits": [
+  {
+   "sha": "7f977b0",
+   "time_utc": "2026-10-30 15:43",
+   "who": "Claude",
+   "what": "CI: publish status.json with the build so an hourly update can read progress without repo access"
+  },
+  {
+   "sha": "3a04292",
+   "time_utc": "2026-10-30 15:33",
+   "who": "Claude",
+   "what": "Faction 4 Free Crowns (hidden wip) with Retool; bots retool; balance sheet Retool line"
+  },
+  {
+   "sha": "b38da3c",
+   "time_utc": "2026-10-30 11:28",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 6 on 10/30 (perf 57-60 FPS, King falls round 7)"
+  },
+  {
+   "sha": "28fcc25",
+   "time_utc": "2026-10-30 14:44",
+   "who": "Claude",
+   "what": "Sound pass: real Kenney effects in sfx.gd, unused audio removed, credits line in data"
+  },
+  {
+   "sha": "1f7bfc3",
+   "time_utc": "2026-10-30 10:08",
+   "who": "Christopher Platt",
+   "what": "Assets: Kenney CC0 audio packs (UI, impact, RPG) for the sound pass"
+  },
+  {
+   "sha": "d32847f",
+   "time_utc": "2026-10-30 13:55",
+   "who": "Claude (Builder B)",
+   "what": "Hub area icons; legendary info card with picked talents"
+  },
+  {
+   "sha": "c8b0e36",
+   "time_utc": "2026-10-30 08:55",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 5 on 10/30 (perf 58-60 FPS, lane view fixed, King falls round 5)"
+  },
+  {
+   "sha": "d265774",
+   "time_utc": "2026-10-30 12:36",
+   "who": "Claude",
+   "what": "Faction 3 Starborn as hidden work in progress; ranged legendary splash; per-race harness table"
+  },
+  {
+   "sha": "5e5f714",
+   "time_utc": "2026-10-30 11:43",
+   "who": "Claude",
+   "what": "Docs: path to Alpha (A1 legendaries complete, A2 content, A3 online, A4 progression; target Dec 5)"
+  },
+  {
+   "sha": "5f82ffd",
+   "time_utc": "2026-10-30 10:59",
+   "who": "Claude (Builder B)",
+   "what": "Lane view: the opening click no longer presses Back; HUD taps stop at the HUD"
+  },
+  {
+   "sha": "858deba",
+   "time_utc": "2026-10-30 06:40",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 4 on 10/30 (perf 57-60 FPS, King falls round 9)"
+  },
+  {
+   "sha": "5d525d4",
+   "time_utc": "2026-10-30 10:23",
+   "who": "Claude",
+   "what": "Send income scales with cost (round(cost*0.25)); test allows a full 20-round match"
+  },
+  {
+   "sha": "a48c437",
+   "time_utc": "2026-10-30 09:49",
+   "who": "Claude",
+   "what": "Legendary step 2: remove the walking hero from the sim, bots, tests and balance sheet"
+  },
+  {
+   "sha": "af9b595",
+   "time_utc": "2026-10-30 04:46",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 3 on 10/30 (perf 58-60 FPS, King falls round 7)"
+  },
+  {
+   "sha": "9e00450",
+   "time_utc": "2026-10-30 07:55",
+   "who": "Claude (Builder B)",
+   "what": "View drops the walking hero; legendary step 2 is clear on the view side"
+  },
+  {
+   "sha": "9050a25",
+   "time_utc": "2026-10-30 02:50",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 2 on 10/30 (perf 58-60 FPS, King falls round 5)"
+  },
+  {
+   "sha": "023f67b",
+   "time_utc": "2026-10-30 06:27",
+   "who": "Claude",
+   "what": "Harness rule 6: a guessing player survives Easy; levers tried, data unchanged"
+  },
+  {
+   "sha": "6bd7c95",
+   "time_utc": "2026-10-30 04:54",
+   "who": "Claude (Builder B)",
+   "what": "README: Builder B hero-reference removal plan for Builder A's step 2"
+  },
+  {
+   "sha": "9f48b1f",
+   "time_utc": "2026-10-30 04:53",
+   "who": "Claude (Builder B)",
+   "what": "Brainstorm log: drop stray blank lines"
+  },
+  {
+   "sha": "14df7c4",
+   "time_utc": "2026-10-30 04:53",
+   "who": "Claude (Builder B)",
+   "what": "Legendary talent screen; tower badge on the legendary face; placement reminder"
+  },
+  {
+   "sha": "7701f6f",
+   "time_utc": "2026-10-30 00:44",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 1 on 10/30 (perf 58-60 FPS, King falls round 6, live build still old hero tray)"
+  },
+  {
+   "sha": "3d2006c",
+   "time_utc": "2026-10-30 03:24",
+   "who": "Claude",
+   "what": "Harness: tester-like bot and rule 5; no legendary regression found"
+  },
+  {
+   "sha": "d0dc3a9",
+   "time_utc": "2026-10-30 02:49",
+   "who": "Claude",
+   "what": "Effect colors for the new skill and aura kinds; hub bar hides under sub-panels so Back is reachable"
+  },
+  {
+   "sha": "e29bd4a",
+   "time_utc": "2026-10-29 22:43",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 12 (perf 57-60 FPS, King falls round 7, live build still old HUD)"
+  },
+  {
+   "sha": "9850f5d",
+   "time_utc": "2026-10-30 01:57",
+   "who": "Claude (Builder B)",
+   "what": "Legendary tower screens, part 1: setup pick, placement, relocate, tray panel"
+  },
+  {
+   "sha": "453f196",
+   "time_utc": "2026-10-30 00:36",
+   "who": "Claude",
+   "what": "Legendary hero towers: sim, data, bots, tests (step 1)"
+  },
+  {
+   "sha": "d511826",
+   "time_utc": "2026-10-29 20:30",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop 11 (perf 58-60 FPS, King falls round 4, Chrome closed mid-run)"
+  },
+  {
+   "sha": "2f20f4a",
+   "time_utc": "2026-10-30 00:08",
+   "who": "Claude",
+   "what": "Plan: front screen landed; Builder B's hub follow-ups"
+  },
+  {
+   "sha": "939824b",
+   "time_utc": "2026-10-30 00:08",
+   "who": "Claude",
+   "what": "Menu: island world at golden hour, camera drift, scrollable Roadmap with Back on top, Escape closes panels, How-to Back on top"
+  },
+  {
+   "sha": "1a04c6c",
+   "time_utc": "2026-10-29 23:57",
+   "who": "Claude",
+   "what": "Hub tiles: Cinzel initials instead of symbol glyphs the font lacks"
+  }
+ ]
+}
