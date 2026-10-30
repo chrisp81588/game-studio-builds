@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-30 20:43",
+ "generated_utc": "2026-10-30 21:05",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "5de31e3",
+   "time_utc": "2026-10-30 21:00",
+   "who": "Claude",
+   "what": "Balance: brutes hit the King softer, Medium bots flood sends from round 4, late sends scale harder; legendaries 1.6x damage"
+  },
   {
    "sha": "3bf0544",
    "time_utc": "2026-10-30 16:40",
@@ -158,18 +164,6 @@
    "time_utc": "2026-10-30 04:53",
    "who": "Claude (Builder B)",
    "what": "Legendary talent screen; tower badge on the legendary face; placement reminder"
-  },
-  {
-   "sha": "7701f6f",
-   "time_utc": "2026-10-30 00:44",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 1 on 10/30 (perf 58-60 FPS, King falls round 6, live build still old hero tray)"
-  },
-  {
-   "sha": "3d2006c",
-   "time_utc": "2026-10-30 03:24",
-   "who": "Claude",
-   "what": "Harness: tester-like bot and rule 5; no legendary regression found"
   }
  ]
 }
