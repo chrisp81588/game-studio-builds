@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-31 10:36",
+ "generated_utc": "2026-10-31 12:28",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "cc95f09",
+   "time_utc": "2026-10-31 12:23",
+   "who": "Claude",
+   "what": "Builders plan: tester paused for budget, do not fire it; Builder B next: new ability lines"
+  },
   {
    "sha": "08a1384",
    "time_utc": "2026-10-31 10:31",
@@ -152,12 +158,6 @@
    "time_utc": "2026-10-30 10:08",
    "who": "Christopher Platt",
    "what": "Assets: Kenney CC0 audio packs (UI, impact, RPG) for the sound pass"
-  },
-  {
-   "sha": "d32847f",
-   "time_utc": "2026-10-30 13:55",
-   "who": "Claude (Builder B)",
-   "what": "Hub area icons; legendary info card with picked talents"
   }
  ]
 }
