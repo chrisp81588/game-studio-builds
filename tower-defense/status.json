@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-10-30 23:40",
+ "generated_utc": "2026-10-31 01:50",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "ba8e4d5",
+   "time_utc": "2026-10-30 21:44",
+   "who": "Christopher Platt",
+   "what": "Playtest report: laptop test 11 (2026-10-30)"
+  },
+  {
+   "sha": "14afd6f",
+   "time_utc": "2026-10-30 23:46",
+   "who": "Claude",
+   "what": "Free asset library: KayKit, Kenney, Poly Haven, game-icons and OpenGameArt CC0 packs with a catalog"
+  },
   {
    "sha": "5f57375",
    "time_utc": "2026-10-30 23:35",
@@ -152,18 +164,6 @@
    "time_utc": "2026-10-30 06:40",
    "who": "Christopher Platt",
    "what": "Playtest report: laptop 4 on 10/30 (perf 57-60 FPS, King falls round 9)"
-  },
-  {
-   "sha": "5d525d4",
-   "time_utc": "2026-10-30 10:23",
-   "who": "Claude",
-   "what": "Send income scales with cost (round(cost*0.25)); test allows a full 20-round match"
-  },
-  {
-   "sha": "a48c437",
-   "time_utc": "2026-10-30 09:49",
-   "who": "Claude",
-   "what": "Legendary step 2: remove the walking hero from the sim, bots, tests and balance sheet"
   }
  ]
 }
