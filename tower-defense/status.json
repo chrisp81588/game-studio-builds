@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-31 03:16",
+ "generated_utc": "2026-10-31 10:36",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "08a1384",
+   "time_utc": "2026-10-31 10:31",
+   "who": "Claude",
+   "what": "Send-unit abilities (swarm, charge, hide, windborne); harness median fix; balance sheet"
+  },
   {
    "sha": "eb15bb0",
    "time_utc": "2026-10-31 03:11",
@@ -152,12 +158,6 @@
    "time_utc": "2026-10-30 13:55",
    "who": "Claude (Builder B)",
    "what": "Hub area icons; legendary info card with picked talents"
-  },
-  {
-   "sha": "c8b0e36",
-   "time_utc": "2026-10-30 08:55",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 5 on 10/30 (perf 58-60 FPS, lane view fixed, King falls round 5)"
   }
  ]
 }
