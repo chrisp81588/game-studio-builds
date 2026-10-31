@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-10-31 01:50",
+ "generated_utc": "2026-10-31 02:16",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "5e9c80d",
+   "time_utc": "2026-10-31 02:11",
+   "who": "Claude",
+   "what": "Unit HP bars keep updating at the King; Golem shields show as a blue bar"
+  },
   {
    "sha": "ba8e4d5",
    "time_utc": "2026-10-30 21:44",
@@ -158,12 +164,6 @@
    "time_utc": "2026-10-30 10:59",
    "who": "Claude (Builder B)",
    "what": "Lane view: the opening click no longer presses Back; HUD taps stop at the HUD"
-  },
-  {
-   "sha": "858deba",
-   "time_utc": "2026-10-30 06:40",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 4 on 10/30 (perf 57-60 FPS, King falls round 9)"
   }
  ]
 }
