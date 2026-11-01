@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-01 12:32",
+ "generated_utc": "2026-11-01 16:02",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "b76d6ad",
+   "time_utc": "2026-11-01 15:56",
+   "who": "Claude (Builder B)",
+   "what": "End screen Share button; ghost files carry the full command log for replays"
+  },
   {
    "sha": "0270529",
    "time_utc": "2026-11-01 12:28",
@@ -158,12 +164,6 @@
    "time_utc": "2026-10-30 15:08",
    "who": "Christopher Platt",
    "what": "Playtest report: laptop 8 on 10/30 (perf 57-60 FPS, guide blocks first run, King falls round 7)"
-  },
-  {
-   "sha": "12ded03",
-   "time_utc": "2026-10-30 18:26",
-   "who": "Claude",
-   "what": "Second map Two Roads: short road and gate cell, map loading, bots plug the gate (hidden wip)"
   }
  ]
 }
