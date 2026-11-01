@@ -1,8 +1,32 @@
 {
- "generated_utc": "2026-10-31 12:28",
+ "generated_utc": "2026-11-01 01:13",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "607ddfd",
+   "time_utc": "2026-11-01 01:06",
+   "who": "Claude",
+   "what": "Four-faction balance sweep: race perks as data, Wildkin send bonus trimmed, Starborn legendary trim; harness --legend; tests read race data"
+  },
+  {
+   "sha": "51423a7",
+   "time_utc": "2026-10-31 21:58",
+   "who": "Claude (Builder B)",
+   "what": "Campaign in the hub: stage list, unlock chain, stage matches, Next stage"
+  },
+  {
+   "sha": "9f1e6c7",
+   "time_utc": "2026-10-31 18:34",
+   "who": "Claude",
+   "what": "Online play sim side: Commands, command log, Lockstep replay and desync check, state hash; bots on their own rng"
+  },
+  {
+   "sha": "e60569b",
+   "time_utc": "2026-10-31 17:26",
+   "who": "Claude (Builder B)",
+   "what": "Unit ability lines for swarm, charge, hide, windborne; cards on disabled tiles by touch"
+  },
   {
    "sha": "cc95f09",
    "time_utc": "2026-10-31 12:23",
@@ -134,30 +158,6 @@
    "time_utc": "2026-10-30 15:43",
    "who": "Claude",
    "what": "CI: publish status.json with the build so an hourly update can read progress without repo access"
-  },
-  {
-   "sha": "3a04292",
-   "time_utc": "2026-10-30 15:33",
-   "who": "Claude",
-   "what": "Faction 4 Free Crowns (hidden wip) with Retool; bots retool; balance sheet Retool line"
-  },
-  {
-   "sha": "b38da3c",
-   "time_utc": "2026-10-30 11:28",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 6 on 10/30 (perf 57-60 FPS, King falls round 7)"
-  },
-  {
-   "sha": "28fcc25",
-   "time_utc": "2026-10-30 14:44",
-   "who": "Claude",
-   "what": "Sound pass: real Kenney effects in sfx.gd, unused audio removed, credits line in data"
-  },
-  {
-   "sha": "1f7bfc3",
-   "time_utc": "2026-10-30 10:08",
-   "who": "Christopher Platt",
-   "what": "Assets: Kenney CC0 audio packs (UI, impact, RPG) for the sound pass"
   }
  ]
 }
