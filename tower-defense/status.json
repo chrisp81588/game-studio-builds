@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-01 06:28",
+ "generated_utc": "2026-11-01 10:01",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "7d3457a",
+   "time_utc": "2026-11-01 09:54",
+   "who": "Claude (Builder B)",
+   "what": "Critic pass 2-5: ribbon under the crest, wave icons, target line, King HP, setup portraits"
+  },
   {
    "sha": "c346805",
    "time_utc": "2026-11-01 06:22",
@@ -152,12 +158,6 @@
    "time_utc": "2026-10-30 18:26",
    "who": "Claude",
    "what": "Second map Two Roads: short road and gate cell, map loading, bots plug the gate (hidden wip)"
-  },
-  {
-   "sha": "1d4bd0c",
-   "time_utc": "2026-10-30 16:54",
-   "who": "Claude (Builder B)",
-   "what": "Settings: effects volume, guide replay, credits; How to play for legendaries"
   }
  ]
 }
