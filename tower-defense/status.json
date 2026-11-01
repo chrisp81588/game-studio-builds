@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-01 01:13",
+ "generated_utc": "2026-11-01 04:01",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "bced2b2",
+   "time_utc": "2026-11-01 03:57",
+   "who": "Claude (Builder B)",
+   "what": "Campaign stage scripts play as a coach card with gold rings"
+  },
   {
    "sha": "607ddfd",
    "time_utc": "2026-11-01 01:06",
@@ -152,12 +158,6 @@
    "time_utc": "2026-10-30 12:48",
    "who": "Christopher Platt",
    "what": "Playtest report: laptop 7 on 10/30 (perf 57-60 FPS, King falls round 7)"
-  },
-  {
-   "sha": "7f977b0",
-   "time_utc": "2026-10-30 15:43",
-   "who": "Claude",
-   "what": "CI: publish status.json with the build so an hourly update can read progress without repo access"
   }
  ]
 }
