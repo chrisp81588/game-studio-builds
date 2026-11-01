@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-01 16:02",
+ "generated_utc": "2026-11-01 18:33",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "cb7a4cd",
+   "time_utc": "2026-11-01 18:26",
+   "who": "Claude",
+   "what": "Account progression groundwork: XP, levels, coins, daily/weekly quests, unlocks, pacing test; towers_built and casts stats"
+  },
   {
    "sha": "b76d6ad",
    "time_utc": "2026-11-01 15:56",
@@ -158,12 +164,6 @@
    "time_utc": "2026-10-30 19:57",
    "who": "Claude (Builder B)",
    "what": "Phone gem names fit their columns; first-match guide nudges when idle"
-  },
-  {
-   "sha": "230f553",
-   "time_utc": "2026-10-30 15:08",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 8 on 10/30 (perf 57-60 FPS, guide blocks first run, King falls round 7)"
   }
  ]
 }
