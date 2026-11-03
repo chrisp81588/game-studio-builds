@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-03 17:00",
+ "generated_utc": "2026-11-03 17:55",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-10-30-laptop-9.md",
+ "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "bad71da",
+   "time_utc": "2026-11-03 17:43",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-03 (reached round 2 only; phone layout fits, new features not tested)"
+  },
   {
    "sha": "2693a2e",
    "time_utc": "2026-11-03 16:48",
@@ -170,12 +176,6 @@
    "time_utc": "2026-10-30 21:25",
    "who": "Claude",
    "what": "Campaign stages 3-5 (The Gate on Two Roads, The Long Night, The Last Crown), gate script, gate events, stage map key"
-  },
-  {
-   "sha": "64f62bd",
-   "time_utc": "2026-10-30 21:22",
-   "who": "Claude",
-   "what": "Legendary towers get their own look and attack animations in the island view"
   }
  ]
 }
