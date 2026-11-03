@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-03 21:35",
+ "generated_utc": "2026-11-03 21:50",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "67e7226",
+   "time_utc": "2026-11-03 21:45",
+   "who": "Claude",
+   "what": "HP bars shrink again (billboard_keep_scale); melee towers reach 5.0 (upgrade 6.0)"
+  },
+  {
+   "sha": "5839cb1",
+   "time_utc": "2026-11-03 21:25",
+   "who": "Claude",
+   "what": "CI: one build at a time; a newer push cancels an older run"
+  },
   {
    "sha": "21e0658",
    "time_utc": "2026-11-03 21:24",
@@ -164,18 +176,6 @@
    "time_utc": "2026-10-31 03:03",
    "who": "Claude",
    "what": "Check-ins: budget mode until the reset; resume the Play Tester after"
-  },
-  {
-   "sha": "5e9c80d",
-   "time_utc": "2026-10-31 02:11",
-   "who": "Claude",
-   "what": "Unit HP bars keep updating at the King; Golem shields show as a blue bar"
-  },
-  {
-   "sha": "ba8e4d5",
-   "time_utc": "2026-10-30 21:44",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop test 11 (2026-10-30)"
   }
  ]
 }
