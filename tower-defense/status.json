@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-03 15:16",
+ "generated_utc": "2026-11-03 16:54",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "a4d6c75",
+   "time_utc": "2026-11-03 16:45",
+   "who": "Claude",
+   "what": "Campaign stages 6-10 (second chapter), stages can load wip races, faction fairness retune and --check-factions gate"
+  },
   {
    "sha": "d1f3344",
    "time_utc": "2026-11-03 15:08",
@@ -164,12 +170,6 @@
    "time_utc": "2026-10-30 21:22",
    "who": "Claude",
    "what": "Legendary towers get their own look and attack animations in the island view"
-  },
-  {
-   "sha": "5de31e3",
-   "time_utc": "2026-10-30 21:00",
-   "who": "Claude",
-   "what": "Balance: brutes hit the King softer, Medium bots flood sends from round 4, late sends scale harder; legendaries 1.6x damage"
   }
  ]
 }
