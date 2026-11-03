@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-03 17:55",
+ "generated_utc": "2026-11-03 19:44",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "77d44cd",
+   "time_utc": "2026-11-03 19:26",
+   "who": "Claude",
+   "what": "Legendary models: kitbashed bastion and spire bases per faction (Builder C item 1)"
+  },
   {
    "sha": "bad71da",
    "time_utc": "2026-11-03 17:43",
@@ -170,12 +176,6 @@
    "time_utc": "2026-10-30 22:19",
    "who": "Claude",
    "what": "Ranged legendaries reach 8.0; faster early economy (170 start, 18 base income)"
-  },
-  {
-   "sha": "6e870d4",
-   "time_utc": "2026-10-30 21:25",
-   "who": "Claude",
-   "what": "Campaign stages 3-5 (The Gate on Two Roads, The Long Night, The Last Crown), gate script, gate events, stage map key"
   }
  ]
 }
