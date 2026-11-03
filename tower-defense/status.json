@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-03 20:47",
+ "generated_utc": "2026-11-03 21:32",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "5839cb1",
+   "time_utc": "2026-11-03 21:25",
+   "who": "Claude",
+   "what": "CI: one build at a time; a newer push cancels an older run"
+  },
+  {
+   "sha": "21e0658",
+   "time_utc": "2026-11-03 21:24",
+   "who": "Claude",
+   "what": "Builder B v2: fresh session and trigger; producer checks the new one"
+  },
   {
    "sha": "9abec23",
    "time_utc": "2026-11-03 20:32",
@@ -164,18 +176,6 @@
    "time_utc": "2026-10-31 02:11",
    "who": "Claude",
    "what": "Unit HP bars keep updating at the King; Golem shields show as a blue bar"
-  },
-  {
-   "sha": "ba8e4d5",
-   "time_utc": "2026-10-30 21:44",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop test 11 (2026-10-30)"
-  },
-  {
-   "sha": "14afd6f",
-   "time_utc": "2026-10-30 23:46",
-   "who": "Claude",
-   "what": "Free asset library: KayKit, Kenney, Poly Haven, game-icons and OpenGameArt CC0 packs with a catalog"
   }
  ]
 }
