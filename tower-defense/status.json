@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-03 21:50",
+ "generated_utc": "2026-11-03 22:04",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "a0dfc22",
+   "time_utc": "2026-11-03 21:57",
+   "who": "Claude",
+   "what": "Towers get 4 tiers: pick a branch at tier 2, then ranks II and III down that branch"
+  },
   {
    "sha": "67e7226",
    "time_utc": "2026-11-03 21:45",
@@ -170,12 +176,6 @@
    "time_utc": "2026-10-31 03:11",
    "who": "Claude (Builder B)",
    "what": "Units you can point at: hover box, tap/click unit panel, highlight ring"
-  },
-  {
-   "sha": "ff1731f",
-   "time_utc": "2026-10-31 03:03",
-   "who": "Claude",
-   "what": "Check-ins: budget mode until the reset; resume the Play Tester after"
   }
  ]
 }
