@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-03 19:44",
+ "generated_utc": "2026-11-03 20:28",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "8ff974e",
+   "time_utc": "2026-11-03 20:17",
+   "who": "Claude",
+   "what": "Brainstorm: Chris's race and account progression idea, playback and open question"
+  },
   {
    "sha": "77d44cd",
    "time_utc": "2026-11-03 19:26",
@@ -170,12 +176,6 @@
    "time_utc": "2026-10-30 18:32",
    "who": "Christopher Platt",
    "what": "Playtest report: laptop 10 on 10/30 (perf 57-60 FPS, King falls round 8, page crash on end screen)"
-  },
-  {
-   "sha": "4fe6ef1",
-   "time_utc": "2026-10-30 22:19",
-   "who": "Claude",
-   "what": "Ranged legendaries reach 8.0; faster early economy (170 start, 18 base income)"
   }
  ]
 }
