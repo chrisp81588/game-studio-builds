@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-03 15:04",
+ "generated_utc": "2026-11-03 15:16",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-10-30-laptop-9.md",
  "commits": [
+  {
+   "sha": "d1f3344",
+   "time_utc": "2026-11-03 15:08",
+   "who": "Claude",
+   "what": "North Star plan: end state, phases to beta, 24/7 studio with Builder C and a daily Producer"
+  },
   {
    "sha": "e708aa0",
    "time_utc": "2026-11-03 14:59",
@@ -164,12 +170,6 @@
    "time_utc": "2026-10-30 21:00",
    "who": "Claude",
    "what": "Balance: brutes hit the King softer, Medium bots flood sends from round 4, late sends scale harder; legendaries 1.6x damage"
-  },
-  {
-   "sha": "3bf0544",
-   "time_utc": "2026-10-30 16:40",
-   "who": "Christopher Platt",
-   "what": "Playtest report: laptop 9 on 10/30 (perf 57-60 FPS, King falls round 8)"
   }
  ]
 }
