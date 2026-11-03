@@ -1,14 +1,8 @@
 {
- "generated_utc": "2026-11-03 20:33",
+ "generated_utc": "2026-11-03 20:38",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
-  {
-   "sha": "f1ca1b2",
-   "time_utc": "2026-11-03 20:24",
-   "who": "Claude",
-   "what": "Account talents (reward-only) and race levels as data and functions, with pacing guard"
-  },
   {
    "sha": "fd47080",
    "time_utc": "2026-11-03 20:22",
@@ -176,6 +170,12 @@
    "time_utc": "2026-10-30 23:32",
    "who": "Claude",
    "what": "Legendary reach is map-driven: ranged covers ~90% of the road from its best pad, melee ~1/3"
+  },
+  {
+   "sha": "8265bab",
+   "time_utc": "2026-10-30 22:55",
+   "who": "Claude (Builder B)",
+   "what": "Legendary attack and cast sounds; send line wording; end screen at 30 fps"
   }
  ]
 }
