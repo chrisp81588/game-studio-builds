@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 03:09",
+ "generated_utc": "2026-11-04 04:44",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "ab2d01a",
+   "time_utc": "2026-11-04 04:40",
+   "who": "Claude",
+   "what": "Race talents: ricochet hook and six more nodes (26 of 36 working)"
+  },
   {
    "sha": "51cb2a1",
    "time_utc": "2026-11-04 03:05",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-01 01:06",
    "who": "Claude",
    "what": "Four-faction balance sweep: race perks as data, Wildkin send bonus trimmed, Starborn legendary trim; harness --legend; tests read race data"
-  },
-  {
-   "sha": "51423a7",
-   "time_utc": "2026-10-31 21:58",
-   "who": "Claude (Builder B)",
-   "what": "Campaign in the hub: stage list, unlock chain, stage matches, Next stage"
   }
  ]
 }
