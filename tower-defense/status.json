@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 13:23",
+ "generated_utc": "2026-11-04 15:06",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "5795a08",
+   "time_utc": "2026-11-04 14:58",
+   "who": "Claude",
+   "what": "Builder B: one shared press feel for every button (scale, darken, click within the frame)"
+  },
   {
    "sha": "8ea2ae1",
    "time_utc": "2026-11-04 13:16",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 17:43",
    "who": "Claude",
    "what": "Playtest report: cloud 1 on 2026-11-03 (reached round 2 only; phone layout fits, new features not tested)"
-  },
-  {
-   "sha": "2693a2e",
-   "time_utc": "2026-11-03 16:48",
-   "who": "Claude",
-   "what": "North Star approved by Chris"
   }
  ]
 }
