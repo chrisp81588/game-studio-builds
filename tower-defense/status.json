@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 00:41",
+ "generated_utc": "2026-11-04 01:20",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "d1d7008",
+   "time_utc": "2026-11-04 01:15",
+   "who": "Claude",
+   "what": "Towers look more advanced at every tier (Builder C item 3)"
+  },
   {
    "sha": "96cef81",
    "time_utc": "2026-11-04 00:33",
@@ -176,12 +182,6 @@
    "time_utc": "2026-10-31 18:34",
    "who": "Claude",
    "what": "Online play sim side: Commands, command log, Lockstep replay and desync check, state hash; bots on their own rng"
-  },
-  {
-   "sha": "e60569b",
-   "time_utc": "2026-10-31 17:26",
-   "who": "Claude (Builder B)",
-   "what": "Unit ability lines for swarm, charge, hide, windborne; cards on disabled tiles by touch"
   }
  ]
 }
