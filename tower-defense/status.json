@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 15:06",
+ "generated_utc": "2026-11-04 16:42",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "7f62615",
+   "time_utc": "2026-11-04 16:36",
+   "who": "Claude",
+   "what": "Race talent capstones: one extra upgrade rank after the last tier (Masterwork, Elder Totem, Singularity); balance sheet lists every talent"
+  },
   {
    "sha": "5795a08",
    "time_utc": "2026-11-04 14:58",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 19:26",
    "who": "Claude",
    "what": "Legendary models: kitbashed bastion and spire bases per faction (Builder C item 1)"
-  },
-  {
-   "sha": "bad71da",
-   "time_utc": "2026-11-03 17:43",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-03 (reached round 2 only; phone layout fits, new features not tested)"
   }
  ]
 }
