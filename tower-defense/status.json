@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 19:42",
+ "generated_utc": "2026-11-04 20:48",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "5cfe3b5",
+   "time_utc": "2026-11-04 20:40",
+   "who": "Claude",
+   "what": "Harness --check-feel: the North Star Feel rules (tester survives past round 8 passes; good-bot and turtle rules fail, options in README)"
+  },
   {
    "sha": "83e744e",
    "time_utc": "2026-11-04 19:36",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-03 21:57",
    "who": "Claude",
    "what": "Towers get 4 tiers: pick a branch at tier 2, then ranks II and III down that branch"
-  },
-  {
-   "sha": "67e7226",
-   "time_utc": "2026-11-03 21:45",
-   "who": "Claude",
-   "what": "HP bars shrink again (billboard_keep_scale); melee towers reach 5.0 (upgrade 6.0)"
   }
  ]
 }
