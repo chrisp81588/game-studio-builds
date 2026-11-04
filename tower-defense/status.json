@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 17:22",
+ "generated_utc": "2026-11-04 17:48",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-04-cloud-1.md",
+ "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "c9c1ebb",
+   "time_utc": "2026-11-04 17:41",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-04 (speed=8 works; King fell round 8; end screen and Replay fit on phone)"
+  },
   {
    "sha": "58c1a86",
    "time_utc": "2026-11-04 17:13",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 20:22",
    "who": "Claude",
    "what": "Progression spec: account talents (rewards only), race talent trees (small power, +8% cap), tower mastery"
-  },
-  {
-   "sha": "8ff974e",
-   "time_utc": "2026-11-03 20:17",
-   "who": "Claude",
-   "what": "Brainstorm: Chris's race and account progression idea, playback and open question"
   }
  ]
 }
