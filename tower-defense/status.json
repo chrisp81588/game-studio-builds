@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 19:34",
+ "generated_utc": "2026-11-04 19:42",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "83e744e",
+   "time_utc": "2026-11-04 19:36",
+   "who": "Claude",
+   "what": "Tester: human-feel pass every run (click everything, make mistakes, hover all, phone thumbs); producer ranks its findings"
+  },
   {
    "sha": "9870fa7",
    "time_utc": "2026-11-04 19:28",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-03 21:45",
    "who": "Claude",
    "what": "HP bars shrink again (billboard_keep_scale); melee towers reach 5.0 (upgrade 6.0)"
-  },
-  {
-   "sha": "5839cb1",
-   "time_utc": "2026-11-03 21:25",
-   "who": "Claude",
-   "what": "CI: one build at a time; a newer push cancels an older run"
   }
  ]
 }
