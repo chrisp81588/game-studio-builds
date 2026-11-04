@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 12:37",
+ "generated_utc": "2026-11-04 13:23",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "8ea2ae1",
+   "time_utc": "2026-11-04 13:16",
+   "who": "Claude",
+   "what": "Units: sender banners and tint, flying harpies with blob shadows, flinch and varied deaths (Builder C item 4)"
+  },
   {
    "sha": "8f85ae4",
    "time_utc": "2026-11-04 12:32",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 16:48",
    "who": "Claude",
    "what": "North Star approved by Chris"
-  },
-  {
-   "sha": "a4d6c75",
-   "time_utc": "2026-11-03 16:45",
-   "who": "Claude",
-   "what": "Campaign stages 6-10 (second chapter), stages can load wip races, faction fairness retune and --check-factions gate"
   }
  ]
 }
