@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 16:42",
+ "generated_utc": "2026-11-04 17:22",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "58c1a86",
+   "time_utc": "2026-11-04 17:13",
+   "who": "Claude",
+   "what": "Full-tree talent power run (all 36 nodes, 4 x 128 matches): all factions inside 2.1-2.5; queue item 3 done"
+  },
   {
    "sha": "7f62615",
    "time_utc": "2026-11-04 16:36",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 20:17",
    "who": "Claude",
    "what": "Brainstorm: Chris's race and account progression idea, playback and open question"
-  },
-  {
-   "sha": "77d44cd",
-   "time_utc": "2026-11-03 19:26",
-   "who": "Claude",
-   "what": "Legendary models: kitbashed bastion and spire bases per faction (Builder C item 1)"
   }
  ]
 }
