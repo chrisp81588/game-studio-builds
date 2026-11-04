@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 09:42",
+ "generated_utc": "2026-11-04 11:21",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "6212789",
+   "time_utc": "2026-11-04 11:15",
+   "who": "Claude",
+   "what": "Builder B: replay viewer (end screen Replay, ?match&replay) with pause, 1x/2x/4x and a same-ending check"
+  },
   {
    "sha": "48b5152",
    "time_utc": "2026-11-04 09:36",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 14:56",
    "who": "Claude",
    "what": "Builders plan: normal operations after the weekly reset"
-  },
-  {
-   "sha": "cb7a4cd",
-   "time_utc": "2026-11-01 18:26",
-   "who": "Claude",
-   "what": "Account progression groundwork: XP, levels, coins, daily/weekly quests, unlocks, pacing test; towers_built and casts stats"
   }
  ]
 }
