@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 01:20",
+ "generated_utc": "2026-11-04 03:09",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "51cb2a1",
+   "time_utc": "2026-11-04 03:05",
+   "who": "Claude",
+   "what": "Builder B: hover info on towers, legendary and King; King tap line on phone"
+  },
   {
    "sha": "d1d7008",
    "time_utc": "2026-11-04 01:15",
@@ -176,12 +182,6 @@
    "time_utc": "2026-10-31 21:58",
    "who": "Claude (Builder B)",
    "what": "Campaign in the hub: stage list, unlock chain, stage matches, Next stage"
-  },
-  {
-   "sha": "9f1e6c7",
-   "time_utc": "2026-10-31 18:34",
-   "who": "Claude",
-   "what": "Online play sim side: Commands, command log, Lockstep replay and desync check, state hash; bots on their own rng"
   }
  ]
 }
