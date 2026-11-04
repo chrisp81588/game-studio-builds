@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 11:21",
+ "generated_utc": "2026-11-04 12:27",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "1987b8a",
+   "time_utc": "2026-11-04 12:21",
+   "who": "Claude",
+   "what": "Decision: matches stay 4 players, no bigger lobbies planned"
+  },
   {
    "sha": "6212789",
    "time_utc": "2026-11-04 11:15",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-03 14:59",
    "who": "Claude",
    "what": "Builders plan: cloud Play Tester replaces the laptop one"
-  },
-  {
-   "sha": "62d26d4",
-   "time_utc": "2026-11-03 14:56",
-   "who": "Claude",
-   "what": "Builders plan: normal operations after the weekly reset"
   }
  ]
 }
