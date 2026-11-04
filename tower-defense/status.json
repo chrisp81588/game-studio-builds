@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-03 23:09",
+ "generated_utc": "2026-11-04 00:41",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-03-cloud-1.md",
  "commits": [
+  {
+   "sha": "96cef81",
+   "time_utc": "2026-11-04 00:33",
+   "who": "Claude",
+   "what": "README: correct implemented talent node count (16 of 36)"
+  },
+  {
+   "sha": "b027b55",
+   "time_utc": "2026-11-04 00:33",
+   "who": "Claude",
+   "what": "Race talent trees as data for all four factions, RaceTalents, first 18 nodes working in the sim"
+  },
   {
    "sha": "77a01fd",
    "time_utc": "2026-11-03 23:04",
@@ -170,18 +182,6 @@
    "time_utc": "2026-10-31 17:26",
    "who": "Claude (Builder B)",
    "what": "Unit ability lines for swarm, charge, hide, windborne; cards on disabled tiles by touch"
-  },
-  {
-   "sha": "cc95f09",
-   "time_utc": "2026-10-31 12:23",
-   "who": "Claude",
-   "what": "Builders plan: tester paused for budget, do not fire it; Builder B next: new ability lines"
-  },
-  {
-   "sha": "08a1384",
-   "time_utc": "2026-10-31 10:31",
-   "who": "Claude",
-   "what": "Send-unit abilities (swarm, charge, hide, windborne); harness median fix; balance sheet"
   }
  ]
 }
