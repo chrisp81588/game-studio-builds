@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 04:44",
+ "generated_utc": "2026-11-04 05:46",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-03-cloud-1.md",
+ "latest_report": "2026-11-04-cloud-1.md",
  "commits": [
+  {
+   "sha": "3795a54",
+   "time_utc": "2026-11-04 05:38",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-04 (unit panel and phone trays pass; sim too slow for more than round 1)"
+  },
   {
    "sha": "ab2d01a",
    "time_utc": "2026-11-04 04:40",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-01 03:57",
    "who": "Claude (Builder B)",
    "what": "Campaign stage scripts play as a coach card with gold rings"
-  },
-  {
-   "sha": "607ddfd",
-   "time_utc": "2026-11-01 01:06",
-   "who": "Claude",
-   "what": "Four-faction balance sweep: race perks as data, Wildkin send bonus trimmed, Starborn legendary trim; harness --legend; tests read race data"
   }
  ]
 }
