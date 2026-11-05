@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 05:43",
+ "generated_utc": "2026-11-05 07:07",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "912288d",
+   "time_utc": "2026-11-05 06:59",
+   "who": "Claude",
+   "what": "Builder B: card and talent picks hold the build clock offline; legendary cards fit; King tap works while placing the legendary"
+  },
   {
    "sha": "3f0f8ae",
    "time_utc": "2026-11-05 05:36",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 04:40",
    "who": "Claude",
    "what": "Race talents: ricochet hook and six more nodes (26 of 36 working)"
-  },
-  {
-   "sha": "51cb2a1",
-   "time_utc": "2026-11-04 03:05",
-   "who": "Claude",
-   "what": "Builder B: hover info on towers, legendary and King; King tap line on phone"
   }
  ]
 }
