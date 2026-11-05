@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 01:28",
+ "generated_utc": "2026-11-05 03:14",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "9c70b2f",
+   "time_utc": "2026-11-05 03:06",
+   "who": "Claude",
+   "what": "Builder B: hub menu fits between the plates and the area bar (phones: compact, no overlap); status plate hides on sub-panels"
+  },
   {
    "sha": "bae5503",
    "time_utc": "2026-11-05 01:20",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 00:33",
    "who": "Claude",
    "what": "README: correct implemented talent node count (16 of 36)"
-  },
-  {
-   "sha": "b027b55",
-   "time_utc": "2026-11-04 00:33",
-   "who": "Claude",
-   "what": "Race talent trees as data for all four factions, RaceTalents, first 18 nodes working in the sim"
   }
  ]
 }
