@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 12:39",
+ "generated_utc": "2026-11-05 13:25",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "2d05b97",
+   "time_utc": "2026-11-05 13:17",
+   "who": "Claude",
+   "what": "Music: hub theme, two match tracks, King-low layer, win and loss stings (Builder C item 8)"
+  },
   {
    "sha": "f33141f",
    "time_utc": "2026-11-05 12:31",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 09:36",
    "who": "Claude",
    "what": "Producer: 2026-11-04 (queues topped up for A and B, no High bugs, all schedules healthy)"
-  },
-  {
-   "sha": "6a579b8",
-   "time_utc": "2026-11-04 08:40",
-   "who": "Claude",
-   "what": "Profile save format and match-end awards; talent power measurement mode in the harness"
   }
  ]
 }
