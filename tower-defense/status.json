@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 04:51",
+ "generated_utc": "2026-11-05 05:43",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-04-cloud-2.md",
+ "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "3f0f8ae",
+   "time_utc": "2026-11-05 05:36",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-05 (legendary card, one-tower double-click and Undo work; build timer runs under card and talent screens)"
+  },
   {
    "sha": "f93217d",
    "time_utc": "2026-11-05 04:43",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 03:05",
    "who": "Claude",
    "what": "Builder B: hover info on towers, legendary and King; King tap line on phone"
-  },
-  {
-   "sha": "d1d7008",
-   "time_utc": "2026-11-04 01:15",
-   "who": "Claude",
-   "what": "Towers look more advanced at every tier (Builder C item 3)"
   }
  ]
 }
