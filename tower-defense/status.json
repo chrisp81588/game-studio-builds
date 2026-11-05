@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 13:25",
+ "generated_utc": "2026-11-05 15:05",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "b3ebad1",
+   "time_utc": "2026-11-05 14:58",
+   "who": "Claude",
+   "what": "Builder B: King under pressure (red edge pulse + heartbeat under 30%), Mend Walls glows when castable, overtime ribbon line"
+  },
   {
    "sha": "2d05b97",
    "time_utc": "2026-11-05 13:17",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 11:15",
    "who": "Claude",
    "what": "Builder B: replay viewer (end screen Replay, ?match&replay) with pause, 1x/2x/4x and a same-ending check"
-  },
-  {
-   "sha": "48b5152",
-   "time_utc": "2026-11-04 09:36",
-   "who": "Claude",
-   "what": "Producer: 2026-11-04 (queues topped up for A and B, no High bugs, all schedules healthy)"
   }
  ]
 }
