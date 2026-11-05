@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 08:41",
+ "generated_utc": "2026-11-05 09:41",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "02465f0",
+   "time_utc": "2026-11-05 09:36",
+   "who": "Claude",
+   "what": "Producer: 2026-11-05 (A, B and C queues topped up; no High bugs; turtle and Expert-bot defaults)"
+  },
   {
    "sha": "186c99a",
    "time_utc": "2026-11-05 08:35",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 07:39",
    "who": "Claude",
    "what": "Legendary signature attacks (Builder C item 2)"
-  },
-  {
-   "sha": "db4a34b",
-   "time_utc": "2026-11-04 07:04",
-   "who": "Claude",
-   "what": "Builder B: King spell refusals give the real reason; speed=N test flag; readable phone gem labels"
   }
  ]
 }
