@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 17:56",
+ "generated_utc": "2026-11-05 19:02",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-2.md",
  "commits": [
+  {
+   "sha": "15d0a49",
+   "time_utc": "2026-11-05 18:56",
+   "who": "Claude",
+   "what": "Builder B: matches pay XP, coins and race XP into user://profile.json (end-screen row, Level up!, real hub plates); danger line names the race's heal; popup closes at round end"
+  },
   {
    "sha": "5b3bfab",
    "time_utc": "2026-11-05 17:50",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 12:32",
    "who": "Claude",
    "what": "Race talents: the last seven non-capstone nodes work (33 of 36); queue item 1 done"
-  },
-  {
-   "sha": "7097e65",
-   "time_utc": "2026-11-04 12:30",
-   "who": "Claude",
-   "what": "Click your legendary to see its card and reach ring; second tap in build phase moves it"
   }
  ]
 }
