@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 01:01",
+ "generated_utc": "2026-11-05 01:28",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "bae5503",
+   "time_utc": "2026-11-05 01:20",
+   "who": "Claude",
+   "what": "Ability and King spell effects: decal, burst, impact and sound per kind (Builder C item 6)"
+  },
   {
    "sha": "34040fd",
    "time_utc": "2026-11-05 00:53",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 00:33",
    "who": "Claude",
    "what": "Race talent trees as data for all four factions, RaceTalents, first 18 nodes working in the sim"
-  },
-  {
-   "sha": "77a01fd",
-   "time_utc": "2026-11-03 23:04",
-   "who": "Claude",
-   "what": "Builder B: dimmed tray tiles say why on tap (not enough gold, locked, maxed); legendary pick title"
   }
  ]
 }
