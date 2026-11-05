@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 15:05",
+ "generated_utc": "2026-11-05 16:40",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "5e742f1",
+   "time_utc": "2026-11-05 16:35",
+   "who": "Claude",
+   "what": "Expert bot part 1: target-aware flood habit built, tested and measured worse than Hard (not adopted); feel_expert lineup"
+  },
   {
    "sha": "b3ebad1",
    "time_utc": "2026-11-05 14:58",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 12:21",
    "who": "Claude",
    "what": "Decision: matches stay 4 players, no bigger lobbies planned"
-  },
-  {
-   "sha": "6212789",
-   "time_utc": "2026-11-04 11:15",
-   "who": "Claude",
-   "what": "Builder B: replay viewer (end screen Replay, ?match&replay) with pause, 1x/2x/4x and a same-ending check"
   }
  ]
 }
