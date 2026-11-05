@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 07:22",
+ "generated_utc": "2026-11-05 08:41",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "186c99a",
+   "time_utc": "2026-11-05 08:35",
+   "who": "Claude",
+   "what": "Feel rule 2 measured both ways (round-15 standings, win share vs three Mediums): fails honestly; Hard is Medium plus habits, an Expert bot is proposed"
+  },
   {
    "sha": "32178e8",
    "time_utc": "2026-11-05 07:18",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 07:04",
    "who": "Claude",
    "what": "Builder B: King spell refusals give the real reason; speed=N test flag; readable phone gem labels"
-  },
-  {
-   "sha": "3795a54",
-   "time_utc": "2026-11-04 05:38",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-04 (unit panel and phone trays pass; sim too slow for more than round 1)"
   }
  ]
 }
