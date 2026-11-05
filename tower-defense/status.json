@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 03:14",
+ "generated_utc": "2026-11-05 04:51",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "f93217d",
+   "time_utc": "2026-11-05 04:43",
+   "who": "Claude",
+   "what": "P2 readiness: data/release.json wip_public switch tested both ways; faction retune under fair seats (spread 0.32/128); length rule ceiling 29"
+  },
   {
    "sha": "9c70b2f",
    "time_utc": "2026-11-05 03:06",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 01:15",
    "who": "Claude",
    "what": "Towers look more advanced at every tier (Builder C item 3)"
-  },
-  {
-   "sha": "96cef81",
-   "time_utc": "2026-11-04 00:33",
-   "who": "Claude",
-   "what": "README: correct implemented talent node count (16 of 36)"
   }
  ]
 }
