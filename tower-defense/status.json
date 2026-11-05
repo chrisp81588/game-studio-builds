@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-04 23:15",
+ "generated_utc": "2026-11-05 01:01",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-04-cloud-2.md",
  "commits": [
+  {
+   "sha": "34040fd",
+   "time_utc": "2026-11-05 00:53",
+   "who": "Claude",
+   "what": "Bot tiers tested; Hard bot is now a disciplined player (it was weaker than Medium); harness seat rotation; Feel numbers re-measured"
+  },
   {
    "sha": "30f1979",
    "time_utc": "2026-11-04 23:07",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-03 23:04",
    "who": "Claude",
    "what": "Builder B: dimmed tray tiles say why on tap (not enough gold, locked, maxed); legendary pick title"
-  },
-  {
-   "sha": "6b4b9e2",
-   "time_utc": "2026-11-03 22:13",
-   "who": "Claude",
-   "what": "Builder C: towers look more advanced at every tier, moved up next"
   }
  ]
 }
