@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 07:07",
+ "generated_utc": "2026-11-05 07:22",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-1.md",
  "commits": [
+  {
+   "sha": "32178e8",
+   "time_utc": "2026-11-05 07:18",
+   "who": "Claude",
+   "what": "Camera life: round-start push-in and a pan toward the King on big hits (Builder C item 7)"
+  },
   {
    "sha": "912288d",
    "time_utc": "2026-11-05 06:59",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-04 05:38",
    "who": "Claude",
    "what": "Playtest report: cloud 1 on 2026-11-04 (unit panel and phone trays pass; sim too slow for more than round 1)"
-  },
-  {
-   "sha": "ab2d01a",
-   "time_utc": "2026-11-04 04:40",
-   "who": "Claude",
-   "what": "Race talents: ricochet hook and six more nodes (26 of 36 working)"
   }
  ]
 }
