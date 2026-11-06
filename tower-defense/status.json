@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-06 00:47",
+ "generated_utc": "2026-11-06 01:28",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-2.md",
  "commits": [
+  {
+   "sha": "b21f0f6",
+   "time_utc": "2026-11-06 01:21",
+   "who": "Claude",
+   "what": "Performance budget part 2: one mesh per unit, 80 units 816 -> 632 draw calls (Builder C item 9)"
+  },
   {
    "sha": "5f80b13",
    "time_utc": "2026-11-06 00:42",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 19:09",
    "who": "Claude",
    "what": "Builder B: end screen and crest agree on your last round; race pick shows King portraits and perks; deselecting a tile says so"
-  },
-  {
-   "sha": "c9c1ebb",
-   "time_utc": "2026-11-04 17:41",
-   "who": "Claude",
-   "what": "Playtest report: cloud 2 on 2026-11-04 (speed=8 works; King fell round 8; end screen and Replay fit on phone)"
   }
  ]
 }
