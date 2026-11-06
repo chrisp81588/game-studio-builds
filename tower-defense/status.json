@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-05 23:07",
+ "generated_utc": "2026-11-06 00:47",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-2.md",
  "commits": [
+  {
+   "sha": "5f80b13",
+   "time_utc": "2026-11-06 00:42",
+   "who": "Claude",
+   "what": "Two Roads: shorter long road (56 to 48), fair over 128 matches; separate release switch for maps"
+  },
   {
    "sha": "0f0f237",
    "time_utc": "2026-11-05 22:59",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 17:41",
    "who": "Claude",
    "what": "Playtest report: cloud 2 on 2026-11-04 (speed=8 works; King fell round 8; end screen and Replay fit on phone)"
-  },
-  {
-   "sha": "58c1a86",
-   "time_utc": "2026-11-04 17:13",
-   "who": "Claude",
-   "what": "Full-tree talent power run (all 36 nodes, 4 x 128 matches): all factions inside 2.1-2.5; queue item 3 done"
   }
  ]
 }
