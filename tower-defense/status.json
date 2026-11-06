@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-06 11:03",
+ "generated_utc": "2026-11-06 13:31",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-06-cloud-1.md",
  "commits": [
+  {
+   "sha": "c8d7898",
+   "time_utc": "2026-11-06 13:26",
+   "who": "Claude",
+   "what": "Builder A shift 51: campaign curve sweep and retune, profile v2 migrate + streak, feel-2 reworded"
+  },
+  {
+   "sha": "e900abd",
+   "time_utc": "2026-11-06 13:20",
+   "who": "Claude",
+   "what": "Performance budget part 4: crowd outlines, 80 units 550 -> 459 draw calls, 1.08M -> 0.60M triangles (Builder C item 9)"
+  },
   {
    "sha": "b130efc",
    "time_utc": "2026-11-06 10:58",
@@ -170,18 +182,6 @@
    "time_utc": "2026-11-05 03:06",
    "who": "Claude",
    "what": "Builder B: hub menu fits between the plates and the area bar (phones: compact, no overlap); status plate hides on sub-panels"
-  },
-  {
-   "sha": "bae5503",
-   "time_utc": "2026-11-05 01:20",
-   "who": "Claude",
-   "what": "Ability and King spell effects: decal, burst, impact and sound per kind (Builder C item 6)"
-  },
-  {
-   "sha": "34040fd",
-   "time_utc": "2026-11-05 00:53",
-   "who": "Claude",
-   "what": "Bot tiers tested; Hard bot is now a disciplined player (it was weaker than Medium); harness seat rotation; Feel numbers re-measured"
   }
  ]
 }
