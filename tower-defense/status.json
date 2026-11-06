@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-06 05:41",
+ "generated_utc": "2026-11-06 07:06",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-06-cloud-1.md",
  "commits": [
+  {
+   "sha": "245f27f",
+   "time_utc": "2026-11-06 06:58",
+   "who": "Claude",
+   "what": "Builder B: first-match coach holds the build clock on its action steps, card on the right edge clear of the road, wording and duplicate-ribbon fixes"
+  },
   {
    "sha": "8fe8df2",
    "time_utc": "2026-11-06 05:35",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-04 19:36",
    "who": "Claude",
    "what": "Tester: human-feel pass every run (click everything, make mistakes, hover all, phone thumbs); producer ranks its findings"
-  },
-  {
-   "sha": "9870fa7",
-   "time_utc": "2026-11-04 19:28",
-   "who": "Claude",
-   "what": "Undo for misplaced towers: full refund in the build phase it was placed; one tower per card tap"
   }
  ]
 }
