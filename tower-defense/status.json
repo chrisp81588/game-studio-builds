@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-06 13:31",
+ "generated_utc": "2026-11-06 15:10",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-06-cloud-1.md",
  "commits": [
+  {
+   "sha": "e882ce4",
+   "time_utc": "2026-11-06 15:02",
+   "who": "Claude",
+   "what": "Builder B: campaign list says (cleared) instead of a check glyph the font lacks"
+  },
+  {
+   "sha": "adc9ec7",
+   "time_utc": "2026-11-06 15:01",
+   "who": "Claude",
+   "what": "Builder B: quests panel on the hub (bars, rewards, reset timers), quest completions on the end screen; ProfileStore migrates old saves (v1 would have been reset by v2)"
+  },
   {
    "sha": "c8d7898",
    "time_utc": "2026-11-06 13:26",
@@ -170,18 +182,6 @@
    "time_utc": "2026-11-05 05:36",
    "who": "Claude",
    "what": "Playtest report: cloud 1 on 2026-11-05 (legendary card, one-tower double-click and Undo work; build timer runs under card and talent screens)"
-  },
-  {
-   "sha": "f93217d",
-   "time_utc": "2026-11-05 04:43",
-   "who": "Claude",
-   "what": "P2 readiness: data/release.json wip_public switch tested both ways; faction retune under fair seats (spread 0.32/128); length rule ceiling 29"
-  },
-  {
-   "sha": "9c70b2f",
-   "time_utc": "2026-11-05 03:06",
-   "who": "Claude",
-   "what": "Builder B: hub menu fits between the plates and the area bar (phones: compact, no overlap); status plate hides on sub-panels"
   }
  ]
 }
