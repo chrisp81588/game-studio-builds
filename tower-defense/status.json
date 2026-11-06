@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-06 03:15",
+ "generated_utc": "2026-11-06 04:52",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-05-cloud-2.md",
  "commits": [
+  {
+   "sha": "4fa0b6e",
+   "time_utc": "2026-11-06 04:44",
+   "who": "Claude",
+   "what": "Reconnect: a dropped player returns by replaying the command log and rejoins at an agreed tick; bot choices reseeded per decision; casual rule tolerates late falls"
+  },
   {
    "sha": "735c88b",
    "time_utc": "2026-11-06 03:07",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-04 19:28",
    "who": "Claude",
    "what": "Undo for misplaced towers: full refund in the build phase it was placed; one tower per card tap"
-  },
-  {
-   "sha": "adfd547",
-   "time_utc": "2026-11-04 19:24",
-   "who": "Claude",
-   "what": "Faction island dressing sets: stone, forest, starlit, sky-castle camp (Builder C item 5)"
   }
  ]
 }
