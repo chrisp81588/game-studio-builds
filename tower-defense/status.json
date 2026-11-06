@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-06 07:40",
+ "generated_utc": "2026-11-06 08:40",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-06-cloud-1.md",
  "commits": [
+  {
+   "sha": "fc5b783",
+   "time_utc": "2026-11-06 08:34",
+   "who": "Claude",
+   "what": "Expert bot part 2: coverage-aware placement (27% wins vs three Mediums, target 35%); stage 10 seats Expert; queue complete"
+  },
   {
    "sha": "5b0b22c",
    "time_utc": "2026-11-06 07:32",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-04 20:40",
    "who": "Claude",
    "what": "Harness --check-feel: the North Star Feel rules (tester survives past round 8 passes; good-bot and turtle rules fail, options in README)"
-  },
-  {
-   "sha": "83e744e",
-   "time_utc": "2026-11-04 19:36",
-   "who": "Claude",
-   "what": "Tester: human-feel pass every run (click everything, make mistakes, hover all, phone thumbs); producer ranks its findings"
   }
  ]
 }
