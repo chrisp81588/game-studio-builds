@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-06 08:40",
+ "generated_utc": "2026-11-06 09:42",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-06-cloud-1.md",
  "commits": [
+  {
+   "sha": "4784a41",
+   "time_utc": "2026-11-06 09:35",
+   "who": "Claude",
+   "what": "Producer: 2026-11-06 (A and B queues topped up to 6; no High bugs; schedules healthy)"
+  },
   {
    "sha": "fc5b783",
    "time_utc": "2026-11-06 08:34",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-04 23:07",
    "who": "Claude",
    "what": "Builder B: no text-only buttons (word-to-glyph map in UiTheme, 20 ui icons); portraits on legendary pick cards"
-  },
-  {
-   "sha": "5cfe3b5",
-   "time_utc": "2026-11-04 20:40",
-   "who": "Claude",
-   "what": "Harness --check-feel: the North Star Feel rules (tester survives past round 8 passes; good-bot and turtle rules fail, options in README)"
   }
  ]
 }
