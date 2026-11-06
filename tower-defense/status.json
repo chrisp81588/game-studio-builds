@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-06 04:52",
+ "generated_utc": "2026-11-06 05:41",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-05-cloud-2.md",
+ "latest_report": "2026-11-06-cloud-1.md",
  "commits": [
+  {
+   "sha": "8fe8df2",
+   "time_utc": "2026-11-06 05:35",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-06 (first-match coach and faction talents work; coach skips steps and covers the road)"
+  },
   {
    "sha": "4fa0b6e",
    "time_utc": "2026-11-06 04:44",
