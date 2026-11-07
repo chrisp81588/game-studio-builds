@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-07 15:10",
+ "generated_utc": "2026-11-07 16:33",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-1.md",
  "commits": [
+  {
+   "sha": "9112d52",
+   "time_utc": "2026-11-07 16:27",
+   "who": "Claude",
+   "what": "Builder A shift 58: RelayCore (rooms by invite code, drop and reconnect rules); fake relay rebuilt on it"
+  },
+  {
+   "sha": "0fa512b",
+   "time_utc": "2026-11-07 16:22",
+   "who": "Claude",
+   "what": "Builder A shift 58: invite codes, deep link parsing and lobby registry with expiry"
+  },
   {
    "sha": "10f69e1",
    "time_utc": "2026-11-07 15:04",
@@ -164,18 +176,6 @@
    "time_utc": "2026-11-06 13:26",
    "who": "Claude",
    "what": "Builder A shift 51: campaign curve sweep and retune, profile v2 migrate + streak, feel-2 reworded"
-  },
-  {
-   "sha": "e900abd",
-   "time_utc": "2026-11-06 13:20",
-   "who": "Claude",
-   "what": "Performance budget part 4: crowd outlines, 80 units 550 -> 459 draw calls, 1.08M -> 0.60M triangles (Builder C item 9)"
-  },
-  {
-   "sha": "b130efc",
-   "time_utc": "2026-11-06 10:58",
-   "who": "Claude",
-   "what": "Builder B: profile screen from the Commander plate (level ring, coins, totals, account talents, race levels, last five replays)"
   }
  ]
 }
