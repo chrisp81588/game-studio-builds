@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-07 06:57",
+ "generated_utc": "2026-11-07 07:12",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-1.md",
  "commits": [
+  {
+   "sha": "1fb1b67",
+   "time_utc": "2026-11-07 07:06",
+   "who": "Claude",
+   "what": "Builder B: taps on the road, sky or a free pad explain themselves; notes on the stale live link (CI fixed in 6f1412a)"
+  },
   {
    "sha": "6f1412a",
    "time_utc": "2026-11-07 06:49",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-06 01:21",
    "who": "Claude",
    "what": "Performance budget part 2: one mesh per unit, 80 units 816 -> 632 draw calls (Builder C item 9)"
-  },
-  {
-   "sha": "5f80b13",
-   "time_utc": "2026-11-06 00:42",
-   "who": "Claude",
-   "what": "Two Roads: shorter long road (56 to 48), fair over 128 matches; separate release switch for maps"
   }
  ]
 }
