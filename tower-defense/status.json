@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-07 09:41",
+ "generated_utc": "2026-11-07 11:11",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-1.md",
  "commits": [
+  {
+   "sha": "7fee598",
+   "time_utc": "2026-11-07 11:03",
+   "who": "Claude",
+   "what": "Builder B: lobby screen on the Friends tile over a LobbyProtocol loopback (code, seats, picks, ready, start seats the match); demo=talentsoon reproduces the real talent path (timer held)"
+  },
   {
    "sha": "a43b17b",
    "time_utc": "2026-11-07 09:35",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-06 07:32",
    "who": "Claude",
    "what": "Performance budget part 3: HP bars batched per island, 80 units 632 -> 550 draw calls (Builder C item 9)"
-  },
-  {
-   "sha": "245f27f",
-   "time_utc": "2026-11-06 06:58",
-   "who": "Claude",
-   "what": "Builder B: first-match coach holds the build clock on its action steps, card on the right edge clear of the road, wording and duplicate-ribbon fixes"
   }
  ]
 }
