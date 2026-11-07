@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-07 07:12",
+ "generated_utc": "2026-11-07 07:20",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-1.md",
  "commits": [
+  {
+   "sha": "7fdf867",
+   "time_utc": "2026-11-07 07:12",
+   "who": "Claude",
+   "what": "Tier 3 bolder: battlement crown and tall finial change the silhouette (Builder C item 12)"
+  },
   {
    "sha": "1fb1b67",
    "time_utc": "2026-11-07 07:06",
@@ -170,18 +176,6 @@
    "time_utc": "2026-11-06 04:44",
    "who": "Claude",
    "what": "Reconnect: a dropped player returns by replaying the command log and rejoins at an agreed tick; bot choices reseeded per decision; casual rule tolerates late falls"
-  },
-  {
-   "sha": "735c88b",
-   "time_utc": "2026-11-06 03:07",
-   "who": "Claude",
-   "what": "Builder B: faction talent screen on the hub's Factions tile (spend, free respec); your race talents apply at match start and in replays"
-  },
-  {
-   "sha": "b21f0f6",
-   "time_utc": "2026-11-06 01:21",
-   "who": "Claude",
-   "what": "Performance budget part 2: one mesh per unit, 80 units 816 -> 632 draw calls (Builder C item 9)"
   }
  ]
 }
