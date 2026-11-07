@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-07 19:51",
+ "generated_utc": "2026-11-07 20:43",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-2.md",
  "commits": [
+  {
+   "sha": "ca92e2c",
+   "time_utc": "2026-11-07 20:35",
+   "who": "Claude",
+   "what": "Builder A shift 59: relay server on WebSockets, scenario test over real sockets"
+  },
   {
    "sha": "eb41f8e",
    "time_utc": "2026-11-07 19:42",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-06 19:14",
    "who": "Claude",
    "what": "Sky and clouds: drifting cloud sheet under the rim, cloud models above the sea, a little more horizon fog (Builder C item 10)"
-  },
-  {
-   "sha": "3433bbb",
-   "time_utc": "2026-11-06 18:58",
-   "who": "Claude",
-   "what": "Builder B: Music volume slider (saved, mutes at 0); master slider relabeled All sound; coach cards never doubled by the legendary ribbon; quests say no claiming needed"
   }
  ]
 }
