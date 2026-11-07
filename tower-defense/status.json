@@ -1,8 +1,26 @@
 {
- "generated_utc": "2026-11-07 17:41",
+ "generated_utc": "2026-11-07 19:19",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-2.md",
  "commits": [
+  {
+   "sha": "1b0ab33",
+   "time_utc": "2026-11-07 19:11",
+   "who": "Claude",
+   "what": "Soak logger moves to a root node (SoakLog) so island rebuilds do not stop it"
+  },
+  {
+   "sha": "426ece6",
+   "time_utc": "2026-11-07 19:10",
+   "who": "Claude",
+   "what": "Soak logger (?soak) and fix: sender tint was cached once per unit type"
+  },
+  {
+   "sha": "7cc6586",
+   "time_utc": "2026-11-07 19:02",
+   "who": "Claude",
+   "what": "Builder B: invite links (share, ?join=CODE, join screen with bad/unknown/expired messages) on LobbyProtocol's registry; locked legendary taps explain; no Round 0 cleared ribbon"
+  },
   {
    "sha": "219b4e9",
    "time_utc": "2026-11-07 17:35",
@@ -158,24 +176,6 @@
    "time_utc": "2026-11-06 17:33",
    "who": "Claude",
    "what": "Playtest report: cloud 2 on 2026-11-06 (profile, quests and campaign screens work; phone fits; no match played)"
-  },
-  {
-   "sha": "982795f",
-   "time_utc": "2026-11-06 16:52",
-   "who": "Claude",
-   "what": "Builder A shift 52: codex data (DataLoader.codex, lore in every data file, tests)"
-  },
-  {
-   "sha": "e882ce4",
-   "time_utc": "2026-11-06 15:02",
-   "who": "Claude",
-   "what": "Builder B: campaign list says (cleared) instead of a check glyph the font lacks"
-  },
-  {
-   "sha": "adc9ec7",
-   "time_utc": "2026-11-06 15:01",
-   "who": "Claude",
-   "what": "Builder B: quests panel on the hub (bars, rewards, reset timers), quest completions on the end screen; ProfileStore migrates old saves (v1 would have been reset by v2)"
   }
  ]
 }
