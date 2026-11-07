@@ -1,8 +1,104 @@
 {
- "generated_utc": "2026-11-06 15:10",
+ "generated_utc": "2026-11-07 06:57",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-06-cloud-1.md",
+ "latest_report": "2026-11-07-cloud-1.md",
  "commits": [
+  {
+   "sha": "6f1412a",
+   "time_utc": "2026-11-07 06:49",
+   "who": "Claude",
+   "what": "CI: artifact uploads no longer block publishing (quota full since 2026-11-06 16:52 UTC); keep artifacts 1 day"
+  },
+  {
+   "sha": "f4f2916",
+   "time_utc": "2026-11-07 05:42",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-07 (no Codex tile on live hub; 4 rounds; tab closed twice)"
+  },
+  {
+   "sha": "989e691",
+   "time_utc": "2026-11-07 04:22",
+   "who": "Claude",
+   "what": "Builder A shift 55: check-in (queue complete, checks green)"
+  },
+  {
+   "sha": "c7407cd",
+   "time_utc": "2026-11-07 03:04",
+   "who": "Claude",
+   "what": "Builder B: Codex screen on a new hub tile (factions, towers, units, legendaries, talents with stats, blurbs and lore)"
+  },
+  {
+   "sha": "e07eb6a",
+   "time_utc": "2026-11-07 01:42",
+   "who": "Claude",
+   "what": "Item 11 done: seven legendary signatures checked; effect particles stabilized (Builder C)"
+  },
+  {
+   "sha": "679abc4",
+   "time_utc": "2026-11-07 01:33",
+   "who": "Claude",
+   "what": "Item 11 shots: six legendary signatures mid-attack on WebGL, Moonsong slab before the beam fix"
+  },
+  {
+   "sha": "7435e68",
+   "time_utc": "2026-11-07 01:24",
+   "who": "Claude",
+   "what": "Fix: beams drew as wide slabs (Moonsong chain, bolt and chain spells)"
+  },
+  {
+   "sha": "0694cfb",
+   "time_utc": "2026-11-07 01:16",
+   "who": "Claude",
+   "what": "Add Godot uid file for tools/pacing.gd (generated on import)"
+  },
+  {
+   "sha": "131f0a0",
+   "time_utc": "2026-11-07 00:23",
+   "who": "Claude",
+   "what": "Builder A shift 54: 30-day progression pacing script and tests; Starborn opens at account level 4"
+  },
+  {
+   "sha": "e1c68c1",
+   "time_utc": "2026-11-06 23:02",
+   "who": "Claude",
+   "what": "Add Godot uid file for tests/fake_relay.gd (generated on import)"
+  },
+  {
+   "sha": "56825b5",
+   "time_utc": "2026-11-06 23:02",
+   "who": "Claude",
+   "what": "Builder B: map picker in match setup (data-drawn previews, shown when a second map is public); map kept in Play again and replays"
+  },
+  {
+   "sha": "201b0ad",
+   "time_utc": "2026-11-06 20:30",
+   "who": "Claude",
+   "what": "Builder A shift 53: online match end to end in a headless test with a fake relay"
+  },
+  {
+   "sha": "0a9f199",
+   "time_utc": "2026-11-06 19:14",
+   "who": "Claude",
+   "what": "Sky and clouds: drifting cloud sheet under the rim, cloud models above the sea, a little more horizon fog (Builder C item 10)"
+  },
+  {
+   "sha": "3433bbb",
+   "time_utc": "2026-11-06 18:58",
+   "who": "Claude",
+   "what": "Builder B: Music volume slider (saved, mutes at 0); master slider relabeled All sound; coach cards never doubled by the legendary ribbon; quests say no claiming needed"
+  },
+  {
+   "sha": "7d2355e",
+   "time_utc": "2026-11-06 17:33",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-06 (profile, quests and campaign screens work; phone fits; no match played)"
+  },
+  {
+   "sha": "982795f",
+   "time_utc": "2026-11-06 16:52",
+   "who": "Claude",
+   "what": "Builder A shift 52: codex data (DataLoader.codex, lore in every data file, tests)"
+  },
   {
    "sha": "e882ce4",
    "time_utc": "2026-11-06 15:02",
@@ -86,102 +182,6 @@
    "time_utc": "2026-11-06 00:42",
    "who": "Claude",
    "what": "Two Roads: shorter long road (56 to 48), fair over 128 matches; separate release switch for maps"
-  },
-  {
-   "sha": "0f0f237",
-   "time_utc": "2026-11-05 22:59",
-   "who": "Claude",
-   "what": "Builder B: first match teaches with the live coach (7 steps, never paused); 95 s Play to end of round 2"
-  },
-  {
-   "sha": "9be9fbf",
-   "time_utc": "2026-11-05 20:36",
-   "who": "Claude",
-   "what": "README: correct check count (529)"
-  },
-  {
-   "sha": "597f66a",
-   "time_utc": "2026-11-05 20:36",
-   "who": "Claude",
-   "what": "Lobby protocol as data (create, join, pick, ready, start, leave; identical sims on every machine); Two Roads fairness measured and failing, map held back"
-  },
-  {
-   "sha": "470e329",
-   "time_utc": "2026-11-05 19:20",
-   "who": "Claude",
-   "what": "Performance budget part 1: 80 units 1,454 -> 816 draw calls, 2.0M -> 1.06M triangles (Builder C item 9)"
-  },
-  {
-   "sha": "15d0a49",
-   "time_utc": "2026-11-05 18:56",
-   "who": "Claude",
-   "what": "Builder B: matches pay XP, coins and race XP into user://profile.json (end-screen row, Level up!, real hub plates); danger line names the race's heal; popup closes at round end"
-  },
-  {
-   "sha": "5b3bfab",
-   "time_utc": "2026-11-05 17:50",
-   "who": "Claude",
-   "what": "Playtest report: cloud 2 on 2026-11-05 (King-pressure red edge and units-reached ribbon work; ribbon names wrong spell for Wildkin)"
-  },
-  {
-   "sha": "5e742f1",
-   "time_utc": "2026-11-05 16:35",
-   "who": "Claude",
-   "what": "Expert bot part 1: target-aware flood habit built, tested and measured worse than Hard (not adopted); feel_expert lineup"
-  },
-  {
-   "sha": "b3ebad1",
-   "time_utc": "2026-11-05 14:58",
-   "who": "Claude",
-   "what": "Builder B: King under pressure (red edge pulse + heartbeat under 30%), Mend Walls glows when castable, overtime ribbon line"
-  },
-  {
-   "sha": "2d05b97",
-   "time_utc": "2026-11-05 13:17",
-   "who": "Claude",
-   "what": "Music: hub theme, two match tracks, King-low layer, win and loss stings (Builder C item 8)"
-  },
-  {
-   "sha": "f33141f",
-   "time_utc": "2026-11-05 12:31",
-   "who": "Claude",
-   "what": "Overtime: waves grow for players who never send (Feel rule 3); turtle now wins 0 of 32 Medium matches"
-  },
-  {
-   "sha": "1526a36",
-   "time_utc": "2026-11-05 11:10",
-   "who": "Claude",
-   "what": "Builder B: sends pop +N income into the income number; a ribbon line when your units reach the target island"
-  },
-  {
-   "sha": "02465f0",
-   "time_utc": "2026-11-05 09:36",
-   "who": "Claude",
-   "what": "Producer: 2026-11-05 (A, B and C queues topped up; no High bugs; turtle and Expert-bot defaults)"
-  },
-  {
-   "sha": "186c99a",
-   "time_utc": "2026-11-05 08:35",
-   "who": "Claude",
-   "what": "Feel rule 2 measured both ways (round-15 standings, win share vs three Mediums): fails honestly; Hard is Medium plus habits, an Expert bot is proposed"
-  },
-  {
-   "sha": "32178e8",
-   "time_utc": "2026-11-05 07:18",
-   "who": "Claude",
-   "what": "Camera life: round-start push-in and a pan toward the King on big hits (Builder C item 7)"
-  },
-  {
-   "sha": "912288d",
-   "time_utc": "2026-11-05 06:59",
-   "who": "Claude",
-   "what": "Builder B: card and talent picks hold the build clock offline; legendary cards fit; King tap works while placing the legendary"
-  },
-  {
-   "sha": "3f0f8ae",
-   "time_utc": "2026-11-05 05:36",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-05 (legendary card, one-tower double-click and Undo work; build timer runs under card and talent screens)"
   }
  ]
 }
