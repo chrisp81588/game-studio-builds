@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-07 11:11",
+ "generated_utc": "2026-11-07 13:24",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-1.md",
  "commits": [
+  {
+   "sha": "3ab2259",
+   "time_utc": "2026-11-07 13:18",
+   "who": "Claude",
+   "what": "Two Roads on screen: shortcut road, gatehouse and portcullis on gate events (Builder C item 13)"
+  },
   {
    "sha": "7fee598",
    "time_utc": "2026-11-07 11:03",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-06 08:34",
    "who": "Claude",
    "what": "Expert bot part 2: coverage-aware placement (27% wins vs three Mediums, target 35%); stage 10 seats Expert; queue complete"
-  },
-  {
-   "sha": "5b0b22c",
-   "time_utc": "2026-11-06 07:32",
-   "who": "Claude",
-   "what": "Performance budget part 3: HP bars batched per island, 80 units 632 -> 550 draw calls (Builder C item 9)"
   }
  ]
 }
