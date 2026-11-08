@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 09:41",
+ "generated_utc": "2026-11-08 11:16",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "9e01d51",
+   "time_utc": "2026-11-08 11:10",
+   "who": "Claude",
+   "what": "Builder B: How to play rewritten as five illustrated pages (build and send, legendary, King spells, overtime, Two Roads gate), numbers from data"
+  },
   {
    "sha": "aec325f",
    "time_utc": "2026-11-08 09:35",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-07 06:49",
    "who": "Claude",
    "what": "CI: artifact uploads no longer block publishing (quota full since 2026-11-06 16:52 UTC); keep artifacts 1 day"
-  },
-  {
-   "sha": "f4f2916",
-   "time_utc": "2026-11-07 05:42",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-07 (no Codex tile on live hub; 4 rounds; tab closed twice)"
   }
  ]
 }
