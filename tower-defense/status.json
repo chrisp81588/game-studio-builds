@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 05:49",
+ "generated_utc": "2026-11-08 07:13",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "078680c",
+   "time_utc": "2026-11-08 07:07",
+   "who": "Claude",
+   "what": "Builder B: Text size 100/115/130% (one UiTheme hook, every screen); end screen buttons wake after 1 s; no check mark on an unusable Buy"
+  },
   {
    "sha": "d5574a4",
    "time_utc": "2026-11-08 05:44",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-07 01:33",
    "who": "Claude",
    "what": "Item 11 shots: six legendary signatures mid-attack on WebGL, Moonsong slab before the beam fix"
-  },
-  {
-   "sha": "7435e68",
-   "time_utc": "2026-11-07 01:24",
-   "who": "Claude",
-   "what": "Fix: beams drew as wide slabs (Moonsong chain, bolt and chain spells)"
   }
  ]
 }
