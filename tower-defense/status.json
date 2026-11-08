@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 22:07",
+ "generated_utc": "2026-11-08 23:08",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-2.md",
  "commits": [
+  {
+   "sha": "3f15264",
+   "time_utc": "2026-11-08 23:02",
+   "who": "Claude",
+   "what": "Builder B: sound pass 2 hooks (talent, level-up, quest, purchase, invite, wave arrival) from shipped files at new pitches"
+  },
   {
    "sha": "a9cdbe6",
    "time_utc": "2026-11-08 21:58",
@@ -152,12 +158,6 @@
    "time_utc": "2026-11-08 07:19",
    "who": "Claude",
    "what": "Tower mastery glows and race banner (Builder C item 15)"
-  },
-  {
-   "sha": "078680c",
-   "time_utc": "2026-11-08 07:07",
-   "who": "Claude",
-   "what": "Builder B: Text size 100/115/130% (one UiTheme hook, every screen); end screen buttons wake after 1 s; no check mark on an unusable Buy"
   }
  ]
 }
