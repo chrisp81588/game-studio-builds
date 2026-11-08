@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 14:13",
+ "generated_utc": "2026-11-08 14:56",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "dec1a12",
+   "time_utc": "2026-11-08 14:49",
+   "who": "Claude",
+   "what": "Builder A shift 64: release flip dry run (tests green flipped, races ready, Two Roads not), flip-aware tests"
+  },
   {
    "sha": "dc6fe54",
    "time_utc": "2026-11-08 14:07",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-07 15:04",
    "who": "Claude",
    "what": "Builder B: Legendaries tile live (stats, aura, abilities, talents); second legendary locked until race level 5 or Patron in setup and lobby"
-  },
-  {
-   "sha": "1849e90",
-   "time_utc": "2026-11-07 14:05",
-   "who": "Claude",
-   "what": "Builder A shift 57: Expert forecast heal (feel-2 passes), soak test and CI step"
   }
  ]
 }
