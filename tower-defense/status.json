@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 15:10",
+ "generated_utc": "2026-11-08 15:27",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "e05cace",
+   "time_utc": "2026-11-08 15:18",
+   "who": "Claude",
+   "what": "Builder B: online matches play through the relay (every action via _act: offline Commands.apply, online LockstepSession.submit); two browsers, no desync"
+  },
   {
    "sha": "9357489",
    "time_utc": "2026-11-08 15:02",
@@ -158,18 +164,6 @@
    "time_utc": "2026-11-07 17:35",
    "who": "Claude",
    "what": "Playtest report: cloud 2 on 2026-11-07 (Legendaries tile, Lobby and the fixed first-match coach work; locked legendary tap says nothing)"
-  },
-  {
-   "sha": "9112d52",
-   "time_utc": "2026-11-07 16:27",
-   "who": "Claude",
-   "what": "Builder A shift 58: RelayCore (rooms by invite code, drop and reconnect rules); fake relay rebuilt on it"
-  },
-  {
-   "sha": "0fa512b",
-   "time_utc": "2026-11-07 16:22",
-   "who": "Claude",
-   "what": "Builder A shift 58: invite codes, deep link parsing and lobby registry with expiry"
   }
  ]
 }
