@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 19:16",
+ "generated_utc": "2026-11-08 20:05",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-2.md",
  "commits": [
+  {
+   "sha": "c913701",
+   "time_utc": "2026-11-08 19:56",
+   "who": "Claude",
+   "what": "Legendary skins: one recolored figure per legendary, worn when equipped (Builder C item 19)"
+  },
   {
    "sha": "021fe07",
    "time_utc": "2026-11-08 19:11",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-08 00:27",
    "who": "Claude",
    "what": "Builder A shift 60: cosmetics store as data (buy, equip, locks), profile v3, pacing store column"
-  },
-  {
-   "sha": "688fd0e",
-   "time_utc": "2026-11-07 23:03",
-   "who": "Claude",
-   "what": "Builder B: Friends screen (add by name and code, recent players from lobbies, invite opens the lobby, remove), saved in the profile"
   }
  ]
 }
