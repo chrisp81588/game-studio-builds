@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 16:40",
+ "generated_utc": "2026-11-08 17:19",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "a682b85",
+   "time_utc": "2026-11-08 17:13",
+   "who": "Claude",
+   "what": "Builder B: Ranked screen (rating, rank badge, season, ladder lineup, last 10, play ranked vs bots); only ranked matches move the rating"
+  },
   {
    "sha": "f5ee4d2",
    "time_utc": "2026-11-08 16:31",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-07 19:11",
    "who": "Claude",
    "what": "Soak logger moves to a root node (SoakLog) so island rebuilds do not stop it"
-  },
-  {
-   "sha": "426ece6",
-   "time_utc": "2026-11-07 19:10",
-   "who": "Claude",
-   "what": "Soak logger (?soak) and fix: sender tint was cached once per unit type"
   }
  ]
 }
