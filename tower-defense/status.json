@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 23:08",
+ "generated_utc": "2026-11-08 23:59",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-2.md",
  "commits": [
+  {
+   "sha": "e3e3880",
+   "time_utc": "2026-11-08 23:50",
+   "who": "Claude",
+   "what": "Builder A shift 69: Free Crowns towers 8% and Wildkin send income 8% (Two Roads fair, Wildkin fixed after late escalation)"
+  },
   {
    "sha": "3f15264",
    "time_utc": "2026-11-08 23:02",
@@ -152,12 +158,6 @@
    "time_utc": "2026-11-08 08:50",
    "who": "Claude",
    "what": "Builder A shift 62: Hard bot gets the gated heal and is now above Medium; ratings and stage 6 re-measured"
-  },
-  {
-   "sha": "c27af37",
-   "time_utc": "2026-11-08 07:19",
-   "who": "Claude",
-   "what": "Tower mastery glows and race banner (Builder C item 15)"
   }
  ]
 }
