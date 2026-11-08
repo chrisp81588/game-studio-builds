@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 05:11",
+ "generated_utc": "2026-11-08 05:49",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-07-cloud-2.md",
+ "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "d5574a4",
+   "time_utc": "2026-11-08 05:44",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-08 (Store and Friends screens work; King fell round 7-8; end screen not captured)"
+  },
   {
    "sha": "cbf3ae4",
    "time_utc": "2026-11-08 05:06",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-07 01:24",
    "who": "Claude",
    "what": "Fix: beams drew as wide slabs (Moonsong chain, bolt and chain spells)"
-  },
-  {
-   "sha": "0694cfb",
-   "time_utc": "2026-11-07 01:16",
-   "who": "Claude",
-   "what": "Add Godot uid file for tools/pacing.gd (generated on import)"
   }
  ]
 }
