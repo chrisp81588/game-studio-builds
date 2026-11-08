@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 08:56",
+ "generated_utc": "2026-11-08 09:41",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "aec325f",
+   "time_utc": "2026-11-08 09:35",
+   "who": "Claude",
+   "what": "Producer: 2026-11-08 (all three queues topped up for P2/P3; no High or open Medium bugs)"
+  },
   {
    "sha": "d7b3a45",
    "time_utc": "2026-11-08 08:50",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-07 05:42",
    "who": "Claude",
    "what": "Playtest report: cloud 1 on 2026-11-07 (no Codex tile on live hub; 4 rounds; tab closed twice)"
-  },
-  {
-   "sha": "989e691",
-   "time_utc": "2026-11-07 04:22",
-   "who": "Claude",
-   "what": "Builder A shift 55: check-in (queue complete, checks green)"
   }
  ]
 }
