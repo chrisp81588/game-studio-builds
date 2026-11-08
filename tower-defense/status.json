@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 00:32",
+ "generated_utc": "2026-11-08 01:29",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-07-cloud-2.md",
  "commits": [
+  {
+   "sha": "fd21aa2",
+   "time_utc": "2026-11-08 01:21",
+   "who": "Claude",
+   "what": "Capstone and talent visuals: rank IV crown, Falling Sky meteor, ricochet beam (Builder C item 14)"
+  },
   {
    "sha": "8ee87c3",
    "time_utc": "2026-11-08 00:27",
@@ -170,12 +176,6 @@
    "time_utc": "2026-11-06 23:02",
    "who": "Claude",
    "what": "Add Godot uid file for tests/fake_relay.gd (generated on import)"
-  },
-  {
-   "sha": "56825b5",
-   "time_utc": "2026-11-06 23:02",
-   "who": "Claude",
-   "what": "Builder B: map picker in match setup (data-drawn previews, shown when a second map is public); map kept in Play again and replays"
   }
  ]
 }
