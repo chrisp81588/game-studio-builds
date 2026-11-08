@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 14:06",
+ "generated_utc": "2026-11-08 14:13",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "dc6fe54",
+   "time_utc": "2026-11-08 14:07",
+   "who": "Claude",
+   "what": "Builder B: online lobby over OnlineSession and the relay (create, join by link, picks, ready, start, banners); verified with two browsers on a local relay"
+  },
   {
    "sha": "a1478b3",
    "time_utc": "2026-11-08 14:00",
@@ -164,18 +170,6 @@
    "time_utc": "2026-11-07 14:05",
    "who": "Claude",
    "what": "Builder A shift 57: Expert forecast heal (feel-2 passes), soak test and CI step"
-  },
-  {
-   "sha": "3ab2259",
-   "time_utc": "2026-11-07 13:18",
-   "who": "Claude",
-   "what": "Two Roads on screen: shortcut road, gatehouse and portcullis on gate events (Builder C item 13)"
-  },
-  {
-   "sha": "7fee598",
-   "time_utc": "2026-11-07 11:03",
-   "who": "Claude",
-   "what": "Builder B: lobby screen on the Friends tile over a LobbyProtocol loopback (code, seats, picks, ready, start seats the match); demo=talentsoon reproduces the real talent path (timer held)"
   }
  ]
 }
