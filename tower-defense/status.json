@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-08 13:23",
+ "generated_utc": "2026-11-08 13:58",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "9a9e8c7",
+   "time_utc": "2026-11-08 13:52",
+   "who": "Claude",
+   "what": "Builder B top item: store shows a picture of every product (Chris)"
+  },
+  {
+   "sha": "68044fa",
+   "time_utc": "2026-11-08 13:49",
+   "who": "Claude",
+   "what": "Check-ins: builders every 2 h to use this week's headroom; Monday and Thursday usage checks from now"
+  },
   {
    "sha": "edeb074",
    "time_utc": "2026-11-08 13:14",
@@ -164,12 +176,6 @@
    "time_utc": "2026-11-07 08:21",
    "who": "Claude",
    "what": "Builder A shift 56: check-in (queue complete, checks green)"
-  },
-  {
-   "sha": "7fdf867",
-   "time_utc": "2026-11-07 07:12",
-   "who": "Claude",
-   "what": "Tier 3 bolder: battlement crown and tall finial change the silhouette (Builder C item 12)"
   }
  ]
 }
