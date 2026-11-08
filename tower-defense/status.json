@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-08 21:54",
+ "generated_utc": "2026-11-08 22:07",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-2.md",
  "commits": [
+  {
+   "sha": "a9cdbe6",
+   "time_utc": "2026-11-08 21:58",
+   "who": "Claude",
+   "what": "Round-cleared beat: coin fountain, XP mote to the legendary, light swell (Builder C item 21)"
+  },
+  {
+   "sha": "afe1aed",
+   "time_utc": "2026-11-08 21:54",
+   "who": "Claude",
+   "what": "Builder A shift 68: replay compatibility (ReplayCheck: data version stamp, verifying replay)"
+  },
   {
    "sha": "30dd89c",
    "time_utc": "2026-11-08 21:45",
@@ -146,24 +158,6 @@
    "time_utc": "2026-11-08 07:07",
    "who": "Claude",
    "what": "Builder B: Text size 100/115/130% (one UiTheme hook, every screen); end screen buttons wake after 1 s; no check mark on an unusable Buy"
-  },
-  {
-   "sha": "d5574a4",
-   "time_utc": "2026-11-08 05:44",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-08 (Store and Friends screens work; King fell round 7-8; end screen not captured)"
-  },
-  {
-   "sha": "cbf3ae4",
-   "time_utc": "2026-11-08 05:06",
-   "who": "Claude",
-   "what": "Builder A shift 61: ranked rating (sim/rating.gd), profile v4; Hard bot measured no stronger than Medium"
-  },
-  {
-   "sha": "042c180",
-   "time_utc": "2026-11-08 03:03",
-   "who": "Claude",
-   "what": "Builder B: store screen (tints, King skins, tower sets, legendary skins, banners; buy with confirm, equip, take off, locks), earned coins only"
   }
  ]
 }
