@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 07:13",
+ "generated_utc": "2026-11-08 07:28",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "c27af37",
+   "time_utc": "2026-11-08 07:19",
+   "who": "Claude",
+   "what": "Tower mastery glows and race banner (Builder C item 15)"
+  },
   {
    "sha": "078680c",
    "time_utc": "2026-11-08 07:07",
@@ -164,18 +170,6 @@
    "time_utc": "2026-11-07 03:04",
    "who": "Claude",
    "what": "Builder B: Codex screen on a new hub tile (factions, towers, units, legendaries, talents with stats, blurbs and lore)"
-  },
-  {
-   "sha": "e07eb6a",
-   "time_utc": "2026-11-07 01:42",
-   "who": "Claude",
-   "what": "Item 11 done: seven legendary signatures checked; effect particles stabilized (Builder C)"
-  },
-  {
-   "sha": "679abc4",
-   "time_utc": "2026-11-07 01:33",
-   "who": "Claude",
-   "what": "Item 11 shots: six legendary signatures mid-attack on WebGL, Moonsong slab before the beam fix"
   }
  ]
 }
