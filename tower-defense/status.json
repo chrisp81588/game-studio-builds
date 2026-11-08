@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 07:28",
+ "generated_utc": "2026-11-08 08:56",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "d7b3a45",
+   "time_utc": "2026-11-08 08:50",
+   "who": "Claude",
+   "what": "Builder A shift 62: Hard bot gets the gated heal and is now above Medium; ratings and stage 6 re-measured"
+  },
   {
    "sha": "c27af37",
    "time_utc": "2026-11-08 07:19",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-07 04:22",
    "who": "Claude",
    "what": "Builder A shift 55: check-in (queue complete, checks green)"
-  },
-  {
-   "sha": "c7407cd",
-   "time_utc": "2026-11-07 03:04",
-   "who": "Claude",
-   "what": "Builder B: Codex screen on a new hub tile (factions, towers, units, legendaries, talents with stats, blurbs and lore)"
   }
  ]
 }
