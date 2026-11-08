@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 11:16",
+ "generated_utc": "2026-11-08 12:46",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "4b8fddb",
+   "time_utc": "2026-11-08 12:37",
+   "who": "Claude",
+   "what": "Builder A shift 63: OnlineSession (online client, sim side) with reconnect; relay bye message"
+  },
   {
    "sha": "9e01d51",
    "time_utc": "2026-11-08 11:10",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-07 07:06",
    "who": "Claude",
    "what": "Builder B: taps on the road, sky or a free pad explain themselves; notes on the stale live link (CI fixed in 6f1412a)"
-  },
-  {
-   "sha": "6f1412a",
-   "time_utc": "2026-11-07 06:49",
-   "who": "Claude",
-   "what": "CI: artifact uploads no longer block publishing (quota full since 2026-11-06 16:52 UTC); keep artifacts 1 day"
   }
  ]
 }
