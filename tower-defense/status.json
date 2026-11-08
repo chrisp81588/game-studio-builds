@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 12:46",
+ "generated_utc": "2026-11-08 13:23",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "edeb074",
+   "time_utc": "2026-11-08 13:14",
+   "who": "Claude",
+   "what": "Tier 2 bolder: branch pick changes the silhouette (Builder C item 17)"
+  },
   {
    "sha": "4b8fddb",
    "time_utc": "2026-11-08 12:37",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-07 07:12",
    "who": "Claude",
    "what": "Tier 3 bolder: battlement crown and tall finial change the silhouette (Builder C item 12)"
-  },
-  {
-   "sha": "1fb1b67",
-   "time_utc": "2026-11-07 07:06",
-   "who": "Claude",
-   "what": "Builder B: taps on the road, sky or a free pad explain themselves; notes on the stale live link (CI fixed in 6f1412a)"
   }
  ]
 }
