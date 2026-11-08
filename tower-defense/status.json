@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 20:05",
+ "generated_utc": "2026-11-08 21:17",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-2.md",
  "commits": [
+  {
+   "sha": "941e0e2",
+   "time_utc": "2026-11-08 21:10",
+   "who": "Claude",
+   "what": "Builder B: replay polish (REPLAY plate on the top bar; Exit stops ticking at once)"
+  },
   {
    "sha": "c913701",
    "time_utc": "2026-11-08 19:56",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-08 01:21",
    "who": "Claude",
    "what": "Capstone and talent visuals: rank IV crown, Falling Sky meteor, ricochet beam (Builder C item 14)"
-  },
-  {
-   "sha": "8ee87c3",
-   "time_utc": "2026-11-08 00:27",
-   "who": "Claude",
-   "what": "Builder A shift 60: cosmetics store as data (buy, equip, locks), profile v3, pacing store column"
   }
  ]
 }
