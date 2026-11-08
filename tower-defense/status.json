@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-08 17:19",
+ "generated_utc": "2026-11-08 18:02",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-08-cloud-1.md",
  "commits": [
+  {
+   "sha": "424d0bb",
+   "time_utc": "2026-11-08 17:56",
+   "who": "Claude",
+   "what": "Armor shapes for colorblind players (Builder C item 18)"
+  },
   {
    "sha": "a682b85",
    "time_utc": "2026-11-08 17:13",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-07 19:42",
    "who": "Claude",
    "what": "View soak: 17 minutes, no crash, counts flat (Builder C item 16)"
-  },
-  {
-   "sha": "1b0ab33",
-   "time_utc": "2026-11-07 19:11",
-   "who": "Claude",
-   "what": "Soak logger moves to a root node (SoakLog) so island rebuilds do not stop it"
   }
  ]
 }
