@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 00:06",
+ "generated_utc": "2026-11-09 00:51",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-08-cloud-2.md",
+ "latest_report": "2026-11-09-cloud-1.md",
  "commits": [
+  {
+   "sha": "e7ed629",
+   "time_utc": "2026-11-09 00:45",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-09 (setup screen hides Start match below the fold; race cards and new-faction popup read well)"
+  },
   {
    "sha": "e1c4d49",
    "time_utc": "2026-11-09 00:00",
@@ -152,12 +158,6 @@
    "time_utc": "2026-11-08 11:10",
    "who": "Claude",
    "what": "Builder B: How to play rewritten as five illustrated pages (build and send, legendary, King spells, overtime, Two Roads gate), numbers from data"
-  },
-  {
-   "sha": "aec325f",
-   "time_utc": "2026-11-08 09:35",
-   "who": "Claude",
-   "what": "Producer: 2026-11-08 (all three queues topped up for P2/P3; no High or open Medium bugs)"
   }
  ]
 }
