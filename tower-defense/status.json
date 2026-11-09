@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 23:23",
+ "generated_utc": "2026-11-09 23:58",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-4.md",
  "commits": [
+  {
+   "sha": "552203d",
+   "time_utc": "2026-11-09 23:52",
+   "who": "Claude",
+   "what": "Item 31: banner-in-body route tried once, reverted (broke unit colors on web); findings recorded (Builder C)"
+  },
   {
    "sha": "4152f48",
    "time_utc": "2026-11-09 23:15",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 08:21",
    "who": "Claude",
    "what": "Builder A shift 74: check-in (playtest read, nothing for A)"
-  },
-  {
-   "sha": "8719220",
-   "time_utc": "2026-11-09 07:09",
-   "who": "Claude",
-   "what": "Builder B: ranked placement for the first 5 matches; end screen names who is still standing"
   }
  ]
 }
