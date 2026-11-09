@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 06:48",
+ "generated_utc": "2026-11-09 07:17",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-2.md",
  "commits": [
+  {
+   "sha": "8719220",
+   "time_utc": "2026-11-09 07:09",
+   "who": "Claude",
+   "what": "Builder B: ranked placement for the first 5 matches; end screen names who is still standing"
+  },
   {
    "sha": "cede447",
    "time_utc": "2026-11-09 06:42",
@@ -146,12 +152,6 @@
    "time_utc": "2026-11-08 17:56",
    "who": "Claude",
    "what": "Armor shapes for colorblind players (Builder C item 18)"
-  },
-  {
-   "sha": "a682b85",
-   "time_utc": "2026-11-08 17:13",
-   "who": "Claude",
-   "what": "Builder B: Ranked screen (rating, rank badge, season, ladder lineup, last 10, play ranked vs bots); only ranked matches move the rating"
   }
  ]
 }
