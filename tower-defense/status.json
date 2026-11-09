@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 03:40",
+ "generated_utc": "2026-11-09 04:03",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-1.md",
  "commits": [
+  {
+   "sha": "3ae39ae",
+   "time_utc": "2026-11-09 03:55",
+   "who": "Claude",
+   "what": "Item 9 banner batch: third try reverted, findings recorded (Builder C)"
+  },
   {
    "sha": "fe0039d",
    "time_utc": "2026-11-09 03:31",
