@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 04:03",
+ "generated_utc": "2026-11-09 05:31",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-1.md",
  "commits": [
+  {
+   "sha": "55b0083",
+   "time_utc": "2026-11-09 05:23",
+   "who": "Claude",
+   "what": "Builder B: range numbers before -> after on upgrades, legendary talents, faction talents and build cards"
+  },
   {
    "sha": "3ae39ae",
    "time_utc": "2026-11-09 03:55",
@@ -146,12 +152,6 @@
    "time_utc": "2026-11-08 15:02",
    "who": "Claude",
    "what": "Builder A shift 65: faction pitch lines in the race files and the codex, checked against the data"
-  },
-  {
-   "sha": "dec1a12",
-   "time_utc": "2026-11-08 14:49",
-   "who": "Claude",
-   "what": "Builder A shift 64: release flip dry run (tests green flipped, races ready, Two Roads not), flip-aware tests"
   }
  ]
 }
