@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 14:35",
+ "generated_utc": "2026-11-09 15:16",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-3.md",
  "commits": [
+  {
+   "sha": "40aa056",
+   "time_utc": "2026-11-09 15:07",
+   "who": "Claude",
+   "what": "Builder B: ranked lineup names faction and legendary per bot, and the match seats them"
+  },
   {
    "sha": "39e1f75",
    "time_utc": "2026-11-09 14:30",
@@ -152,12 +158,6 @@
    "time_utc": "2026-11-09 01:10",
    "who": "Claude",
    "what": "Builder B: Start match and Back on top of match setup; one-line faction pitch; intro card closes on an outside tap"
-  },
-  {
-   "sha": "eb634e2",
-   "time_utc": "2026-11-09 01:01",
-   "who": "Claude",
-   "what": "Builder A shift 70: campaign re-swept, bot ratings re-measured (Hard and Expert no stronger than Medium under the shipped rules)"
   }
  ]
 }
