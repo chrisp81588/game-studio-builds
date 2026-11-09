@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 13:20",
+ "generated_utc": "2026-11-09 13:53",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-3.md",
  "commits": [
+  {
+   "sha": "e2ffb7b",
+   "time_utc": "2026-11-09 13:46",
+   "who": "Claude",
+   "what": "Sky Marshal and Crownguard read apart (Builder C item 26)"
+  },
   {
    "sha": "feac413",
    "time_utc": "2026-11-09 13:11",
