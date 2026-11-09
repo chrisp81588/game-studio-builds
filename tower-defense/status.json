@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 07:17",
+ "generated_utc": "2026-11-09 08:29",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-2.md",
  "commits": [
+  {
+   "sha": "6de7391",
+   "time_utc": "2026-11-09 08:21",
+   "who": "Claude",
+   "what": "Builder A shift 74: check-in (playtest read, nothing for A)"
+  },
   {
    "sha": "8719220",
    "time_utc": "2026-11-09 07:09",
@@ -146,12 +152,6 @@
    "time_utc": "2026-11-08 18:40",
    "who": "Claude",
    "what": "Playtest report: cloud 2 on 2026-11-08 (Codex and Ranked work; end screen and profile update correctly; ranked loss shows rating +0)"
-  },
-  {
-   "sha": "424d0bb",
-   "time_utc": "2026-11-08 17:56",
-   "who": "Claude",
-   "what": "Armor shapes for colorblind players (Builder C item 18)"
   }
  ]
 }
