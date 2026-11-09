@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-09 12:21",
+ "generated_utc": "2026-11-09 12:46",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-09-cloud-2.md",
+ "latest_report": "2026-11-09-cloud-3.md",
  "commits": [
+  {
+   "sha": "e3924cb",
+   "time_utc": "2026-11-09 12:38",
+   "who": "Claude",
+   "what": "Playtest report: cloud 3 on 2026-11-09 (setup Start match and paused-clock line fixed; range ring seen)"
+  },
+  {
+   "sha": "3750c5d",
+   "time_utc": "2026-11-09 12:33",
+   "who": "Claude",
+   "what": "Builder A shift 76: ranked lineups name factions and legendaries (Rating.ladder_seats)"
+  },
   {
    "sha": "8bcc73f",
    "time_utc": "2026-11-09 12:12",
@@ -140,18 +152,6 @@
    "time_utc": "2026-11-09 00:00",
    "who": "Claude",
    "what": "Overtime look, part 1: red rings on overtime waves, storm motes, storm tint wiring (Builder C item 22, partial)"
-  },
-  {
-   "sha": "e3e3880",
-   "time_utc": "2026-11-08 23:50",
-   "who": "Claude",
-   "what": "Builder A shift 69: Free Crowns towers 8% and Wildkin send income 8% (Two Roads fair, Wildkin fixed after late escalation)"
-  },
-  {
-   "sha": "3f15264",
-   "time_utc": "2026-11-08 23:02",
-   "who": "Claude",
-   "what": "Builder B: sound pass 2 hooks (talent, level-up, quest, purchase, invite, wave arrival) from shipped files at new pitches"
   }
  ]
 }
