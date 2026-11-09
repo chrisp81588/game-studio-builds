@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 18:02",
+ "generated_utc": "2026-11-09 18:36",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-3.md",
  "commits": [
+  {
+   "sha": "83e9460",
+   "time_utc": "2026-11-09 18:27",
+   "who": "Claude",
+   "what": "Builder A shift 79: match history in the profile (v5), one-line match log text"
+  },
   {
    "sha": "ece8c6d",
    "time_utc": "2026-11-09 17:54",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-09 03:31",
    "who": "Claude",
    "what": "Builder B: store pictures on every card, hover/tap preview, Buy confirms on the picture card"
-  },
-  {
-   "sha": "0eb736b",
-   "time_utc": "2026-11-09 03:00",
-   "who": "Claude",
-   "what": "Builder A shift 71: Hard-bot strength experiments (findings only, no change shipped)"
   }
  ]
 }
