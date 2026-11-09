@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 23:14",
+ "generated_utc": "2026-11-09 23:23",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-4.md",
  "commits": [
+  {
+   "sha": "4152f48",
+   "time_utc": "2026-11-09 23:15",
+   "who": "Claude",
+   "what": "Builder B: out-of-sync screen with Copy details and Back to hub; dump-routing bug filed for Builder A"
+  },
   {
    "sha": "45a689f",
    "time_utc": "2026-11-09 23:06",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 07:09",
    "who": "Claude",
    "what": "Builder B: ranked placement for the first 5 matches; end screen names who is still standing"
-  },
-  {
-   "sha": "cede447",
-   "time_utc": "2026-11-09 06:42",
-   "who": "Claude",
-   "what": "Playtest report: cloud 2 on 2026-11-09 (ranked rating -12 works; first loss drops Gold to Silver)"
   }
  ]
 }
