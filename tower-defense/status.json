@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 01:08",
+ "generated_utc": "2026-11-09 01:22",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-1.md",
  "commits": [
+  {
+   "sha": "da21e15",
+   "time_utc": "2026-11-09 01:10",
+   "who": "Claude",
+   "what": "Builder B: Start match and Back on top of match setup; one-line faction pitch; intro card closes on an outside tap"
+  },
   {
    "sha": "eb634e2",
    "time_utc": "2026-11-09 01:01",
@@ -146,18 +152,6 @@
    "time_utc": "2026-11-08 13:49",
    "who": "Claude",
    "what": "Check-ins: builders every 2 h to use this week's headroom; Monday and Thursday usage checks from now"
-  },
-  {
-   "sha": "edeb074",
-   "time_utc": "2026-11-08 13:14",
-   "who": "Claude",
-   "what": "Tier 2 bolder: branch pick changes the silhouette (Builder C item 17)"
-  },
-  {
-   "sha": "4b8fddb",
-   "time_utc": "2026-11-08 12:37",
-   "who": "Claude",
-   "what": "Builder A shift 63: OnlineSession (online client, sim side) with reconnect; relay bye message"
   }
  ]
 }
