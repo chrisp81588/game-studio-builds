@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 19:57",
+ "generated_utc": "2026-11-09 20:36",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-4.md",
  "commits": [
+  {
+   "sha": "59867c9",
+   "time_utc": "2026-11-09 20:30",
+   "who": "Claude",
+   "what": "Builder A shift 80: desync diagnostics (StateDiff, dump packets, copyable report)"
+  },
   {
    "sha": "b746597",
    "time_utc": "2026-11-09 19:48",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 05:46",
    "who": "Claude",
    "what": "Item 9 banner batch: fourth try reverted, findings recorded; Builder C queue empty"
-  },
-  {
-   "sha": "55b0083",
-   "time_utc": "2026-11-09 05:23",
-   "who": "Claude",
-   "what": "Builder B: range numbers before -> after on upgrades, legendary talents, faction talents and build cards"
   }
  ]
 }
