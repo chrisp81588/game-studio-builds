@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-09 01:22",
+ "generated_utc": "2026-11-09 02:05",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-1.md",
  "commits": [
+  {
+   "sha": "571b7e8",
+   "time_utc": "2026-11-09 01:57",
+   "who": "Claude",
+   "what": "Item 23 done: ricochet beam on camera (Builder C)"
+  },
+  {
+   "sha": "2bb415e",
+   "time_utc": "2026-11-09 01:49",
+   "who": "Claude",
+   "what": "Item 22 done: overtime storm tint measured 30-45% darker on web (it worked; only looked similar by eye)"
+  },
   {
    "sha": "da21e15",
    "time_utc": "2026-11-09 01:10",
@@ -140,18 +152,6 @@
    "time_utc": "2026-11-08 14:00",
    "who": "Claude",
    "what": "Menu: showcase hero animates again, one Play button in the panel, hub bar fits any window"
-  },
-  {
-   "sha": "9a9e8c7",
-   "time_utc": "2026-11-08 13:52",
-   "who": "Claude",
-   "what": "Builder B top item: store shows a picture of every product (Chris)"
-  },
-  {
-   "sha": "68044fa",
-   "time_utc": "2026-11-08 13:49",
-   "who": "Claude",
-   "what": "Check-ins: builders every 2 h to use this week's headroom; Monday and Thursday usage checks from now"
   }
  ]
 }
