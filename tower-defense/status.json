@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-09 10:07",
+ "generated_utc": "2026-11-09 10:38",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-2.md",
  "commits": [
+  {
+   "sha": "94f60f6",
+   "time_utc": "2026-11-09 10:32",
+   "who": "Claude",
+   "what": "Builder A shift 75: view parse test checks the broken script in a child process (CI fails a run that prints SCRIPT ERROR)"
+  },
+  {
+   "sha": "4551861",
+   "time_utc": "2026-11-09 10:27",
+   "who": "Claude",
+   "what": "Builder A shift 75: view parse check (CI step, test with a broken script)"
+  },
   {
    "sha": "e11202d",
    "time_utc": "2026-11-09 10:00",
@@ -140,18 +152,6 @@
    "time_utc": "2026-11-08 21:54",
    "who": "Claude",
    "what": "Builder A shift 68: replay compatibility (ReplayCheck: data version stamp, verifying replay)"
-  },
-  {
-   "sha": "30dd89c",
-   "time_utc": "2026-11-08 21:45",
-   "who": "Claude",
-   "what": "Builder A shift 67: match length rule (feel-4) and late send escalation; campaign stages keep their tuning"
-  },
-  {
-   "sha": "941e0e2",
-   "time_utc": "2026-11-08 21:10",
-   "who": "Claude",
-   "what": "Builder B: replay polish (REPLAY plate on the top bar; Exit stops ticking at once)"
   }
  ]
 }
