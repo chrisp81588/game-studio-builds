@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 06:37",
+ "generated_utc": "2026-11-09 06:48",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-09-cloud-1.md",
+ "latest_report": "2026-11-09-cloud-2.md",
  "commits": [
+  {
+   "sha": "cede447",
+   "time_utc": "2026-11-09 06:42",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-09 (ranked rating -12 works; first loss drops Gold to Silver)"
+  },
   {
    "sha": "0d41882",
    "time_utc": "2026-11-09 06:31",
@@ -146,18 +152,6 @@
    "time_utc": "2026-11-08 17:13",
    "who": "Claude",
    "what": "Builder B: Ranked screen (rating, rank badge, season, ladder lineup, last 10, play ranked vs bots); only ranked matches move the rating"
-  },
-  {
-   "sha": "f5ee4d2",
-   "time_utc": "2026-11-08 16:31",
-   "who": "Claude",
-   "what": "Builder A shift 66: ranked vs bots data side (ladder lineups, seasons, ranked-only rating)"
-  },
-  {
-   "sha": "0c8dcef",
-   "time_utc": "2026-11-08 15:59",
-   "who": "Claude",
-   "what": "Starborn and Free Crowns get their own figures (Builder C item 20)"
   }
  ]
 }
