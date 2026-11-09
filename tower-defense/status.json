@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 03:09",
+ "generated_utc": "2026-11-09 03:40",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-1.md",
  "commits": [
+  {
+   "sha": "fe0039d",
+   "time_utc": "2026-11-09 03:31",
+   "who": "Claude",
+   "what": "Builder B: store pictures on every card, hover/tap preview, Buy confirms on the picture card"
+  },
   {
    "sha": "0eb736b",
    "time_utc": "2026-11-09 03:00",
@@ -140,18 +146,6 @@
    "time_utc": "2026-11-08 14:49",
    "who": "Claude",
    "what": "Builder A shift 64: release flip dry run (tests green flipped, races ready, Two Roads not), flip-aware tests"
-  },
-  {
-   "sha": "dc6fe54",
-   "time_utc": "2026-11-08 14:07",
-   "who": "Claude",
-   "what": "Builder B: online lobby over OnlineSession and the relay (create, join by link, picks, ready, start, banners); verified with two browsers on a local relay"
-  },
-  {
-   "sha": "a1478b3",
-   "time_utc": "2026-11-08 14:00",
-   "who": "Claude",
-   "what": "Range clarity: top item for Builder C (shared range display) then Builder B (six places it shows)"
   }
  ]
 }
