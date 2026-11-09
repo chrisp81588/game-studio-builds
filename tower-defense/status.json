@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 11:32",
+ "generated_utc": "2026-11-09 12:21",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-2.md",
  "commits": [
+  {
+   "sha": "8bcc73f",
+   "time_utc": "2026-11-09 12:12",
+   "who": "Claude",
+   "what": "Store items on the island: tower tints and sets, King crowns, keep banner (Builder C item 25)"
+  },
   {
    "sha": "5c4fc7b",
    "time_utc": "2026-11-09 11:23",
@@ -146,12 +152,6 @@
    "time_utc": "2026-11-08 23:02",
    "who": "Claude",
    "what": "Builder B: sound pass 2 hooks (talent, level-up, quest, purchase, invite, wave arrival) from shipped files at new pitches"
-  },
-  {
-   "sha": "a9cdbe6",
-   "time_utc": "2026-11-08 21:58",
-   "who": "Claude",
-   "what": "Round-cleared beat: coin fountain, XP mote to the legendary, light swell (Builder C item 21)"
   }
  ]
 }
