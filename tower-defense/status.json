@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 13:53",
+ "generated_utc": "2026-11-09 14:35",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-3.md",
  "commits": [
+  {
+   "sha": "39e1f75",
+   "time_utc": "2026-11-09 14:30",
+   "who": "Claude",
+   "what": "Builder A shift 77: gold_idle event when a build phase ends with more than 150 unspent gold"
+  },
   {
    "sha": "e2ffb7b",
    "time_utc": "2026-11-09 13:46",
@@ -152,12 +158,6 @@
    "time_utc": "2026-11-09 01:01",
    "who": "Claude",
    "what": "Builder A shift 70: campaign re-swept, bot ratings re-measured (Hard and Expert no stronger than Medium under the shipped rules)"
-  },
-  {
-   "sha": "e7ed629",
-   "time_utc": "2026-11-09 00:45",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-09 (setup screen hides Start match below the fold; race cards and new-faction popup read well)"
   }
  ]
 }
