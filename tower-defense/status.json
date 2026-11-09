@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 12:46",
+ "generated_utc": "2026-11-09 13:20",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-3.md",
  "commits": [
+  {
+   "sha": "feac413",
+   "time_utc": "2026-11-09 13:11",
+   "who": "Claude",
+   "what": "Builder B: spell areas on the island (gem hover/hold, armed cast range and blast area) on the new range display"
+  },
   {
    "sha": "e3924cb",
    "time_utc": "2026-11-09 12:38",
@@ -146,12 +152,6 @@
    "time_utc": "2026-11-09 00:45",
    "who": "Claude",
    "what": "Playtest report: cloud 1 on 2026-11-09 (setup screen hides Start match below the fold; race cards and new-faction popup read well)"
-  },
-  {
-   "sha": "e1c4d49",
-   "time_utc": "2026-11-09 00:00",
-   "who": "Claude",
-   "what": "Overtime look, part 1: red rings on overtime waves, storm motes, storm tint wiring (Builder C item 22, partial)"
   }
  ]
 }
