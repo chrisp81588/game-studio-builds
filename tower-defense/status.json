@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 21:29",
+ "generated_utc": "2026-11-09 21:57",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-4.md",
  "commits": [
+  {
+   "sha": "b51bf83",
+   "time_utc": "2026-11-09 21:48",
+   "who": "Claude",
+   "what": "Profile avatars: eight round badges with faction rings (Builder C item 30)"
+  },
   {
    "sha": "cc7e960",
    "time_utc": "2026-11-09 21:21",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 06:31",
    "who": "Claude",
    "what": "Builder A shift 73: check-in (nothing new upstream)"
-  },
-  {
-   "sha": "c00aa62",
-   "time_utc": "2026-11-09 06:30",
-   "who": "Claude",
-   "what": "Builder A shift 72: Hard and Expert rebuilt on Medium's habits (stronger by head to head), harness head-to-head printout, feel-3 statistically sound"
   }
  ]
 }
