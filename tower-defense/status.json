@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-09 20:36",
+ "generated_utc": "2026-11-09 21:29",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-09-cloud-4.md",
  "commits": [
+  {
+   "sha": "cc7e960",
+   "time_utc": "2026-11-09 21:21",
+   "who": "Claude",
+   "what": "Builder B: rejoin an online match after a reload (saved room, auto on invite/host pages, hub button for 2 min)"
+  },
   {
    "sha": "59867c9",
    "time_utc": "2026-11-09 20:30",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 06:30",
    "who": "Claude",
    "what": "Builder A shift 72: Hard and Expert rebuilt on Medium's habits (stronger by head to head), harness head-to-head printout, feel-3 statistically sound"
-  },
-  {
-   "sha": "221bbbf",
-   "time_utc": "2026-11-09 05:46",
-   "who": "Claude",
-   "what": "Item 9 banner batch: fourth try reverted, findings recorded; Builder C queue empty"
   }
  ]
 }
