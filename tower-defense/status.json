@@ -1,8 +1,26 @@
 {
- "generated_utc": "2026-11-10 14:02",
+ "generated_utc": "2026-11-10 14:18",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-3.md",
  "commits": [
+  {
+   "sha": "11764ec",
+   "time_utc": "2026-11-10 14:09",
+   "who": "Claude",
+   "what": "Plan: menu restore not yet shot (item 34)"
+  },
+  {
+   "sha": "b965394",
+   "time_utc": "2026-11-10 14:09",
+   "who": "Claude",
+   "what": "Faction lighting: shots and write-up (Builder C item 34)"
+  },
+  {
+   "sha": "6321734",
+   "time_utc": "2026-11-10 14:03",
+   "who": "Claude",
+   "what": "Faction lighting keyed by the island's dressing race; softer Stoneforged"
+  },
   {
    "sha": "4e17828",
    "time_utc": "2026-11-10 13:56",
@@ -146,24 +164,6 @@
    "time_utc": "2026-11-09 23:06",
    "who": "Claude",
    "what": "Builder A shift 81: fairness with full talents measured (fails), harness --talents=all and --skip-kind"
-  },
-  {
-   "sha": "b51bf83",
-   "time_utc": "2026-11-09 21:48",
-   "who": "Claude",
-   "what": "Profile avatars: eight round badges with faction rings (Builder C item 30)"
-  },
-  {
-   "sha": "cc7e960",
-   "time_utc": "2026-11-09 21:21",
-   "who": "Claude",
-   "what": "Builder B: rejoin an online match after a reload (saved room, auto on invite/host pages, hub button for 2 min)"
-  },
-  {
-   "sha": "59867c9",
-   "time_utc": "2026-11-09 20:30",
-   "who": "Claude",
-   "what": "Builder A shift 80: desync diagnostics (StateDiff, dump packets, copyable report)"
   }
  ]
 }
