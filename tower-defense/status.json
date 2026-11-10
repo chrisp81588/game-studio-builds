@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-10 12:10",
+ "generated_utc": "2026-11-10 12:40",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-10-cloud-2.md",
+ "latest_report": "2026-11-10-cloud-3.md",
  "commits": [
+  {
+   "sha": "6605647",
+   "time_utc": "2026-11-10 12:34",
+   "who": "Claude",
+   "what": "Playtest report: cloud 3 on 2026-11-10 (quality=low hook works; no Quality option in Settings yet; Settings tile hidden on phone hub)"
+  },
+  {
+   "sha": "7cde363",
+   "time_utc": "2026-11-10 12:33",
+   "who": "Claude",
+   "what": "Builder A shift 88: lockstep float audit (pow removed from state, guard test, noise experiment)"
+  },
   {
    "sha": "1bebec2",
    "time_utc": "2026-11-10 12:02",
@@ -152,24 +164,6 @@
    "time_utc": "2026-11-09 19:14",
    "who": "Claude",
    "what": "Builder B: phone sweep at 130% text (Ranked row, Friends placeholder); Ranked Change button"
-  },
-  {
-   "sha": "fdc6f61",
-   "time_utc": "2026-11-09 18:38",
-   "who": "Claude",
-   "what": "Playtest report: cloud 4 on 2026-11-09 (ranked placement badge and named lineup work; idle-gold nudge not seen)"
-  },
-  {
-   "sha": "83e9460",
-   "time_utc": "2026-11-09 18:27",
-   "who": "Claude",
-   "what": "Builder A shift 79: match history in the profile (v5), one-line match log text"
-  },
-  {
-   "sha": "ece8c6d",
-   "time_utc": "2026-11-09 17:54",
-   "who": "Claude",
-   "what": "Trailer camera: ?trailer plays a self-driving match with a 60 s scripted camera (Builder C item 27)"
   }
  ]
 }
