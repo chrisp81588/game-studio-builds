@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 20:18",
+ "generated_utc": "2026-11-10 20:33",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "5c04059",
+   "time_utc": "2026-11-10 20:25",
+   "who": "Claude",
+   "what": "Builder A shift 92 (in progress): harness --force-card, tools/card_sweep.sh, card gain column in the balance sheet generator"
+  },
   {
    "sha": "dd4492a",
    "time_utc": "2026-11-10 20:09",
