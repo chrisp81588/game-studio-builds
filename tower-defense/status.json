@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-09 23:58",
+ "generated_utc": "2026-11-10 00:43",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-09-cloud-4.md",
+ "latest_report": "2026-11-10-cloud-1.md",
  "commits": [
+  {
+   "sha": "f4bc810",
+   "time_utc": "2026-11-10 00:34",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-10 (idle-gold nudge works from round 2; cloud-4 'not seen' was a wrong test)"
+  },
+  {
+   "sha": "e92b358",
+   "time_utc": "2026-11-10 00:27",
+   "who": "Claude",
+   "what": "Builder A shift 82: route dump packets in OnlineSession (Builder B's bug), end-to-end desync test"
+  },
   {
    "sha": "552203d",
    "time_utc": "2026-11-09 23:52",
@@ -158,18 +170,6 @@
    "time_utc": "2026-11-09 09:37",
    "who": "Claude",
    "what": "Producer: 2026-11-09 (range display to top of Builder C; timer bug to Builder B; 8-deep queues for 2-hour shifts)"
-  },
-  {
-   "sha": "7ac4373",
-   "time_utc": "2026-11-09 09:09",
-   "who": "Claude",
-   "what": "Builder B: placement ghost shows its range ring; on PC the ghost follows the pointer"
-  },
-  {
-   "sha": "6de7391",
-   "time_utc": "2026-11-09 08:21",
-   "who": "Claude",
-   "what": "Builder A shift 74: check-in (playtest read, nothing for A)"
   }
  ]
 }
