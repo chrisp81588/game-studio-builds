@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 21:56",
+ "generated_utc": "2026-11-10 22:39",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "febbbd0",
+   "time_utc": "2026-11-10 22:33",
+   "who": "Claude",
+   "what": "Builder A shift 93 (in progress): Thick Walls +350, Wide Shot +35%, Bounty Board +80% (all about -0.33 on seed 9500 and 9300; verifying)"
+  },
   {
    "sha": "95b4d17",
    "time_utc": "2026-11-10 21:47",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-10 12:33",
    "who": "Claude",
    "what": "Builder A shift 88: lockstep float audit (pow removed from state, guard test, noise experiment)"
-  },
-  {
-   "sha": "1bebec2",
-   "time_utc": "2026-11-10 12:02",
-   "who": "Claude",
-   "what": "Builder A shift 87: Wildkin tree trimmed; talented fairness per map measured (item 39)"
   }
  ]
 }
