@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 10:14",
+ "generated_utc": "2026-11-10 11:16",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-2.md",
  "commits": [
+  {
+   "sha": "dac02ba",
+   "time_utc": "2026-11-10 11:10",
+   "who": "Claude",
+   "what": "Builder B: hub follows your last match's faction (dressing, grass, showcase with skin)"
+  },
   {
    "sha": "23feed5",
    "time_utc": "2026-11-10 10:08",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 16:39",
    "who": "Claude",
    "what": "Builder A shift 78: relay hardening (version handshake, ping and timeout, max rooms, room cleanup, rate limit)"
-  },
-  {
-   "sha": "ba2a6d6",
-   "time_utc": "2026-11-09 15:54",
-   "who": "Claude",
-   "what": "Faction dressing on Two Roads checked; placement also avoids the shortcut and gate (Builder C item 28)"
   }
  ]
 }
