@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 07:16",
+ "generated_utc": "2026-11-10 08:25",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-2.md",
  "commits": [
+  {
+   "sha": "d26850c",
+   "time_utc": "2026-11-10 08:19",
+   "who": "Claude",
+   "what": "Builder A shift 86: check-in (nothing new for A)"
+  },
   {
    "sha": "9d067f9",
    "time_utc": "2026-11-10 07:09",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 13:46",
    "who": "Claude",
    "what": "Sky Marshal and Crownguard read apart (Builder C item 26)"
-  },
-  {
-   "sha": "feac413",
-   "time_utc": "2026-11-09 13:11",
-   "who": "Claude",
-   "what": "Builder B: spell areas on the island (gem hover/hold, armed cast range and blast area) on the new range display"
   }
  ]
 }
