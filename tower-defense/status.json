@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 03:20",
+ "generated_utc": "2026-11-10 03:33",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-1.md",
  "commits": [
+  {
+   "sha": "53f37dd",
+   "time_utc": "2026-11-10 03:24",
+   "who": "Claude",
+   "what": "Builder A shift 83: talent tree strength measured per faction and per node (harness --talents-only, --skip-node); no game change"
+  },
   {
    "sha": "cc977f3",
    "time_utc": "2026-11-10 03:14",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 10:32",
    "who": "Claude",
    "what": "Builder A shift 75: view parse test checks the broken script in a child process (CI fails a run that prints SCRIPT ERROR)"
-  },
-  {
-   "sha": "4551861",
-   "time_utc": "2026-11-09 10:27",
-   "who": "Claude",
-   "what": "Builder A shift 75: view parse check (CI step, test with a broken script)"
   }
  ]
 }
