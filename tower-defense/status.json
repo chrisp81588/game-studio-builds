@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 14:18",
+ "generated_utc": "2026-11-10 14:49",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-3.md",
  "commits": [
+  {
+   "sha": "9b06acc",
+   "time_utc": "2026-11-10 14:42",
+   "who": "Claude",
+   "what": "Builder A shift 89: profile repair (Progression.validate), safe migrate, 500-profile fuzz test"
+  },
   {
    "sha": "11764ec",
    "time_utc": "2026-11-10 14:09",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-09 23:15",
    "who": "Claude",
    "what": "Builder B: out-of-sync screen with Copy details and Back to hub; dump-routing bug filed for Builder A"
-  },
-  {
-   "sha": "45a689f",
-   "time_utc": "2026-11-09 23:06",
-   "who": "Claude",
-   "what": "Builder A shift 81: fairness with full talents measured (fails), harness --talents=all and --skip-kind"
   }
  ]
 }
