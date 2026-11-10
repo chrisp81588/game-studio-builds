@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 12:40",
+ "generated_utc": "2026-11-10 13:29",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-3.md",
  "commits": [
+  {
+   "sha": "c6189e7",
+   "time_utc": "2026-11-10 13:24",
+   "who": "Claude",
+   "what": "Builder B: phone tower popup as a right side sheet; ribbon fades in; Feedback spacing"
+  },
   {
    "sha": "6605647",
    "time_utc": "2026-11-10 12:34",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-09 19:48",
    "who": "Claude",
    "what": "Menu follows your faction: MenuLook helper for the hub (Builder C item 29, C part)"
-  },
-  {
-   "sha": "22c7a92",
-   "time_utc": "2026-11-09 19:14",
-   "who": "Claude",
-   "what": "Builder B: phone sweep at 130% text (Ranked row, Friends placeholder); Ranked Change button"
   }
  ]
 }
