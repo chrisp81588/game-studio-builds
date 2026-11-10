@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-10 20:33",
+ "generated_utc": "2026-11-10 21:23",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "f76fede",
+   "time_utc": "2026-11-10 21:15",
+   "who": "Claude",
+   "what": "Builder A shift 92 (in progress): Quick Mind -40% and Royal Reserve -50% (both measured weak on seed 9300; verifying on 9400)"
+  },
+  {
+   "sha": "b9c0cb2",
+   "time_utc": "2026-11-10 21:12",
+   "who": "Claude",
+   "what": "Builder B: Settings Graphics High/Low, saved, applied at match start"
+  },
   {
    "sha": "5c04059",
    "time_utc": "2026-11-10 20:25",
@@ -158,18 +170,6 @@
    "time_utc": "2026-11-10 09:39",
    "who": "Claude",
    "what": "Producer: 2026-11-10 (queues refilled for A, B, C; no open Medium bugs; roadmap-depth note for the lead)"
-  },
-  {
-   "sha": "d51168a",
-   "time_utc": "2026-11-10 09:09",
-   "who": "Claude",
-   "what": "Builder B: avatar pick on Profile and badge on the hub plate (Builder C's Avatars)"
-  },
-  {
-   "sha": "d26850c",
-   "time_utc": "2026-11-10 08:19",
-   "who": "Claude",
-   "what": "Builder A shift 86: check-in (nothing new for A)"
   }
  ]
 }
