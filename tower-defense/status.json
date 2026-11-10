@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 21:23",
+ "generated_utc": "2026-11-10 21:34",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "8e38c62",
+   "time_utc": "2026-11-10 21:28",
+   "who": "Claude",
+   "what": "Builder A shift 92 (in progress): Masterwork +25% (measured weak at +15% on two seed sets; verifying)"
+  },
   {
    "sha": "f76fede",
    "time_utc": "2026-11-10 21:15",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 10:08",
    "who": "Claude",
    "what": "Quality switch for weak phones (Builder C item 32)"
-  },
-  {
-   "sha": "45a7f0b",
-   "time_utc": "2026-11-10 09:39",
-   "who": "Claude",
-   "what": "Producer: 2026-11-10 (queues refilled for A, B, C; no open Medium bugs; roadmap-depth note for the lead)"
   }
  ]
 }
