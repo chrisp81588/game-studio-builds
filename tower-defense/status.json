@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 09:19",
+ "generated_utc": "2026-11-10 09:45",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-2.md",
  "commits": [
+  {
+   "sha": "45a7f0b",
+   "time_utc": "2026-11-10 09:39",
+   "who": "Claude",
+   "what": "Producer: 2026-11-10 (queues refilled for A, B, C; no open Medium bugs; roadmap-depth note for the lead)"
+  },
   {
    "sha": "d51168a",
    "time_utc": "2026-11-10 09:09",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 15:07",
    "who": "Claude",
    "what": "Builder B: ranked lineup names faction and legendary per bot, and the match seats them"
-  },
-  {
-   "sha": "39e1f75",
-   "time_utc": "2026-11-09 14:30",
-   "who": "Claude",
-   "what": "Builder A shift 77: gold_idle event when a build phase ends with more than 150 unspent gold"
   }
  ]
 }
