@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 03:33",
+ "generated_utc": "2026-11-10 05:17",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-1.md",
  "commits": [
+  {
+   "sha": "2502379",
+   "time_utc": "2026-11-10 05:10",
+   "who": "Claude",
+   "what": "Builder B: online status pill in matches (reconnecting, waiting, left, back), clear of Ready and the tray"
+  },
   {
    "sha": "53f37dd",
    "time_utc": "2026-11-10 03:24",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 11:23",
    "who": "Claude",
    "what": "Builder B: pick screens say the build clock is paused (timer bug not reproduced: held 78 s on the hub route)"
-  },
-  {
-   "sha": "94f60f6",
-   "time_utc": "2026-11-09 10:32",
-   "who": "Claude",
-   "what": "Builder A shift 75: view parse test checks the broken script in a child process (CI fails a run that prints SCRIPT ERROR)"
   }
  ]
 }
