@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 01:19",
+ "generated_utc": "2026-11-10 03:20",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-1.md",
  "commits": [
+  {
+   "sha": "cc977f3",
+   "time_utc": "2026-11-10 03:14",
+   "who": "Claude",
+   "what": "Builder B: alpha feedback form (three questions, Copy with last match) from the hub and the end screen"
+  },
   {
    "sha": "0464163",
    "time_utc": "2026-11-10 01:11",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 10:27",
    "who": "Claude",
    "what": "Builder A shift 75: view parse check (CI step, test with a broken script)"
-  },
-  {
-   "sha": "e11202d",
-   "time_utc": "2026-11-09 10:00",
-   "who": "Claude",
-   "what": "Range display: filled disc, bright edge, inward pulse; preview, cast range and effect area (Builder C item 24)"
   }
  ]
 }
