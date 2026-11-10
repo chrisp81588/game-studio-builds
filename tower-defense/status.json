@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 06:06",
+ "generated_utc": "2026-11-10 06:48",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-10-cloud-1.md",
+ "latest_report": "2026-11-10-cloud-2.md",
  "commits": [
+  {
+   "sha": "4978191",
+   "time_utc": "2026-11-10 06:42",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-10 (Feedback form, Match history and 'Still standing' end line work)"
+  },
   {
    "sha": "f4cd13b",
    "time_utc": "2026-11-10 05:57",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 12:33",
    "who": "Claude",
    "what": "Builder A shift 76: ranked lineups name factions and legendaries (Rating.ladder_seats)"
-  },
-  {
-   "sha": "8bcc73f",
-   "time_utc": "2026-11-09 12:12",
-   "who": "Claude",
-   "what": "Store items on the island: tower tints and sets, King crowns, keep banner (Builder C item 25)"
   }
  ]
 }
