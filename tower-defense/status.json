@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 06:48",
+ "generated_utc": "2026-11-10 07:08",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-2.md",
  "commits": [
+  {
+   "sha": "b4c01c3",
+   "time_utc": "2026-11-10 06:59",
+   "who": "Claude",
+   "what": "Builder A shift 85: talent retune part 3 (Free Crowns lifted, Pack Instinct trimmed)"
+  },
   {
    "sha": "4978191",
    "time_utc": "2026-11-10 06:42",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-09 12:38",
    "who": "Claude",
    "what": "Playtest report: cloud 3 on 2026-11-09 (setup Start match and paused-clock line fixed; range ring seen)"
-  },
-  {
-   "sha": "3750c5d",
-   "time_utc": "2026-11-09 12:33",
-   "who": "Claude",
-   "what": "Builder A shift 76: ranked lineups name factions and legendaries (Rating.ladder_seats)"
   }
  ]
 }
