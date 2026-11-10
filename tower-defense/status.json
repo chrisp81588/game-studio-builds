@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-10 11:16",
+ "generated_utc": "2026-11-10 12:10",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-2.md",
  "commits": [
+  {
+   "sha": "1bebec2",
+   "time_utc": "2026-11-10 12:02",
+   "who": "Claude",
+   "what": "Builder A shift 87: Wildkin tree trimmed; talented fairness per map measured (item 39)"
+  },
+  {
+   "sha": "7ea0a9f",
+   "time_utc": "2026-11-10 11:56",
+   "who": "Claude",
+   "what": "Deepstone tower set reads at a glance (Builder C item 33)"
+  },
   {
    "sha": "dac02ba",
    "time_utc": "2026-11-10 11:10",
@@ -158,18 +170,6 @@
    "time_utc": "2026-11-09 17:54",
    "who": "Claude",
    "what": "Trailer camera: ?trailer plays a self-driving match with a 60 s scripted camera (Builder C item 27)"
-  },
-  {
-   "sha": "fa9d07e",
-   "time_utc": "2026-11-09 17:14",
-   "who": "Claude",
-   "what": "Builder B: idle-gold nudge at 10 s left, once a round; faction intro tap passes through to setup"
-  },
-  {
-   "sha": "4a712ca",
-   "time_utc": "2026-11-09 16:39",
-   "who": "Claude",
-   "what": "Builder A shift 78: relay hardening (version handshake, ping and timeout, max rooms, room cleanup, rate limit)"
   }
  ]
 }
