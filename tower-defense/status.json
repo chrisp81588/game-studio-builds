@@ -1,8 +1,20 @@
 {
- "generated_utc": "2026-11-10 21:34",
+ "generated_utc": "2026-11-10 21:56",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "95b4d17",
+   "time_utc": "2026-11-10 21:47",
+   "who": "Claude",
+   "what": "Hub tile art: nine banners rendered from the game's models (Builder C item 38)"
+  },
+  {
+   "sha": "c2cfdf7",
+   "time_utc": "2026-11-10 21:41",
+   "who": "Claude",
+   "what": "Builder A shift 92: power-up cards measured (gain table in the balance sheet), three dead cards lifted; README, plan, logs"
+  },
   {
    "sha": "8e38c62",
    "time_utc": "2026-11-10 21:28",
@@ -152,24 +164,6 @@
    "time_utc": "2026-11-10 12:02",
    "who": "Claude",
    "what": "Builder A shift 87: Wildkin tree trimmed; talented fairness per map measured (item 39)"
-  },
-  {
-   "sha": "7ea0a9f",
-   "time_utc": "2026-11-10 11:56",
-   "who": "Claude",
-   "what": "Deepstone tower set reads at a glance (Builder C item 33)"
-  },
-  {
-   "sha": "dac02ba",
-   "time_utc": "2026-11-10 11:10",
-   "who": "Claude",
-   "what": "Builder B: hub follows your last match's faction (dressing, grass, showcase with skin)"
-  },
-  {
-   "sha": "23feed5",
-   "time_utc": "2026-11-10 10:08",
-   "who": "Claude",
-   "what": "Quality switch for weak phones (Builder C item 32)"
   }
  ]
 }
