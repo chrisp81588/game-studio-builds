@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 22:39",
+ "generated_utc": "2026-11-10 22:51",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "0c891d9",
+   "time_utc": "2026-11-10 22:42",
+   "who": "Claude",
+   "what": "Builder A shift 93: second pass on the weakest power-up cards (buffed, measured on seed 9500), balance sheet gains, README and logs"
+  },
   {
    "sha": "febbbd0",
    "time_utc": "2026-11-10 22:33",
@@ -158,12 +164,6 @@
    "time_utc": "2026-11-10 12:34",
    "who": "Claude",
    "what": "Playtest report: cloud 3 on 2026-11-10 (quality=low hook works; no Quality option in Settings yet; Settings tile hidden on phone hub)"
-  },
-  {
-   "sha": "7cde363",
-   "time_utc": "2026-11-10 12:33",
-   "who": "Claude",
-   "what": "Builder A shift 88: lockstep float audit (pow removed from state, guard test, noise experiment)"
   }
  ]
 }
