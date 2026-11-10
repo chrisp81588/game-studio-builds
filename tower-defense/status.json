@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-10 16:02",
+ "generated_utc": "2026-11-10 16:37",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-3.md",
  "commits": [
+  {
+   "sha": "5f919c4",
+   "time_utc": "2026-11-10 16:28",
+   "who": "Claude",
+   "what": "Builder A shift 90: web size report tool, five unused models removed, animation duplication finding"
+  },
   {
    "sha": "5f842df",
    "time_utc": "2026-11-10 15:55",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 00:27",
    "who": "Claude",
    "what": "Builder A shift 82: route dump packets in OnlineSession (Builder B's bug), end-to-end desync test"
-  },
-  {
-   "sha": "552203d",
-   "time_utc": "2026-11-09 23:52",
-   "who": "Claude",
-   "what": "Item 31: banner-in-body route tried once, reverted (broke unit colors on web); findings recorded (Builder C)"
   }
  ]
 }
