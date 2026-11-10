@@ -1,8 +1,26 @@
 {
- "generated_utc": "2026-11-10 20:01",
+ "generated_utc": "2026-11-10 20:18",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-10-cloud-4.md",
  "commits": [
+  {
+   "sha": "dd4492a",
+   "time_utc": "2026-11-10 20:09",
+   "who": "Claude",
+   "what": "Legendary level-up: shots and write-up (Builder C item 37)"
+  },
+  {
+   "sha": "9f78bba",
+   "time_utc": "2026-11-10 20:08",
+   "who": "Claude",
+   "what": "Level-up: drop the extra gold burst (pillar covers it; testing streaks)"
+  },
+  {
+   "sha": "c6e1d0a",
+   "time_utc": "2026-11-10 20:03",
+   "who": "Claude",
+   "what": "Legendary level-up moment, first pass (Builder C item 37)"
+  },
   {
    "sha": "c1f38b9",
    "time_utc": "2026-11-10 19:56",
@@ -146,30 +164,6 @@
    "time_utc": "2026-11-10 08:19",
    "who": "Claude",
    "what": "Builder A shift 86: check-in (nothing new for A)"
-  },
-  {
-   "sha": "9d067f9",
-   "time_utc": "2026-11-10 07:09",
-   "who": "Claude",
-   "what": "Builder B: shorter power-up cards on phones; feedback Copy reads the boxes directly"
-  },
-  {
-   "sha": "b4c01c3",
-   "time_utc": "2026-11-10 06:59",
-   "who": "Claude",
-   "what": "Builder A shift 85: talent retune part 3 (Free Crowns lifted, Pack Instinct trimmed)"
-  },
-  {
-   "sha": "4978191",
-   "time_utc": "2026-11-10 06:42",
-   "who": "Claude",
-   "what": "Playtest report: cloud 2 on 2026-11-10 (Feedback form, Match history and 'Still standing' end line work)"
-  },
-  {
-   "sha": "f4cd13b",
-   "time_utc": "2026-11-10 05:57",
-   "who": "Claude",
-   "what": "Builder A shift 84: talent retune (Stoneforged and Wildkin trimmed, Starborn and Free Crowns lifted); faction spread with full trees halved"
   }
  ]
 }
