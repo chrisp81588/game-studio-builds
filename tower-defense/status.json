@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-11 05:10",
+ "generated_utc": "2026-11-11 06:29",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-11-cloud-1.md",
  "commits": [
+  {
+   "sha": "ea8261b",
+   "time_utc": "2026-11-11 06:23",
+   "who": "Claude",
+   "what": "Builder A shift 97: nothing queued"
+  },
   {
    "sha": "7d2f8df",
    "time_utc": "2026-11-11 05:05",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 15:55",
    "who": "Claude",
    "what": "Shoreline foam hugs the real cliff waterline (Builder C item 35)"
-  },
-  {
-   "sha": "d2a3f37",
-   "time_utc": "2026-11-10 15:13",
-   "who": "Claude",
-   "what": "Builder B: avatars in lobby seats, ranked lineup and an end-screen standings row"
   }
  ]
 }
