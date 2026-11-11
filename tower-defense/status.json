@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-11 00:39",
+ "generated_utc": "2026-11-11 01:25",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-11-cloud-1.md",
  "commits": [
+  {
+   "sha": "b54866d",
+   "time_utc": "2026-11-11 01:19",
+   "who": "Claude",
+   "what": "Builder B: 1-9 key numbers on PC tray tiles, empty-key hint; profiles load through Progression.validate"
+  },
   {
    "sha": "7a27f9c",
    "time_utc": "2026-11-11 00:33",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 14:03",
    "who": "Claude",
    "what": "Faction lighting keyed by the island's dressing race; softer Stoneforged"
-  },
-  {
-   "sha": "4e17828",
-   "time_utc": "2026-11-10 13:56",
-   "who": "Claude",
-   "what": "Lighting per faction island, first pass (Builder C item 34)"
   }
  ]
 }
