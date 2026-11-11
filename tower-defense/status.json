@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-11 09:40",
+ "generated_utc": "2026-11-11 10:08",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-11-cloud-2.md",
  "commits": [
+  {
+   "sha": "da8399f",
+   "time_utc": "2026-11-11 09:59",
+   "who": "Claude",
+   "what": "Item 39 started: shared character animations measured, not shipped"
+  },
   {
    "sha": "c52f67e",
    "time_utc": "2026-11-11 09:35",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 19:56",
    "who": "Claude",
    "what": "Builder A shift 91: second legendaries buffed so both picks per faction are worth choosing; measured table in the balance sheet"
-  },
-  {
-   "sha": "5075b4b",
-   "time_utc": "2026-11-10 19:10",
-   "who": "Claude",
-   "what": "Builder B: custom web loading screen (crest, real progress, tips, Retry on a stall); Codex Back on top"
   }
  ]
 }
