@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-11 06:41",
+ "generated_utc": "2026-11-11 07:18",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-11-cloud-2.md",
  "commits": [
+  {
+   "sha": "447ba8f",
+   "time_utc": "2026-11-11 07:10",
+   "who": "Claude",
+   "what": "Builder B: taller phone HP bar; hub scroll arrows outside the tile row"
+  },
   {
    "sha": "7577d0e",
    "time_utc": "2026-11-11 06:32",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 17:09",
    "who": "Claude",
    "what": "Builder B: Codex Compare tab, factions side by side from the race data"
-  },
-  {
-   "sha": "5f919c4",
-   "time_utc": "2026-11-10 16:28",
-   "who": "Claude",
-   "what": "Builder A shift 90: web size report tool, five unused models removed, animation duplication finding"
   }
  ]
 }
