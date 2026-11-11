@@ -1,8 +1,14 @@
 {
- "generated_utc": "2026-11-11 08:28",
+ "generated_utc": "2026-11-11 09:17",
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-11-cloud-2.md",
  "commits": [
+  {
+   "sha": "16a416c",
+   "time_utc": "2026-11-11 09:08",
+   "who": "Claude",
+   "what": "Builder B: hub row fits all eleven art tiles on PC and phone (fix shift 79 overflow)"
+  },
   {
    "sha": "e3f805f",
    "time_utc": "2026-11-11 08:19",
@@ -164,12 +170,6 @@
    "time_utc": "2026-11-10 18:41",
    "who": "Claude",
    "what": "Playtest report: cloud 4 on 2026-11-10 (Codex Compare, standings row and King-pressure tint work; King fell round 8, 3rd)"
-  },
-  {
-   "sha": "ea82615",
-   "time_utc": "2026-11-10 18:23",
-   "who": "Claude",
-   "what": "King under pressure: visible smoke and embers, shots (Builder C item 36)"
   }
  ]
 }
