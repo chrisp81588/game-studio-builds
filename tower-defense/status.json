@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 09:14",
+ "generated_utc": "2026-11-12 09:47",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "7e280c5",
+   "time_utc": "2026-11-12 09:35",
+   "who": "Claude",
+   "what": "Producer: 2026-11-12 09:33 (duplicate colorblind items closed; phone tap/readability and app items queued)"
+  },
   {
    "sha": "7c3d974",
    "time_utc": "2026-11-12 09:07",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-11 23:15",
    "who": "Claude",
    "what": "Look comparison: same round-2 moment in the current renderer and Forward+ with the PC environment"
-  },
-  {
-   "sha": "d8de4b5",
-   "time_utc": "2026-11-11 23:04",
-   "who": "Claude",
-   "what": "Refill all three builder queues, never-idle rule; fix particle script error; look comparison capture tool"
   }
  ]
 }
