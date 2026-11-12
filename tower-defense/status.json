@@ -1,175 +1,180 @@
 {
- "generated_utc": "2026-11-11 10:08",
+ "generated_utc": "2026-11-12 00:42",
+ "downloads": {
+  "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
+  "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
+  "android": ""
+ },
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-11-cloud-2.md",
+ "latest_report": "2026-11-12-cloud-1.md",
  "commits": [
   {
-   "sha": "da8399f",
-   "time_utc": "2026-11-11 09:59",
+   "sha": "74f04ef",
+   "time_utc": "2026-11-12 00:33",
    "who": "Claude",
-   "what": "Item 39 started: shared character animations measured, not shipped"
+   "what": "Playtest report: cloud 1 on 2026-11-12 (live build ok after CI fix; textured ground hard to see)"
   },
   {
-   "sha": "c52f67e",
-   "time_utc": "2026-11-11 09:35",
+   "sha": "9aa0842",
+   "time_utc": "2026-11-12 00:26",
    "who": "Claude",
-   "what": "Producer: 2026-11-11 (P1 build list done; last real items queued; builders idle, cadence note for the lead)"
+   "what": "Art upgrade C0a: textured ground (Builder C)"
   },
   {
-   "sha": "16a416c",
-   "time_utc": "2026-11-11 09:08",
+   "sha": "7334f71",
+   "time_utc": "2026-11-12 00:22",
    "who": "Claude",
-   "what": "Builder B: hub row fits all eleven art tiles on PC and phone (fix shift 79 overflow)"
+   "what": "Builder A shift 106: README, logs (CI repair, Windows download)"
   },
   {
-   "sha": "e3f805f",
-   "time_utc": "2026-11-11 08:19",
+   "sha": "d1a080e",
+   "time_utc": "2026-11-12 00:22",
    "who": "Claude",
-   "what": "Builder A shift 98: nothing queued"
+   "what": "Builder A shift 106: fix invalid build.yml (the build-id stamp step from shift 99 was a YAML error), Windows Forward+ override, Windows pack boot check, zip and latest-windows release"
   },
   {
-   "sha": "7df8a85",
-   "time_utc": "2026-11-11 07:44",
+   "sha": "8301821",
+   "time_utc": "2026-11-11 23:34",
    "who": "Claude",
-   "what": "Hub art for Roadmap, How to play and Settings (tester 11/11-2 Low 2)"
+   "what": "Builder C top item C0: free art upgrade (textured ground, road, cliffs, tower surfaces, HDRI sky, better characters)"
   },
   {
-   "sha": "447ba8f",
-   "time_utc": "2026-11-11 07:10",
+   "sha": "9d88b9b",
+   "time_utc": "2026-11-11 23:15",
    "who": "Claude",
-   "what": "Builder B: taller phone HP bar; hub scroll arrows outside the tile row"
+   "what": "Look comparison: same round-2 moment in the current renderer and Forward+ with the PC environment"
   },
   {
-   "sha": "7577d0e",
-   "time_utc": "2026-11-11 06:32",
+   "sha": "d8de4b5",
+   "time_utc": "2026-11-11 23:04",
    "who": "Claude",
-   "what": "Playtest report: cloud 2 on 2026-11-11 (phone hub arrow, key numbers, empty-key hint and short ability labels verified fixed)"
+   "what": "Refill all three builder queues, never-idle rule; fix particle script error; look comparison capture tool"
   },
   {
-   "sha": "ea8261b",
-   "time_utc": "2026-11-11 06:23",
+   "sha": "899ed20",
+   "time_utc": "2026-11-11 22:18",
    "who": "Claude",
-   "what": "Builder A shift 97: nothing queued"
+   "what": "Builder A shift 105: nothing queued"
   },
   {
-   "sha": "7d2f8df",
-   "time_utc": "2026-11-11 05:05",
+   "sha": "4c88905",
+   "time_utc": "2026-11-11 21:02",
    "who": "Claude",
-   "what": "Builder B: verify phone hub arrow scrolls to Settings (shots); queue empty"
+   "what": "Builder B: verify online lobby shows each player's own avatar (two browsers); queue empty"
   },
   {
-   "sha": "8622cc2",
-   "time_utc": "2026-11-11 04:18",
+   "sha": "fa5117e",
+   "time_utc": "2026-11-11 20:19",
    "who": "Claude",
-   "what": "Builder A shift 96: nothing queued"
+   "what": "Builder A shift 104: nothing queued"
   },
   {
-   "sha": "7b9f05e",
-   "time_utc": "2026-11-11 03:11",
+   "sha": "27ce897",
+   "time_utc": "2026-11-11 18:33",
    "who": "Claude",
-   "what": "Builder B: hub tile art, scroll arrows on the phone hub row, long spell names shrink to fit"
+   "what": "Playtest report: cloud 4 on 2026-11-11 (match plays correctly; arrival flare and menu restore not confirmed)"
   },
   {
-   "sha": "b226015",
-   "time_utc": "2026-11-11 02:22",
+   "sha": "c4c7121",
+   "time_utc": "2026-11-11 18:19",
    "who": "Claude",
-   "what": "Builder A shift 95: nothing queued; suite passes on latest main"
+   "what": "Builder A shift 103: nothing queued"
   },
   {
-   "sha": "b54866d",
-   "time_utc": "2026-11-11 01:19",
+   "sha": "66b0ab3",
+   "time_utc": "2026-11-11 17:49",
    "who": "Claude",
-   "what": "Builder B: 1-9 key numbers on PC tray tiles, empty-key hint; profiles load through Progression.validate"
+   "what": "Menu restore after a match, seen (Builder C item 42)"
   },
   {
-   "sha": "7a27f9c",
-   "time_utc": "2026-11-11 00:33",
+   "sha": "f1048d1",
+   "time_utc": "2026-11-11 17:30",
    "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-11 (keyboard shortcuts all work; key 9 on an empty slot is silent)"
+   "what": "Builder A shift 102: balance edges confirmed on two fresh seed sets (item 49), nothing tuned; README, plan, logs, balance sheet"
   },
   {
-   "sha": "c49a700",
-   "time_utc": "2026-11-11 00:21",
+   "sha": "d5fb803",
+   "time_utc": "2026-11-11 17:12",
    "who": "Claude",
-   "what": "Builder A shift 94: queue empty until Nov 17; CI checks re-run on latest main, all pass"
+   "what": "Builder B: own avatars in lobby seats, friends rows and end-screen standings"
   },
   {
-   "sha": "6161dfb",
-   "time_utc": "2026-11-10 23:10",
+   "sha": "6046be6",
+   "time_utc": "2026-11-11 15:51",
    "who": "Claude",
-   "what": "Builder B: PC keyboard shortcuts (1-9, Tab, R, Esc, Space pause offline) and a How to play page"
+   "what": "Arrival flare: sender-color banner at the spawn gate (Builder C item 41)"
   },
   {
-   "sha": "0c891d9",
-   "time_utc": "2026-11-10 22:42",
+   "sha": "9b1c3da",
+   "time_utc": "2026-11-11 15:11",
    "who": "Claude",
-   "what": "Builder A shift 93: second pass on the weakest power-up cards (buffed, measured on seed 9500), balance sheet gains, README and logs"
+   "what": "Builder B: wave-arrival corner view of the target island (tap to look) with a Settings switch"
   },
   {
-   "sha": "febbbd0",
-   "time_utc": "2026-11-10 22:33",
+   "sha": "5601cf2",
+   "time_utc": "2026-11-11 14:26",
    "who": "Claude",
-   "what": "Builder A shift 93 (in progress): Thick Walls +350, Wide Shot +35%, Bounty Board +80% (all about -0.33 on seed 9500 and 9300; verifying)"
+   "what": "Builder A shift 101: ranked map pool (queue item 47), README, plan, logs"
   },
   {
-   "sha": "95b4d17",
-   "time_utc": "2026-11-10 21:47",
+   "sha": "acdd439",
+   "time_utc": "2026-11-11 14:10",
    "who": "Claude",
-   "what": "Hub tile art: nine banners rendered from the game's models (Builder C item 38)"
+   "what": "Every tower its own thing: write-up, two-row ?looktowers, wip races (Builder C item 40)"
   },
   {
-   "sha": "c2cfdf7",
-   "time_utc": "2026-11-10 21:41",
+   "sha": "cce5c0d",
+   "time_utc": "2026-11-11 13:49",
    "who": "Claude",
-   "what": "Builder A shift 92: power-up cards measured (gain table in the balance sheet), three dead cards lifted; README, plan, logs"
+   "what": "Every tower its own thing, first pass (Builder C item 40)"
   },
   {
-   "sha": "8e38c62",
-   "time_utc": "2026-11-10 21:28",
+   "sha": "ff4c854",
+   "time_utc": "2026-11-11 13:49",
    "who": "Claude",
-   "what": "Builder A shift 92 (in progress): Masterwork +25% (measured weak at +15% on two seed sets; verifying)"
+   "what": "Note: Chris has a Mac for iOS builds when the phone launch comes"
   },
   {
-   "sha": "f76fede",
-   "time_utc": "2026-11-10 21:15",
+   "sha": "78e8aa6",
+   "time_utc": "2026-11-11 13:48",
    "who": "Claude",
-   "what": "Builder A shift 92 (in progress): Quick Mind -40% and Royal Reserve -50% (both measured weak on seed 9300; verifying on 9400)"
+   "what": "Distribution plan: every free channel, browser lite version post-beta, itch.io and Game Jolt automated publishing queued"
   },
   {
-   "sha": "b9c0cb2",
-   "time_utc": "2026-11-10 21:12",
+   "sha": "5903916",
+   "time_utc": "2026-11-11 13:43",
    "who": "Claude",
-   "what": "Builder B: Settings Graphics High/Low, saved, applied at match start"
+   "what": "Decision: ship as a PC program and phone apps, browser for testing only; Builder A queues Windows and Android test downloads"
   },
   {
-   "sha": "5c04059",
-   "time_utc": "2026-11-10 20:25",
+   "sha": "e94eb39",
+   "time_utc": "2026-11-11 13:42",
    "who": "Claude",
-   "what": "Builder A shift 92 (in progress): harness --force-card, tools/card_sweep.sh, card gain column in the balance sheet generator"
+   "what": "Builder C top item: render one island in Forward+ next to the current look (Chris)"
   },
   {
-   "sha": "dd4492a",
-   "time_utc": "2026-11-10 20:09",
+   "sha": "2686458",
+   "time_utc": "2026-11-11 13:06",
    "who": "Claude",
-   "what": "Legendary level-up: shots and write-up (Builder C item 37)"
+   "what": "Builder B: every player action has a sound with two variants (upgrade, send, undo, research, equip, error)"
   },
   {
-   "sha": "9f78bba",
-   "time_utc": "2026-11-10 20:08",
+   "sha": "bfe9f1f",
+   "time_utc": "2026-11-11 12:34",
    "who": "Claude",
-   "what": "Level-up: drop the extra gold burst (pillar covers it; testing streaks)"
+   "what": "Builder A shift 100: avatar in lobby seats (item 46), level-up flag test (item 48), README, plan, logs"
   },
   {
-   "sha": "c6e1d0a",
-   "time_utc": "2026-11-10 20:03",
+   "sha": "c6a0c4c",
+   "time_utc": "2026-11-11 12:24",
    "who": "Claude",
-   "what": "Legendary level-up moment, first pass (Builder C item 37)"
+   "what": "Builder A shift 100 (in progress): avatar in lobby seats (item 46), level-up flag tests (item 48); suite running"
   },
   {
-   "sha": "c1f38b9",
-   "time_utc": "2026-11-10 19:56",
+   "sha": "d05477e",
+   "time_utc": "2026-11-11 12:34",
    "who": "Claude",
-   "what": "Builder A shift 91: second legendaries buffed so both picks per faction are worth choosing; measured table in the balance sheet"
+   "what": "Playtest report: cloud 3 on 2026-11-11 (shared animation build plays normally; two rounds)"
   }
  ]
 }
