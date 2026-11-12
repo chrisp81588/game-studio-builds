@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 12:05",
+ "generated_utc": "2026-11-12 12:13",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "d7a55cd",
+   "time_utc": "2026-11-12 12:07",
+   "who": "Claude",
+   "what": "C2: Mobile renderer check; clouds above the sheet and shadow-free (Builder C)"
+  },
   {
    "sha": "4fee440",
    "time_utc": "2026-11-12 11:55",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-12 01:05",
    "who": "Claude",
    "what": "Builder B: Full graphics (PC) setting, Forward+ only, applies environment_pc.tres when present (B1)"
-  },
-  {
-   "sha": "e8546b3",
-   "time_utc": "2026-11-12 00:43",
-   "who": "Claude",
-   "what": "Builder A shift 106: A1 done (release latest-windows verified)"
   }
  ]
 }
