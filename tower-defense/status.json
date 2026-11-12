@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 04:05",
+ "generated_utc": "2026-11-12 04:27",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-1.md",
  "commits": [
+  {
+   "sha": "6daef98",
+   "time_utc": "2026-11-12 04:19",
+   "who": "Claude",
+   "what": "Builder A shift 108: itch.io and Game Jolt publish steps (skipped without secrets), README, plan, logs"
+  },
   {
    "sha": "f0a4f87",
    "time_utc": "2026-11-12 03:58",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-11 14:26",
    "who": "Claude",
    "what": "Builder A shift 101: ranked map pool (queue item 47), README, plan, logs"
-  },
-  {
-   "sha": "acdd439",
-   "time_utc": "2026-11-11 14:10",
-   "who": "Claude",
-   "what": "Every tower its own thing: write-up, two-row ?looktowers, wip races (Builder C item 40)"
   }
  ]
 }
