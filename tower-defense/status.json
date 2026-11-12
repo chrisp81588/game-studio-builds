@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 05:53",
+ "generated_utc": "2026-11-12 06:45",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -7,8 +7,26 @@
   "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
  },
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-12-cloud-1.md",
+ "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "089d9b7",
+   "time_utc": "2026-11-12 06:34",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-12 (phone layout fits; textured island visible; red tower roofs to check)"
+  },
+  {
+   "sha": "cea3328",
+   "time_utc": "2026-11-12 06:28",
+   "who": "Claude",
+   "what": "Builder A shift 109: lite build flag (queue item A4), README, plan, logs"
+  },
+  {
+   "sha": "8e5914e",
+   "time_utc": "2026-11-12 06:23",
+   "who": "Claude",
+   "what": "Builder A shift 109 (in progress): lite build flag, Web Lite preset, harness --lite; tests running"
+  },
   {
    "sha": "7d7c12f",
    "time_utc": "2026-11-12 05:46",
@@ -164,24 +182,6 @@
    "time_utc": "2026-11-11 17:49",
    "who": "Claude",
    "what": "Menu restore after a match, seen (Builder C item 42)"
-  },
-  {
-   "sha": "f1048d1",
-   "time_utc": "2026-11-11 17:30",
-   "who": "Claude",
-   "what": "Builder A shift 102: balance edges confirmed on two fresh seed sets (item 49), nothing tuned; README, plan, logs, balance sheet"
-  },
-  {
-   "sha": "d5fb803",
-   "time_utc": "2026-11-11 17:12",
-   "who": "Claude",
-   "what": "Builder B: own avatars in lobby seats, friends rows and end-screen standings"
-  },
-  {
-   "sha": "6046be6",
-   "time_utc": "2026-11-11 15:51",
-   "who": "Claude",
-   "what": "Arrival flare: sender-color banner at the spawn gate (Builder C item 41)"
   }
  ]
 }
