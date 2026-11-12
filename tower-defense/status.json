@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 04:27",
+ "generated_utc": "2026-11-12 05:26",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-1.md",
  "commits": [
+  {
+   "sha": "7e79065",
+   "time_utc": "2026-11-12 05:16",
+   "who": "Claude",
+   "what": "Builder B: phone app pass (dp-based phone layout, safe-area insets on native mobile); tablet sizes checked (B5)"
+  },
   {
    "sha": "6daef98",
    "time_utc": "2026-11-12 04:19",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-11 15:11",
    "who": "Claude",
    "what": "Builder B: wave-arrival corner view of the target island (tap to look) with a Settings switch"
-  },
-  {
-   "sha": "5601cf2",
-   "time_utc": "2026-11-11 14:26",
-   "who": "Claude",
-   "what": "Builder A shift 101: ranked map pool (queue item 47), README, plan, logs"
   }
  ]
 }
