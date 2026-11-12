@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 00:42",
+ "generated_utc": "2026-11-12 00:53",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -8,6 +8,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-1.md",
  "commits": [
+  {
+   "sha": "e8546b3",
+   "time_utc": "2026-11-12 00:43",
+   "who": "Claude",
+   "what": "Builder A shift 106: A1 done (release latest-windows verified)"
+  },
   {
    "sha": "74f04ef",
    "time_utc": "2026-11-12 00:33",
@@ -169,12 +175,6 @@
    "time_utc": "2026-11-11 12:24",
    "who": "Claude",
    "what": "Builder A shift 100 (in progress): avatar in lobby seats (item 46), level-up flag tests (item 48); suite running"
-  },
-  {
-   "sha": "d05477e",
-   "time_utc": "2026-11-11 12:34",
-   "who": "Claude",
-   "what": "Playtest report: cloud 3 on 2026-11-11 (shared animation build plays normally; two rounds)"
   }
  ]
 }
