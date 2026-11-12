@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-12 20:45",
- "build": "37b93f1",
+ "generated_utc": "2026-11-12 21:22",
+ "build": "e634b0a",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-4.md",
  "commits": [
+  {
+   "sha": "e634b0a",
+   "time_utc": "2026-11-12 21:12",
+   "who": "Claude",
+   "what": "Builder B shift 98: What's new card from data/changelog.json, once per build (B13)"
+  },
   {
    "sha": "37b93f1",
    "time_utc": "2026-11-12 20:38",
@@ -166,12 +172,6 @@
    "time_utc": "2026-11-12 11:55",
    "who": "Claude",
    "what": "C1: tune Full graphics (PC); faction exposure is relative (Builder C)"
-  },
-  {
-   "sha": "5b16d88",
-   "time_utc": "2026-11-12 11:54",
-   "who": "Claude",
-   "what": "Builder C next: fix the washed-out haze in Full graphics and make the ground texture read (lead review)"
   }
  ]
 }
