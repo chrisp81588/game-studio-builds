@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 16:34",
+ "generated_utc": "2026-11-12 17:29",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "4109ab5",
+   "time_utc": "2026-11-12 17:22",
+   "who": "Claude",
+   "what": "Builder B: Move progress screen (copy code, paste with a confirm) (B11)"
+  },
+  {
+   "sha": "aa4e520",
+   "time_utc": "2026-11-12 17:18",
+   "who": "Claude",
+   "what": "C4 partial: store cover and first Full graphics screenshot (Builder C)"
+  },
   {
    "sha": "d92b392",
    "time_utc": "2026-11-12 16:25",
@@ -158,30 +170,6 @@
    "time_utc": "2026-11-12 06:34",
    "who": "Claude",
    "what": "Playtest report: cloud 2 on 2026-11-12 (phone layout fits; textured island visible; red tower roofs to check)"
-  },
-  {
-   "sha": "cea3328",
-   "time_utc": "2026-11-12 06:28",
-   "who": "Claude",
-   "what": "Builder A shift 109: lite build flag (queue item A4), README, plan, logs"
-  },
-  {
-   "sha": "8e5914e",
-   "time_utc": "2026-11-12 06:23",
-   "who": "Claude",
-   "what": "Builder A shift 109 (in progress): lite build flag, Web Lite preset, harness --lite; tests running"
-  },
-  {
-   "sha": "7d7c12f",
-   "time_utc": "2026-11-12 05:46",
-   "who": "Claude",
-   "what": "Art upgrade C0c part 2: Kenney tier props at tower feet (Builder C)"
-  },
-  {
-   "sha": "7e79065",
-   "time_utc": "2026-11-12 05:16",
-   "who": "Claude",
-   "what": "Builder B: phone app pass (dp-based phone layout, safe-area insets on native mobile); tablet sizes checked (B5)"
   }
  ]
 }
