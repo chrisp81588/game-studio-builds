@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-12 20:32",
- "build": "535785e",
+ "generated_utc": "2026-11-12 20:45",
+ "build": "37b93f1",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-4.md",
  "commits": [
+  {
+   "sha": "37b93f1",
+   "time_utc": "2026-11-12 20:38",
+   "who": "Claude",
+   "what": "Builder A shift 116: A10 done (bundle built, validated and published in CI), README, plan"
+  },
+  {
+   "sha": "08eeaaa",
+   "time_utc": "2026-11-12 20:31",
+   "who": "Claude",
+   "what": "Builder A shift 116: bundle workflow: one Android SDK path (the runner presets ANDROID_SDK_ROOT)"
+  },
   {
    "sha": "535785e",
    "time_utc": "2026-11-12 20:25",
@@ -160,18 +172,6 @@
    "time_utc": "2026-11-12 11:54",
    "who": "Claude",
    "what": "Builder C next: fix the washed-out haze in Full graphics and make the ground texture read (lead review)"
-  },
-  {
-   "sha": "0c0eec8",
-   "time_utc": "2026-11-12 11:14",
-   "who": "Claude",
-   "what": "Builder B: Android back button steps back, asks before leaving or quitting; screen awake in matches (B8)"
-  },
-  {
-   "sha": "c684c62",
-   "time_utc": "2026-11-12 10:28",
-   "who": "Claude",
-   "what": "Builder A shift 111: profile export and import text (queue item A8), README, plan, logs"
   }
  ]
 }
