@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-12 19:47",
- "build": "33df16a",
+ "generated_utc": "2026-11-12 20:05",
+ "build": "4618bc9",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-4.md",
  "commits": [
+  {
+   "sha": "4618bc9",
+   "time_utc": "2026-11-12 19:55",
+   "who": "Claude",
+   "what": "C5: 60-second trailer clip from the movie maker (Builder C)"
+  },
   {
    "sha": "33df16a",
    "time_utc": "2026-11-12 19:40",
@@ -166,12 +172,6 @@
    "time_utc": "2026-11-12 09:54",
    "who": "Claude",
    "what": "Art upgrade C0e: Harpy becomes the Quaternius bat; free art pass done (Builder C)"
-  },
-  {
-   "sha": "7e280c5",
-   "time_utc": "2026-11-12 09:35",
-   "who": "Claude",
-   "what": "Producer: 2026-11-12 09:33 (duplicate colorblind items closed; phone tap/readability and app items queued)"
   }
  ]
 }
