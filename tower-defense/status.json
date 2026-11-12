@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-12 21:51",
- "build": "8ce7083",
+ "generated_utc": "2026-11-12 22:57",
+ "build": "a1c3a88",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-4.md",
  "commits": [
+  {
+   "sha": "a1c3a88",
+   "time_utc": "2026-11-12 22:48",
+   "who": "Claude",
+   "what": "Builder A shift 117: flipped harness check result, check-in line"
+  },
+  {
+   "sha": "7c3606a",
+   "time_utc": "2026-11-12 22:45",
+   "who": "Claude",
+   "what": "Builder A shift 117: dry run of the Nov 17 release flip (README, log)"
+  },
   {
    "sha": "8ce7083",
    "time_utc": "2026-11-12 21:41",
@@ -166,18 +178,6 @@
    "time_utc": "2026-11-12 12:32",
    "who": "Claude",
    "what": "Playtest report: cloud 3 on 2026-11-12 (textured island visible; red tower roofs mismatch the blue keep)"
-  },
-  {
-   "sha": "9a72d44",
-   "time_utc": "2026-11-12 12:23",
-   "who": "Claude",
-   "what": "Builder A shift 112: native clients online check in CI (queue item A7), README, plan, logs"
-  },
-  {
-   "sha": "d7a55cd",
-   "time_utc": "2026-11-12 12:07",
-   "who": "Claude",
-   "what": "C2: Mobile renderer check; clouds above the sheet and shadow-free (Builder C)"
   }
  ]
 }
