@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 12:29",
+ "generated_utc": "2026-11-12 12:40",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -7,8 +7,14 @@
   "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
  },
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-12-cloud-2.md",
+ "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "eac1fcc",
+   "time_utc": "2026-11-12 12:32",
+   "who": "Claude",
+   "what": "Playtest report: cloud 3 on 2026-11-12 (textured island visible; red tower roofs mismatch the blue keep)"
+  },
   {
    "sha": "9a72d44",
    "time_utc": "2026-11-12 12:23",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-12 02:02",
    "who": "Claude",
    "what": "Art upgrade C0b part 2: small ground props per faction (Builder C)"
-  },
-  {
-   "sha": "0f17509",
-   "time_utc": "2026-11-12 01:43",
-   "who": "Claude",
-   "what": "Art upgrade C0b part 1: cobblestone road, rock trim and cliffs (Builder C)"
   }
  ]
 }
