@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 10:35",
+ "generated_utc": "2026-11-12 11:24",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "0c0eec8",
+   "time_utc": "2026-11-12 11:14",
+   "who": "Claude",
+   "what": "Builder B: Android back button steps back, asks before leaving or quitting; screen awake in matches (B8)"
+  },
   {
    "sha": "c684c62",
    "time_utc": "2026-11-12 10:28",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-12 00:26",
    "who": "Claude",
    "what": "Art upgrade C0a: textured ground (Builder C)"
-  },
-  {
-   "sha": "7334f71",
-   "time_utc": "2026-11-12 00:22",
-   "who": "Claude",
-   "what": "Builder A shift 106: README, logs (CI repair, Windows download)"
   }
  ]
 }
