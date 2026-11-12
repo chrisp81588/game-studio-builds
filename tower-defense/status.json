@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 10:04",
+ "generated_utc": "2026-11-12 10:35",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "c684c62",
+   "time_utc": "2026-11-12 10:28",
+   "who": "Claude",
+   "what": "Builder A shift 111: profile export and import text (queue item A8), README, plan, logs"
+  },
+  {
+   "sha": "d4f48b1",
+   "time_utc": "2026-11-12 10:19",
+   "who": "Claude",
+   "what": "Builder A shift 111 (in progress): profile export and import text (A8), tests running"
+  },
   {
    "sha": "7a887de",
    "time_utc": "2026-11-12 09:54",
@@ -170,18 +182,6 @@
    "time_utc": "2026-11-12 00:22",
    "who": "Claude",
    "what": "Builder A shift 106: README, logs (CI repair, Windows download)"
-  },
-  {
-   "sha": "d1a080e",
-   "time_utc": "2026-11-12 00:22",
-   "who": "Claude",
-   "what": "Builder A shift 106: fix invalid build.yml (the build-id stamp step from shift 99 was a YAML error), Windows Forward+ override, Windows pack boot check, zip and latest-windows release"
-  },
-  {
-   "sha": "8301821",
-   "time_utc": "2026-11-11 23:34",
-   "who": "Claude",
-   "what": "Builder C top item C0: free art upgrade (textured ground, road, cliffs, tower surfaces, HDRI sky, better characters)"
   }
  ]
 }
