@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 13:22",
+ "generated_utc": "2026-11-12 13:54",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "f2d5ead",
+   "time_utc": "2026-11-12 13:47",
+   "who": "Claude",
+   "what": "Logs for shift 59 (keep color)"
+  },
+  {
+   "sha": "9973a74",
+   "time_utc": "2026-11-12 13:47",
+   "who": "Claude",
+   "what": "Keep wears the faction color like the towers (tester 11/12-3 Low 1); C3 checked"
+  },
   {
    "sha": "768f6ad",
    "time_utc": "2026-11-12 13:12",
@@ -170,18 +182,6 @@
    "time_utc": "2026-11-12 02:29",
    "who": "Claude",
    "what": "Builder A shift 107: A2 done (release latest-android verified)"
-  },
-  {
-   "sha": "e386a15",
-   "time_utc": "2026-11-12 02:26",
-   "who": "Claude",
-   "what": "Builder A shift 107: README and log for the Android APK (A2)"
-  },
-  {
-   "sha": "966a7c0",
-   "time_utc": "2026-11-12 02:25",
-   "who": "Claude",
-   "what": "Builder A shift 107: Android debug APK from CI (export preset, separate android.yml workflow, release latest-android, status.json link)"
   }
  ]
 }
