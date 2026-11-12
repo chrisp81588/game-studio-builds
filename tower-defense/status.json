@@ -1,13 +1,32 @@
 {
- "generated_utc": "2026-11-12 02:11",
+ "generated_utc": "2026-11-12 02:35",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
-  "android": ""
+  "android": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-android/TowerDefense-debug.apk",
+  "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
  },
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-1.md",
  "commits": [
+  {
+   "sha": "c228d70",
+   "time_utc": "2026-11-12 02:29",
+   "who": "Claude",
+   "what": "Builder A shift 107: A2 done (release latest-android verified)"
+  },
+  {
+   "sha": "e386a15",
+   "time_utc": "2026-11-12 02:26",
+   "who": "Claude",
+   "what": "Builder A shift 107: README and log for the Android APK (A2)"
+  },
+  {
+   "sha": "966a7c0",
+   "time_utc": "2026-11-12 02:25",
+   "who": "Claude",
+   "what": "Builder A shift 107: Android debug APK from CI (export preset, separate android.yml workflow, release latest-android, status.json link)"
+  },
   {
    "sha": "20ff43b",
    "time_utc": "2026-11-12 02:02",
@@ -157,24 +176,6 @@
    "time_utc": "2026-11-11 13:49",
    "who": "Claude",
    "what": "Note: Chris has a Mac for iOS builds when the phone launch comes"
-  },
-  {
-   "sha": "78e8aa6",
-   "time_utc": "2026-11-11 13:48",
-   "who": "Claude",
-   "what": "Distribution plan: every free channel, browser lite version post-beta, itch.io and Game Jolt automated publishing queued"
-  },
-  {
-   "sha": "5903916",
-   "time_utc": "2026-11-11 13:43",
-   "who": "Claude",
-   "what": "Decision: ship as a PC program and phone apps, browser for testing only; Builder A queues Windows and Android test downloads"
-  },
-  {
-   "sha": "e94eb39",
-   "time_utc": "2026-11-11 13:42",
-   "who": "Claude",
-   "what": "Builder C top item: render one island in Forward+ next to the current look (Chris)"
   }
  ]
 }
