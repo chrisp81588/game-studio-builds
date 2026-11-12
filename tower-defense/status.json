@@ -1,5 +1,7 @@
 {
- "generated_utc": "2026-11-12 18:16",
+ "generated_utc": "2026-11-12 18:42",
+ "build": "4bef656",
+ "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -7,8 +9,20 @@
   "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
  },
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-12-cloud-3.md",
+ "latest_report": "2026-11-12-cloud-4.md",
  "commits": [
+  {
+   "sha": "4bef656",
+   "time_utc": "2026-11-12 18:32",
+   "who": "Claude",
+   "what": "Playtest report: cloud 4 on 2026-11-12 (Move progress opens, copies and rejects a bad code; empty load keeps stale error)"
+  },
+  {
+   "sha": "852079f",
+   "time_utc": "2026-11-12 18:25",
+   "who": "Claude",
+   "what": "Builder A shift 115: alpha readiness check (A11): alpha_check.py, status.json build and data_version, relay hello_ok reports its build, README, plan, logs"
+  },
   {
    "sha": "9a7f4c6",
    "time_utc": "2026-11-12 18:07",
@@ -158,18 +172,6 @@
    "time_utc": "2026-11-12 09:05",
    "who": "Claude",
    "what": "Builder B: PC Display settings (mode, resolution, vsync, Alt+Enter, remembered window) (B7); B6 closed"
-  },
-  {
-   "sha": "ffe6f22",
-   "time_utc": "2026-11-12 08:22",
-   "who": "Claude",
-   "what": "Builder A shift 110 (in progress): relay hosting plan, PORT env var, Dockerfile, probe tool, avatar ids in data; suite running"
-  },
-  {
-   "sha": "d0ca2b7",
-   "time_utc": "2026-11-12 07:46",
-   "who": "Claude",
-   "what": "Add uid for make_environment_pc.gd"
   }
  ]
 }
