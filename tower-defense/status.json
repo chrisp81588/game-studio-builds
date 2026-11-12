@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 07:55",
+ "generated_utc": "2026-11-12 08:34",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "ffe6f22",
+   "time_utc": "2026-11-12 08:22",
+   "who": "Claude",
+   "what": "Builder A shift 110 (in progress): relay hosting plan, PORT env var, Dockerfile, probe tool, avatar ids in data; suite running"
+  },
   {
    "sha": "d0ca2b7",
    "time_utc": "2026-11-12 07:46",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-11 21:02",
    "who": "Claude",
    "what": "Builder B: verify online lobby shows each player's own avatar (two browsers); queue empty"
-  },
-  {
-   "sha": "fa5117e",
-   "time_utc": "2026-11-11 20:19",
-   "who": "Claude",
-   "what": "Builder A shift 104: nothing queued"
   }
  ]
 }
