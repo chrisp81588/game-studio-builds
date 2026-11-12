@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 17:56",
+ "generated_utc": "2026-11-12 18:16",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "9a7f4c6",
+   "time_utc": "2026-11-12 18:07",
+   "who": "Claude",
+   "what": "Builder C next: re-shoot store screenshots with fair numbers, fix the remaining haze (lead review)"
+  },
+  {
+   "sha": "40fd33a",
+   "time_utc": "2026-11-12 18:00",
+   "who": "Claude",
+   "what": "C4 done: store cover and five Full graphics screenshots (Builder C)"
+  },
   {
    "sha": "e8c67e6",
    "time_utc": "2026-11-12 17:48",
@@ -158,18 +170,6 @@
    "time_utc": "2026-11-12 07:46",
    "who": "Claude",
    "what": "Add uid for make_environment_pc.gd"
-  },
-  {
-   "sha": "14986b3",
-   "time_utc": "2026-11-12 07:46",
-   "who": "Claude",
-   "what": "Art upgrade C0d: HDRI sky in environment_pc.tres for Full graphics (Builder C)"
-  },
-  {
-   "sha": "248d757",
-   "time_utc": "2026-11-12 07:10",
-   "who": "Claude",
-   "what": "Builder B: lite Skirmish hub and Get the full game buttons (B3)"
   }
  ]
 }
