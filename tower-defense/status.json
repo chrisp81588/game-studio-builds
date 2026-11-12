@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 14:32",
+ "generated_utc": "2026-11-12 15:22",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "e2ea417",
+   "time_utc": "2026-11-12 15:16",
+   "who": "Claude",
+   "what": "Builder B: Settings > Online relay address with Test connection (B10)"
+  },
   {
    "sha": "c5693ed",
    "time_utc": "2026-11-12 14:25",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-12 03:40",
    "who": "Claude",
    "what": "Producer: 2026-11-12 03:33 (app-side items for A and B; CI outage noted; no bugs open)"
-  },
-  {
-   "sha": "e04877e",
-   "time_utc": "2026-11-12 03:11",
-   "who": "Claude",
-   "what": "Builder B: Play on PC / Android download buttons in Roadmap and Settings (B2)"
   }
  ]
 }
