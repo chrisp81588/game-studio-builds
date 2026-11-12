@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 11:24",
+ "generated_utc": "2026-11-12 12:05",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "4fee440",
+   "time_utc": "2026-11-12 11:55",
+   "who": "Claude",
+   "what": "C1: tune Full graphics (PC); faction exposure is relative (Builder C)"
+  },
+  {
+   "sha": "5b16d88",
+   "time_utc": "2026-11-12 11:54",
+   "who": "Claude",
+   "what": "Builder C next: fix the washed-out haze in Full graphics and make the ground texture read (lead review)"
+  },
   {
    "sha": "0c0eec8",
    "time_utc": "2026-11-12 11:14",
@@ -170,18 +182,6 @@
    "time_utc": "2026-11-12 00:43",
    "who": "Claude",
    "what": "Builder A shift 106: A1 done (release latest-windows verified)"
-  },
-  {
-   "sha": "74f04ef",
-   "time_utc": "2026-11-12 00:33",
-   "who": "Claude",
-   "what": "Playtest report: cloud 1 on 2026-11-12 (live build ok after CI fix; textured ground hard to see)"
-  },
-  {
-   "sha": "9aa0842",
-   "time_utc": "2026-11-12 00:26",
-   "who": "Claude",
-   "what": "Art upgrade C0a: textured ground (Builder C)"
   }
  ]
 }
