@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 13:54",
+ "generated_utc": "2026-11-12 14:32",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "c5693ed",
+   "time_utc": "2026-11-12 14:25",
+   "who": "Claude",
+   "what": "Builder A shift 113: Windows exe icon, name and version, Steam template, stable Android signing key and version code (A9), README, plan, logs"
+  },
   {
    "sha": "f2d5ead",
    "time_utc": "2026-11-12 13:47",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-12 03:11",
    "who": "Claude",
    "what": "Builder B: Play on PC / Android download buttons in Roadmap and Settings (B2)"
-  },
-  {
-   "sha": "c228d70",
-   "time_utc": "2026-11-12 02:29",
-   "who": "Claude",
-   "what": "Builder A shift 107: A2 done (release latest-android verified)"
   }
  ]
 }
