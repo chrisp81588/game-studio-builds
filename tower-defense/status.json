@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 15:44",
+ "generated_utc": "2026-11-12 16:34",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "d92b392",
+   "time_utc": "2026-11-12 16:25",
+   "who": "Claude",
+   "what": "Builder A shift 114: tutorial refresh (range circle, King heal, talent pick) with a test that every step points at something real (A12), README, plan, logs"
+  },
+  {
+   "sha": "9b57f32",
+   "time_utc": "2026-11-12 16:17",
+   "who": "Claude",
+   "what": "look_compare: allow later rounds (tick guard 3M) for store shots"
+  },
   {
    "sha": "123f28d",
    "time_utc": "2026-11-12 15:35",
@@ -170,18 +182,6 @@
    "time_utc": "2026-11-12 05:16",
    "who": "Claude",
    "what": "Builder B: phone app pass (dp-based phone layout, safe-area insets on native mobile); tablet sizes checked (B5)"
-  },
-  {
-   "sha": "6daef98",
-   "time_utc": "2026-11-12 04:19",
-   "who": "Claude",
-   "what": "Builder A shift 108: itch.io and Game Jolt publish steps (skipped without secrets), README, plan, logs"
-  },
-  {
-   "sha": "f0a4f87",
-   "time_utc": "2026-11-12 03:58",
-   "who": "Claude",
-   "what": "Art upgrade C0c part 1: stone masonry on tower surfaces (Builder C)"
   }
  ]
 }
