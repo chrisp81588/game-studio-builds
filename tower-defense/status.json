@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-12 20:05",
- "build": "4618bc9",
+ "generated_utc": "2026-11-12 20:32",
+ "build": "535785e",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,18 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-4.md",
  "commits": [
+  {
+   "sha": "535785e",
+   "time_utc": "2026-11-12 20:25",
+   "who": "Claude",
+   "what": "Builder A shift 116: Play Store bundle workflow (A10), README, logs"
+  },
+  {
+   "sha": "fbb6a50",
+   "time_utc": "2026-11-12 20:20",
+   "who": "Claude",
+   "what": "Builder A shift 116 (in progress): Android AAB export preset, ignore the generated Gradle template"
+  },
   {
    "sha": "4618bc9",
    "time_utc": "2026-11-12 19:55",
@@ -160,18 +172,6 @@
    "time_utc": "2026-11-12 10:28",
    "who": "Claude",
    "what": "Builder A shift 111: profile export and import text (queue item A8), README, plan, logs"
-  },
-  {
-   "sha": "d4f48b1",
-   "time_utc": "2026-11-12 10:19",
-   "who": "Claude",
-   "what": "Builder A shift 111 (in progress): profile export and import text (A8), tests running"
-  },
-  {
-   "sha": "7a887de",
-   "time_utc": "2026-11-12 09:54",
-   "who": "Claude",
-   "what": "Art upgrade C0e: Harpy becomes the Quaternius bat; free art pass done (Builder C)"
   }
  ]
 }
