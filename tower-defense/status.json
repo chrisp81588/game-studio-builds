@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 06:45",
+ "generated_utc": "2026-11-12 07:16",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-2.md",
  "commits": [
+  {
+   "sha": "248d757",
+   "time_utc": "2026-11-12 07:10",
+   "who": "Claude",
+   "what": "Builder B: lite Skirmish hub and Get the full game buttons (B3)"
+  },
   {
    "sha": "089d9b7",
    "time_utc": "2026-11-12 06:34",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-11 18:19",
    "who": "Claude",
    "what": "Builder A shift 103: nothing queued"
-  },
-  {
-   "sha": "66b0ab3",
-   "time_utc": "2026-11-11 17:49",
-   "who": "Claude",
-   "what": "Menu restore after a match, seen (Builder C item 42)"
   }
  ]
 }
