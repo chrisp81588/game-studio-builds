@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-12 12:40",
+ "generated_utc": "2026-11-12 13:22",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
   "windows_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-windows",
@@ -9,6 +9,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-12-cloud-3.md",
  "commits": [
+  {
+   "sha": "768f6ad",
+   "time_utc": "2026-11-12 13:12",
+   "who": "Claude",
+   "what": "Builder B: tray edge taps count (16 px slop); bigger phone HP text and gems (B9)"
+  },
   {
    "sha": "eac1fcc",
    "time_utc": "2026-11-12 12:32",
@@ -176,12 +182,6 @@
    "time_utc": "2026-11-12 02:25",
    "who": "Claude",
    "what": "Builder A shift 107: Android debug APK from CI (export preset, separate android.yml workflow, release latest-android, status.json link)"
-  },
-  {
-   "sha": "20ff43b",
-   "time_utc": "2026-11-12 02:02",
-   "who": "Claude",
-   "what": "Art upgrade C0b part 2: small ground props per faction (Builder C)"
   }
  ]
 }
