@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-13 00:05",
- "build": "19b1cdf",
+ "generated_utc": "2026-11-13 00:50",
+ "build": "a782747",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -9,8 +9,20 @@
   "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
  },
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
- "latest_report": "2026-11-12-cloud-4.md",
+ "latest_report": "2026-11-13-cloud-1.md",
  "commits": [
+  {
+   "sha": "a782747",
+   "time_utc": "2026-11-13 00:39",
+   "who": "Claude",
+   "what": "Builder A shift 118: Wildkin lead measured over six island seed sets (pooled spread 0.25), no trim; README, log"
+  },
+  {
+   "sha": "3ceb4d4",
+   "time_utc": "2026-11-13 00:33",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-13 (What's new popup; typing works; damaged-code error message wrong)"
+  },
   {
    "sha": "19b1cdf",
    "time_utc": "2026-11-12 23:55",
@@ -166,18 +178,6 @@
    "time_utc": "2026-11-12 15:16",
    "who": "Claude",
    "what": "Builder B: Settings > Online relay address with Test connection (B10)"
-  },
-  {
-   "sha": "c5693ed",
-   "time_utc": "2026-11-12 14:25",
-   "who": "Claude",
-   "what": "Builder A shift 113: Windows exe icon, name and version, Steam template, stable Android signing key and version code (A9), README, plan, logs"
-  },
-  {
-   "sha": "f2d5ead",
-   "time_utc": "2026-11-12 13:47",
-   "who": "Claude",
-   "what": "Logs for shift 59 (keep color)"
   }
  ]
 }
