@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-13 01:23",
- "build": "46e9c9c",
+ "generated_utc": "2026-11-13 02:05",
+ "build": "7988592",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-13-cloud-1.md",
  "commits": [
+  {
+   "sha": "7988592",
+   "time_utc": "2026-11-13 01:56",
+   "who": "Claude",
+   "what": "C8: rally, tower damage and tower speed get distinct effects (Builder C)"
+  },
   {
    "sha": "46e9c9c",
    "time_utc": "2026-11-13 01:13",
@@ -172,12 +178,6 @@
    "time_utc": "2026-11-12 16:17",
    "who": "Claude",
    "what": "look_compare: allow later rounds (tick guard 3M) for store shots"
-  },
-  {
-   "sha": "123f28d",
-   "time_utc": "2026-11-12 15:35",
-   "who": "Claude",
-   "what": "Producer: 2026-11-12 15:33 (store bundle, alpha check, tutorial refresh, price cue, what's new, store art queued)"
   }
  ]
 }
