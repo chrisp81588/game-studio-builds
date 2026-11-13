@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-13 02:33",
- "build": "eb2e034",
+ "generated_utc": "2026-11-13 05:10",
+ "build": "40b9ac1",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-13-cloud-1.md",
  "commits": [
+  {
+   "sha": "40b9ac1",
+   "time_utc": "2026-11-13 05:03",
+   "who": "Claude",
+   "what": "Builder B shift 101: drop menu-side damaged-code swap (sim handles it since Builder A shift 119)"
+  },
   {
    "sha": "eb2e034",
    "time_utc": "2026-11-13 02:23",
@@ -172,12 +178,6 @@
    "time_utc": "2026-11-12 17:18",
    "who": "Claude",
    "what": "C4 partial: store cover and first Full graphics screenshot (Builder C)"
-  },
-  {
-   "sha": "d92b392",
-   "time_utc": "2026-11-12 16:25",
-   "who": "Claude",
-   "what": "Builder A shift 114: tutorial refresh (range circle, King heal, talent pick) with a test that every step points at something real (A12), README, plan, logs"
   }
  ]
 }
