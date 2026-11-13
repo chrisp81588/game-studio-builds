@@ -2,12 +2,19 @@
 <html lang="en">
 	<head>
 		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, viewport-fit=cover">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 		<title>Tower Defense (prototype)</title>
 		<style>
 html, body, #canvas { margin: 0; padding: 0; border: 0; }
+/* iPhone Safari (Chris, 2026-11-13): toolbars showing/hiding left the page
+   scrolled, so the game sat lower than the screen and its bottom row was cut
+   off. Pin the page and the canvas to the visible viewport. */
+html, body { width: 100%; height: 100%; height: 100dvh; overflow: hidden; position: fixed; inset: 0; overscroll-behavior: none; }
 body { color: #f1e6c8; background: #14182a; overflow: hidden; touch-action: none; font-family: "Trebuchet MS", "Segoe UI", sans-serif; }
-#canvas { display: block; }
+#canvas { display: block; position: fixed; top: 0; left: 0; }
 #canvas:focus { outline: none; }
 /* Queue item 38: the game's own loading screen (crest, real progress, tips, Retry on a stall). */
 #status { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
@@ -50,9 +57,24 @@ body { color: #f1e6c8; background: #14182a; overflow: hidden; touch-action: none
 		</div>
 		<script src="index.js"></script>
 		<script>
-const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":24952360,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":24952328,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
 const GODOT_THREADS_ENABLED = false;
 const engine = new Engine(GODOT_CONFIG);
+
+// iPhone Safari: re-pin and re-measure whenever the visible area changes
+// (toolbars, rotation), so the canvas always fills exactly what is visible.
+(function () {
+	function pin() {
+		window.scrollTo(0, 0);
+		window.dispatchEvent(new Event('resize'));
+	}
+	if (window.visualViewport) {
+		window.visualViewport.addEventListener('resize', () => { window.scrollTo(0, 0); });
+		window.visualViewport.addEventListener('scroll', () => { window.scrollTo(0, 0); });
+	}
+	window.addEventListener('orientationchange', () => { setTimeout(pin, 300); setTimeout(pin, 900); });
+	document.addEventListener('touchmove', (e) => { if (e.target === document.body) { e.preventDefault(); } }, { passive: false });
+})();
 
 (function () {
 	const statusOverlay = document.getElementById('status');

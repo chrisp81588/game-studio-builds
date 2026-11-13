@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-13 12:29",
- "build": "7b2b1d7",
+ "generated_utc": "2026-11-13 13:50",
+ "build": "c849e7a",
  "data_version": "9d6b2a4412d8",
  "downloads": {
   "windows": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-windows/TowerDefense-windows.zip",
@@ -11,6 +11,12 @@
  "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
  "latest_report": "2026-11-13-cloud-1.md",
  "commits": [
+  {
+   "sha": "c849e7a",
+   "time_utc": "2026-11-13 13:43",
+   "who": "Claude",
+   "what": "iPhone browser: pin the page and canvas to the visible screen so the bottom row is never cut off"
+  },
   {
    "sha": "7b2b1d7",
    "time_utc": "2026-11-13 12:20",
