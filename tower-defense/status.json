@@ -1,0 +1,183 @@
+{
+ "generated_utc": "2026-11-21 13:24",
+ "published_by": "publish_local.sh (studio session, no Actions minutes)",
+ "build": "a3f35284",
+ "data_version": "9d6b2a4412d8",
+ "downloads": {
+  "windows": "https://chrisp81588.github.io/game-studio-builds/tower-defense/download/TowerDefense-windows.zip",
+  "android": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-android/TowerDefense-debug.apk",
+  "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
+ },
+ "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
+ "latest_report": "2026-11-21-cloud-3.md",
+ "commits": [
+  {
+   "sha": "a3f35284",
+   "time_utc": "2026-11-21 12:47",
+   "who": "Claude",
+   "what": "Builder B shift 143: match save in its own IndexedDB store (Godot's sync rolled it back a round), saved-ago on the Resume card"
+  },
+  {
+   "sha": "636e287e",
+   "time_utc": "2026-11-21 12:33",
+   "who": "Claude",
+   "what": "Playtest report: cloud 3 on 2026-11-21 (resume prompt added, towers kept; still restores one round behind my reload)"
+  },
+  {
+   "sha": "02a69991",
+   "time_utc": "2026-11-21 10:01",
+   "who": "Claude",
+   "what": "Builder C shift 83: C18 verified on the live build (fresh browser, Low: 21.9 MB textures, 26.3 MB buffers)"
+  },
+  {
+   "sha": "c3a4375e",
+   "time_utc": "2026-11-21 09:34",
+   "who": "Claude",
+   "what": "Producer: 2026-11-21 09:33 (110 MB web leak fixed; mid-round resume live)"
+  },
+  {
+   "sha": "15c4371c",
+   "time_utc": "2026-11-21 09:22",
+   "who": "Claude",
+   "what": "Builder A shift 161: published build f51c73ee with tools/publish_local.sh"
+  },
+  {
+   "sha": "f51c73ee",
+   "time_utc": "2026-11-21 08:18",
+   "who": "Claude",
+   "what": "Builder C shift 82: C18 fixed, baked portraits stop the 110 MB web buffer leak"
+  },
+  {
+   "sha": "470167f2",
+   "time_utc": "2026-11-21 07:22",
+   "who": "Claude",
+   "what": "Builder A shift 159: published build e17dea85 with tools/publish_local.sh"
+  },
+  {
+   "sha": "5a573878",
+   "time_utc": "2026-11-21 07:17",
+   "who": "Claude",
+   "what": "Builder C shift 81: C18 narrowed (web buffers live in loaded resources), ?memprobe"
+  },
+  {
+   "sha": "f9b7bbbb",
+   "time_utc": "2026-11-21 07:09",
+   "who": "Claude",
+   "what": "Builder B shift 137: resume keeps mid-round actions (action and page-hide saves), tap to carry on, newest save wins in IndexedDB"
+  },
+  {
+   "sha": "50f16072",
+   "time_utc": "2026-11-21 06:34",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-21 (Resume works from the round-start save; mid-round on-hide save unverified)"
+  },
+  {
+   "sha": "ef09dfed",
+   "time_utc": "2026-11-21 06:23",
+   "who": "Claude",
+   "what": "Builder A shift 158: published build bad80dd6 with tools/publish_local.sh"
+  },
+  {
+   "sha": "bad80dd6",
+   "time_utc": "2026-11-21 06:12",
+   "who": "Claude",
+   "what": "Builder C shift 80: web memory check (C17), ?memlog hook; 160 MB web buffer lead (C18)"
+  },
+  {
+   "sha": "4bfccd9c",
+   "time_utc": "2026-11-21 05:24",
+   "who": "Claude",
+   "what": "Builder A shift 157: published build c3f3b60e with tools/publish_local.sh"
+  },
+  {
+   "sha": "c3f3b60e",
+   "time_utc": "2026-11-21 05:10",
+   "who": "Claude",
+   "what": "Builder C shift 79: phone memory part 2 (C16), Low drops MSAA and glow"
+  },
+  {
+   "sha": "77c28469",
+   "time_utc": "2026-11-21 05:00",
+   "who": "Claude",
+   "what": "Builder C shift 78: phone texture memory (C15), KayKit textures GPU-compressed at 256 px"
+  },
+  {
+   "sha": "4489dce2",
+   "time_utc": "2026-11-21 03:34",
+   "who": "Claude",
+   "what": "Producer: 2026-11-21 03:33 (match autosave and resume live for Chris's iPhone crash; hourly cadence noted)"
+  },
+  {
+   "sha": "5692d8e7",
+   "time_utc": "2026-11-21 02:18",
+   "who": "Claude",
+   "what": "Builder A shift 154: live build current; resume verified live by Builder B"
+  },
+  {
+   "sha": "1c9fa6e7",
+   "time_utc": "2026-11-21 01:43",
+   "who": "Claude",
+   "what": "Builder B shift 132: resume checked on the live site (kill and reload), README, log"
+  },
+  {
+   "sha": "2e36de14",
+   "time_utc": "2026-11-21 01:24",
+   "who": "Claude",
+   "what": "Builder A shift 153: published build 27df705d (match autosave and resume live)"
+  },
+  {
+   "sha": "86a5fdc6",
+   "time_utc": "2026-11-21 00:33",
+   "who": "Claude",
+   "what": "Playtest report: cloud 1 on 2026-11-21 (no Resume card after reload in round 1; probably not wired yet)"
+  },
+  {
+   "sha": "51f55578",
+   "time_utc": "2026-11-21 00:29",
+   "who": "Claude",
+   "what": "Builder B shift 130: B-R1 part 2, match autosave and resume wired (restoring card, redraw, clear on exit); WebPersist writes saves straight to IndexedDB"
+  },
+  {
+   "sha": "88956e78",
+   "time_utc": "2026-11-21 00:23",
+   "who": "Claude",
+   "what": "Builder A shift 152: published build 891031c5 with tools/publish_local.sh"
+  },
+  {
+   "sha": "891031c5",
+   "time_utc": "2026-11-20 23:58",
+   "who": "Claude",
+   "what": "Hand-off for B-R: resumed match view = setup + rebuild_from_state (Builder C)"
+  },
+  {
+   "sha": "2eae98f1",
+   "time_utc": "2026-11-20 23:33",
+   "who": "Claude",
+   "what": "Builder A shift 151: match autosave and resume, sim side (A-R1, A-R2): MatchSave, autosave hook, DataLoader.resume_sim, test_match_save; README hand-off for Builder B"
+  },
+  {
+   "sha": "35cb6c29",
+   "time_utc": "2026-11-20 23:01",
+   "who": "Claude",
+   "what": "Builder B shift 129: B-R1 part 1, hub Resume/Abandon card for user://match_resume.json; profile reload checked"
+  },
+  {
+   "sha": "dd0f38c7",
+   "time_utc": "2026-11-20 22:31",
+   "who": "Claude",
+   "what": "Phones: 2x pixel cap, 30 fps, one-time Low graphics (Chris: page reloaded mid-match, phone warm); queue match autosave + resume at the top of A and B"
+  },
+  {
+   "sha": "c6e2bdcd",
+   "time_utc": "2026-11-20 22:22",
+   "who": "Claude",
+   "what": "Melee towers show their swing: tower thumps, shockwave rolls out to full reach, ground flash and dust (Hammer Bastion, Fang Pit; Chris)"
+  },
+  {
+   "sha": "33f62372",
+   "time_utc": "2026-11-20 22:08",
+   "who": "Claude",
+   "what": "Match stat box: every player's income per round and King HP %, top right, tap to fold (Chris)"
+  }
+ ]
+}

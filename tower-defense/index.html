@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, viewport-fit=cover">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+		<meta name="apple-mobile-web-app-title" content="Tower Defense">
+		<title>Tower Defense (prototype)</title>
+		<style>
+html, body, #canvas { margin: 0; padding: 0; border: 0; }
+/* iPhone Safari (Chris, 2026-11-13): toolbars showing/hiding left the page
+   scrolled, so the game sat lower than the screen and its bottom row was cut
+   off. Pin the page and the canvas to the visible viewport. */
+html, body { width: 100%; height: 100%; height: 100dvh; overflow: hidden; position: fixed; inset: 0; overscroll-behavior: none; }
+body { color: #f1e6c8; background: #14182a; overflow: hidden; touch-action: none; font-family: "Trebuchet MS", "Segoe UI", sans-serif; }
+#canvas { display: block; position: fixed; top: 0; left: 0; }
+#canvas:focus { outline: none; }
+/* Queue item 38: the game's own loading screen (crest, real progress, tips, Retry on a stall). */
+#status { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center;
+	background: radial-gradient(ellipse at 50% 40%, #2a3150 0%, #14182a 70%); visibility: hidden; z-index: 1; padding: 16px; box-sizing: border-box; }
+#crest { width: min(120px, 22vh); height: min(120px, 22vh); }
+#title { font-family: Georgia, "Times New Roman", serif; font-variant: small-caps; letter-spacing: 0.06em; color: #f2c14e;
+	font-size: min(48px, 9vh); margin: 1vh 0 0.5vh; text-shadow: 0 2px 6px #000a; text-align: center; }
+#sub { color: #b9b3a3; font-size: min(15px, 3.4vh); margin-bottom: 3vh; }
+#bar { width: min(460px, 80vw); height: 14px; border: 1px solid #c9a24a; border-radius: 8px; background: #0c0f1c; overflow: hidden; }
+#fill { height: 100%; width: 0%; background: linear-gradient(90deg, #c9a24a, #f2d27a); transition: width 0.25s; }
+#fill.unknown { width: 30%; animation: slide 1.4s ease-in-out infinite; }
+@keyframes slide { 0% { margin-left: -30%; } 100% { margin-left: 100%; } }
+#amount { font-size: min(14px, 3.2vh); color: #d8cfb6; margin-top: 1vh; min-height: 1.2em; }
+#tip { font-size: min(16px, 3.6vh); max-width: min(560px, 86vw); text-align: center; margin-top: 3vh; color: #e8dfc6; min-height: 2.6em; }
+#stall { display: none; flex-direction: column; align-items: center; margin-top: 2vh; }
+#stall p { margin: 0 0 1vh; color: #f0b44a; text-align: center; font-size: min(15px, 3.4vh); }
+#retry { font: inherit; font-size: 18px; color: #f2c14e; background: #1e2438; border: 1px solid #c9a24a; border-radius: 10px; padding: 10px 34px; cursor: pointer; }
+#status-notice { display: none; color: #f0b44a; text-align: center; margin-top: 2vh; max-width: 86vw; }
+</style>
+		<link id="-gd-engine-icon" rel="icon" type="image/png" href="index.icon.png" />
+<link rel="apple-touch-icon" href="index.apple-touch-icon.png"/>
+<link rel="manifest" href="index.manifest.json">
+
+	</head>
+	<body>
+		<canvas id="canvas">Your browser does not support the canvas tag.</canvas>
+		<noscript>Your browser does not support JavaScript.</noscript>
+		<div id="status">
+			<svg id="crest" viewBox="0 0 100 100" aria-hidden="true">
+				<path d="M50 6 L88 20 L84 58 Q78 82 50 95 Q22 82 16 58 L12 20 Z" fill="#1e2438" stroke="#c9a24a" stroke-width="4"/>
+				<path d="M33 66 V42 H38 V36 H44 V42 H48 V30 H52 V42 H56 V36 H62 V42 H67 V66 Z" fill="#f2c14e"/>
+				<rect x="46" y="54" width="8" height="12" rx="4" fill="#1e2438"/>
+			</svg>
+			<div id="title">Tower Defense</div>
+			<div id="sub">a game by Chris Platt</div>
+			<div id="bar"><div id="fill" class="unknown"></div></div>
+			<div id="amount">Loading...</div>
+			<div id="tip"></div>
+			<div id="stall"><p>Loading has stopped for a while. Your connection may have dropped.</p><button id="retry" onclick="window.location.reload()">Retry</button></div>
+			<div id="status-notice"></div>
+		</div>
+		<script src="index.js"></script>
+		<script>
+// Phones (Chris 2026-11-20: the page closed and reloaded mid-match, phone got
+// warm): iPhones report 3 device pixels per CSS pixel, so the game drew ~9x the
+// pixels of the CSS size. Cap at 2: about 55% fewer pixels, far less GPU memory
+// and heat, still sharp on a phone.
+(function () {
+	try {
+		const real = window.devicePixelRatio || 1;
+		if (real > 2) {
+			Object.defineProperty(window, 'devicePixelRatio', { get: () => 2, configurable: true });
+		}
+	} catch (e) { /* keep the real ratio */ }
+})();
+const GODOT_CONFIG = {"args":[],"canvasResizePolicy":2,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":27693776,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4,"serviceWorker":"index.service.worker.js"};
+const GODOT_THREADS_ENABLED = false;
+const engine = new Engine(GODOT_CONFIG);
+
+// iPhone Safari: re-pin and re-measure whenever the visible area changes
+// (toolbars, rotation), so the canvas always fills exactly what is visible.
+(function () {
+	function pin() {
+		window.scrollTo(0, 0);
+		window.dispatchEvent(new Event('resize'));
+	}
+	if (window.visualViewport) {
+		window.visualViewport.addEventListener('resize', () => { window.scrollTo(0, 0); });
+		window.visualViewport.addEventListener('scroll', () => { window.scrollTo(0, 0); });
+	}
+	window.addEventListener('orientationchange', () => { setTimeout(pin, 300); setTimeout(pin, 900); });
+	document.addEventListener('touchmove', (e) => { if (e.target === document.body) { e.preventDefault(); } }, { passive: false });
+})();
+
+(function () {
+	const statusOverlay = document.getElementById('status');
+	const fill = document.getElementById('fill');
+	const amount = document.getElementById('amount');
+	const tip = document.getElementById('tip');
+	const stall = document.getElementById('stall');
+	const statusNotice = document.getElementById('status-notice');
+	const TIPS = [
+		'Sending units also raises your income for the rest of the match.',
+		'Each armor type takes more damage from one damage type. Mix your towers.',
+		'Your legendary levels up in a match and picks a talent at levels 2, 4 and 6.',
+		'Tap a tower to see its range and its two upgrade paths.',
+		'King spells cost gold, not mana. Mend Walls can save a close round.',
+		'Undo a tower in the same build phase for a full refund.',
+	];
+	let tipAt = Math.floor(Math.random() * TIPS.length);
+	tip.textContent = 'Tip: ' + TIPS[tipAt];
+	const tipTimer = setInterval(() => { tipAt = (tipAt + 1) % TIPS.length; tip.textContent = 'Tip: ' + TIPS[tipAt]; }, 4500);
+	// Retry when nothing has arrived for 20 s (?stalltest shortens it to 6 s for screenshots).
+	const STALL_MS = window.location.search.includes('stalltest') ? 6000 : 20000;
+	let lastBytes = -1;
+	let lastChange = Date.now();
+	let done = false;
+	const stallTimer = setInterval(() => {
+		if (!done && Date.now() - lastChange > STALL_MS) { stall.style.display = 'flex'; }
+	}, 500);
+	statusOverlay.style.visibility = 'visible';
+
+	function finish() {
+		done = true;
+		clearInterval(stallTimer);
+		clearInterval(tipTimer);
+		statusOverlay.remove();
+	}
+
+	function displayFailureNotice(err) {
+		console.error(err);
+		statusNotice.textContent = (err instanceof Error) ? err.message : (typeof err === 'string' ? err : 'An unknown error occurred.');
+		statusNotice.style.display = 'block';
+		stall.style.display = 'flex';
+		done = true;
+	}
+
+	const missing = Engine.getMissingFeatures({ threads: GODOT_THREADS_ENABLED });
+	if (missing.length !== 0) {
+		if (GODOT_CONFIG['serviceWorker'] && GODOT_CONFIG['ensureCrossOriginIsolationHeaders'] && 'serviceWorker' in navigator) {
+			let reg;
+			try { reg = navigator.serviceWorker.getRegistration(); } catch (err) { reg = Promise.reject(new Error('Service worker registration failed.')); }
+			Promise.race([
+				reg.then((r) => (r != null ? Promise.reject(new Error('Service worker already exists.')) : r)).then(() => engine.installServiceWorker()),
+				new Promise((resolve) => { setTimeout(() => resolve(), 2000); }),
+			]).then(() => { window.location.reload(); }).catch((err) => { console.error('Error while registering service worker:', err); });
+		} else {
+			displayFailureNotice('This browser is missing something the game needs:\n' + missing.join('\n'));
+		}
+	} else {
+		engine.startGame({
+			'onProgress': function (current, total) {
+				if (current !== lastBytes) { lastBytes = current; lastChange = Date.now(); stall.style.display = 'none'; }
+				const mb = (current / 1048576).toFixed(1);
+				if (current > 0 && total > 0) {
+					fill.classList.remove('unknown');
+					const pct = Math.min(100, Math.floor(current * 100 / total));
+					fill.style.width = pct + '%';
+					amount.textContent = pct + '%  ·  ' + mb + ' of ' + (total / 1048576).toFixed(0) + ' MB';
+				} else {
+					fill.classList.add('unknown');
+					amount.textContent = current > 0 ? mb + ' MB loaded' : 'Loading...';
+				}
+			},
+		}).then(finish, displayFailureNotice);
+	}
+}());
+		</script>
+	</body>
+</html>
+
