@@ -1,0 +1,165 @@
+{
+ "generated_utc": "2026-11-28 18:27",
+ "published_by": "publish_local.sh (studio session, no Actions minutes)",
+ "build": "109b09c0",
+ "data_version": "d5ea77479b4b",
+ "downloads": {
+  "windows": "https://chrisp81588.github.io/game-studio-builds/tower-defense/download/TowerDefense-windows.zip",
+  "android": "https://github.com/chrisp81588/game-studio-builds/releases/download/latest-android/TowerDefense-debug.apk",
+  "android_page": "https://github.com/chrisp81588/game-studio-builds/releases/tag/latest-android"
+ },
+ "stage": "**M7 (the professional look): all six stages have a first pass in.** A\u2013C world/outlines/effects (lead), D theme, E mobile, F menus with a hero showcase and match setup (Builder). Play it: https://chrisp81588.github.io/game-studio-builds/ . Next: polish from what Chris says on his phone; card icons; the ghost tower. Before/after shots: `reports/look/`. Build shifts run every 2 hours.",
+ "latest_report": "2026-11-28-cloud-3.md",
+ "commits": [
+  {
+   "sha": "109b09c0",
+   "time_utc": "2026-11-28 17:43",
+   "who": "Claude",
+   "what": "Builder C shift 159: README, queue, logs for PERF-1 part 2"
+  },
+  {
+   "sha": "5de09be3",
+   "time_utc": "2026-11-28 17:41",
+   "who": "Claude",
+   "what": "Builder C shift 159: PERF-1: cap dying unit bodies on phones"
+  },
+  {
+   "sha": "c77ac0e9",
+   "time_utc": "2026-11-28 16:34",
+   "who": "Claude",
+   "what": "AU-B23: faction pick cards with island art, plays-like tag, plan, signature"
+  },
+  {
+   "sha": "946b9dc7",
+   "time_utc": "2026-11-28 15:38",
+   "who": "Claude",
+   "what": "Check-in: quiet shift, published a2bc35aa, 1987 checks green"
+  },
+  {
+   "sha": "20e7ed2e",
+   "time_utc": "2026-11-28 15:35",
+   "who": "Claude",
+   "what": "Producer: 2026-11-28 15:33 (MEM-1 passes; phone draw calls 2x budget, C on PERF)"
+  },
+  {
+   "sha": "a2bc35aa",
+   "time_utc": "2026-11-28 14:50",
+   "who": "Claude",
+   "what": "Restore tests/*.uid removed by mistake in shift 158"
+  },
+  {
+   "sha": "e6e0a757",
+   "time_utc": "2026-11-28 14:50",
+   "who": "Claude",
+   "what": "Builder C shift 158: PERF-1/2 part 1: cap per-event effects on phones"
+  },
+  {
+   "sha": "145d0954",
+   "time_utc": "2026-11-28 13:29",
+   "who": "Claude",
+   "what": "AU-B32 part 3: talent pick sized for real phones"
+  },
+  {
+   "sha": "698fa0ed",
+   "time_utc": "2026-11-28 12:34",
+   "who": "Claude",
+   "what": "Sweep 8 and Fork: numbers stand, Fork 0.52 and lane spacing tests logged; published 76d47c02"
+  },
+  {
+   "sha": "63f48c1c",
+   "time_utc": "2026-11-28 12:31",
+   "who": "Claude",
+   "what": "Playtest report: cloud 3 on 2026-11-28 (only memory and perf work; no browser run)"
+  },
+  {
+   "sha": "76d47c02",
+   "time_utc": "2026-11-28 11:34",
+   "who": "Claude",
+   "what": "Builder C shift 157: PERF-1 baseline (580 draw calls on a phone), PERF-3 cheap sea and no hub patrol on Low"
+  },
+  {
+   "sha": "bb74d391",
+   "time_utc": "2026-11-28 10:42",
+   "who": "Claude",
+   "what": "MEM-1: phone end-screen title 34 pt without shadow outline (-3.5 MB)"
+  },
+  {
+   "sha": "a71bd386",
+   "time_utc": "2026-11-28 09:39",
+   "who": "Claude",
+   "what": "Check-in: alpha gate dry run, relay auto-deploys (correction), published a59c9581"
+  },
+  {
+   "sha": "0c673fbc",
+   "time_utc": "2026-11-28 09:34",
+   "who": "Claude",
+   "what": "Producer: 2026-11-28 09:33 (resume fuzz caught a real bug; end screen 82 MB; quiet otherwise)"
+  },
+  {
+   "sha": "a59c9581",
+   "time_utc": "2026-11-28 08:26",
+   "who": "Claude",
+   "what": "Builder C shift 156: tester 11/28-2 green streaks: pad glow without per-instance colors"
+  },
+  {
+   "sha": "7bdaa572",
+   "time_utc": "2026-11-28 07:37",
+   "who": "Claude",
+   "what": "Tester 11/28-2 Low 2: price rises float above the tray tabs, off the icons"
+  },
+  {
+   "sha": "11b55273",
+   "time_utc": "2026-11-28 06:59",
+   "who": "Claude",
+   "what": "AU-A28 resume fuzz; fix: a resumed match keeps the legendary's link to the player's card mods; fuzz in the alpha gate"
+  },
+  {
+   "sha": "6e33ee9c",
+   "time_utc": "2026-11-28 06:33",
+   "who": "Claude",
+   "what": "Playtest report: cloud 2 on 2026-11-28 (GATE sign and dark shortcut live and clear; brief green streak VFX)"
+  },
+  {
+   "sha": "63ede8dc",
+   "time_utc": "2026-11-28 05:34",
+   "who": "Claude",
+   "what": "Builder C shift 155: MEM-1 islands release match assets when the match ends"
+  },
+  {
+   "sha": "f2478c43",
+   "time_utc": "2026-11-28 04:36",
+   "who": "Claude",
+   "what": "AU-B32 part 2: pause menu sized for real phones; popup checked at 3x"
+  },
+  {
+   "sha": "e1189294",
+   "time_utc": "2026-11-28 03:42",
+   "who": "Claude",
+   "what": "Sweep 7: spread 0.31, top cards unchanged; published 9d96e271"
+  },
+  {
+   "sha": "03114f9f",
+   "time_utc": "2026-11-28 03:35",
+   "who": "Claude",
+   "what": "Producer: 2026-11-28 03:33 (iPhone memory flat in play at 77 MB; Two Roads gate done; A out of scope)"
+  },
+  {
+   "sha": "9d96e271",
+   "time_utc": "2026-11-28 02:27",
+   "who": "Claude",
+   "what": "Builder C shift 154: AU-C48 own icons for the 30 cards on the plain gem"
+  },
+  {
+   "sha": "733f280d",
+   "time_utc": "2026-11-28 01:40",
+   "who": "Claude",
+   "what": "MEM-1: the late +8 MB is the end screen; in-match peak 76.9 MB on a 2x phone"
+  },
+  {
+   "sha": "7bf669cf",
+   "time_utc": "2026-11-28 01:34",
+   "who": "Claude",
+   "what": "MEM-1 HUD hunt: ?memlog HUD census on texture jumps; ?demo=cards&cardround=N"
+  }
+ ]
+}
